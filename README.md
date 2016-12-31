@@ -5,6 +5,10 @@ This playbook describes how we work, how we build software and how we run our co
 
 Everyone in Magrathea can edit this playbook by simply opening a MR with the desired modifications. In this way, we can discuss all modifications through the MR and keep the discussion archived for future references.
 
+* [Planning](#planning)
+* [Developing](#developing)
+* [General Guidelines](#general-guidelines)
+
 Planning
 --------
 
