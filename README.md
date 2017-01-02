@@ -16,13 +16,16 @@ Planning
   * PRDs should follow the [PRD template](https://docs.google.com/document/d/1IU_-NaHIaXniNpa-qpl_55tIdeLmi5TYVDpbrSTc-jk/edit).
   * Project's contract should follow the [contract template](https://docs.google.com/document/d/1Xhk0-s2k5ONhC2Z8gpXpPzlFagnDH7Y7D208jq-D69U/edit).
 * Tasks are created and managed on [Trello](https://trello.com/):
-  * Each project has its own board.
+  * Each project has its own board with "Done", "Current" and milestone lists.
+  * Each project's milestone has its own list of tasks:
+     * Every list should have a special task with the milestone's due date and "milestone" label, so we can see it in the calendar.
   * Tasks are estimated using the Finobacci sequence:
-    * 1 point: 1/4 day of work;
-    * 2 points: 1/2 day of work;
-    * 3 points: 1 day of work;
-    * 5 points: 2~3 days of work (should be splitted into smaller tasks);
-    * 8 points: 1 week of work (should be splitted into smaller tasks).
+     * 0 points: trivial (~10 minutes);     
+     * 1 point: 1/4 day of work;
+     * 2 points: 1/2 day of work;
+     * 3 points: 1 day of work;
+     * 5 points: 2~3 days of work (should be splitted into smaller tasks);
+     * 8 points: 1 week of work (should be splitted into smaller tasks).
 
 Developing
 ----------
