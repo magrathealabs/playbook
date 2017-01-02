@@ -36,7 +36,8 @@ Developing
   * Each task should have its own feature branch following a consistent name convention:
      * `feat/` for features.
      * `fix/` for bugfixes.
-     * `refactor/` for improvements / refactor.
+     * `refactor/` for improvements/refactor.
+     * `chore/` for random tasks.
   * Prefer creating small MRs (changing ~500 LOC at most).
 * Style:
   * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
