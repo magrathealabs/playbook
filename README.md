@@ -33,7 +33,10 @@ Developing
 * Best practices:
   * All code should be written in English.
 * Git:
-  * Each task should have its own feature branch.
+  * Each task should have its own feature branch following a consistent name convention:
+     * `feat/` for features.
+     * `fix/` for bugfixes.
+     * `refactor/` for improvements / refactor.
   * Prefer creating small MRs (changing ~500 LOC at most).
 * Style:
   * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
