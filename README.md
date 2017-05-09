@@ -52,7 +52,7 @@ We want to do this solving our customers challenging problems using technology i
 >
 > -- Dwight D. Eisenhower
 
-> [...] as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don't know we don't know [...]
+> [...] as we know, there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns - the ones we don't know we don't know [...]
 >
 > -- [Donald Rumsfeld](https://www.wikiwand.com/en/There_are_known_knowns)
 
@@ -94,20 +94,42 @@ Tasks are created and managed on [Trello](https://trello.com/):
 
 Most of our practices were detailed by Kent Beck in the *Extreme Programming Explained: Embrace Change* and in Uncle Bob's *Clean Code*. We have tried their practices and found that using most of them improves the quality of our work.
 
-Best practices:
+**Stories**
+We believe it's a matter of good documenting to register all steps of the way when making software. A good documentation allows software to be easily maintainable by other and even by ourselves when we deal with code that was made some time ago. 
+But to have a good documentation doesn't mean we will write long comments at the side of each line of code. And it doesn't mean we will have long messages in the commits explaining each little change that was made to the software. Therefore the documenting must be done at a right amount and in an organized manner.
+
+**Pivotal Tracker (PT)**
+This space is used to specify features and bugs (including all steps to reproduce them), and another discussion that must happen before coding.
+
+**Coding**
+All code must be understandable. That's a clean code principle in which we believe. We avoid commentaries in all cases, except when they are extremely necessary.
+
+**Commits**
+The commits messages should point out objectively what changes were made to the code using preferably bullet points. The messages should be clear and concise so that other programmers can look it up easily. More good practices about commit messages can be found at [tpope's blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+
+**Pull Requests**
+This space allows a bit more discussion between the developers and should include a link to the commits bullet points (the commit number).
+
+**WorkFlow:**
+* Take a task from pivotal tracker
+* Start a new git branch, each task should have it's own feature branch following a consistent name convention:
+   * `feature/` for features
+   * `fix/` for bug fixes
+   * `refactor/` for improvements/refactor
+   * `chore/` for random tasks
+* Start coding!
+* Commit changes when you finished
+* Make a Pull Request (PR)
+   * Prefer creating small PRs (changing ~500 LOC at most).
+* Clean up (erase created branches)
+
+At this point, pivotal tracker automatically changes the status of the task to an Accept/Reject instance that must be discussed with the client. After this stage, if the task is accepted we have a new code implementation. Otherwise, the task goes back to a start status with a description of why the task was rejected in the first place.
+
+**Best practices**
 
 * All code should be written in English.
 
-Git:
-
-* Each task should have its own feature branch following a consistent name convention:
-   * `feature/` for features.
-   * `fix/` for bugfixes.
-   * `refactor/` for improvements/refactor.
-   * `chore/` for random tasks.
-* Prefer creating small PRs (changing ~500 LOC at most).
-
-Style:
+**Style**
 
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [Elixir style guide](https://github.com/christopheradams/elixir_style_guide)
