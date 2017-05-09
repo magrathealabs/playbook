@@ -11,12 +11,40 @@ Everyone in Magrathea can edit this playbook by simply opening a PR (pull reques
 
 **Summary**
 
+* [Our Company](#markdown-header-our-company)
 * [Project and Planning](#markdown-header-projects-planning)
 * [Development](#markdown-header-development)
 * [Design](#markdown-header-design)
 * [General Guidelines](#markdown-header-general-guidelines)
-* [Our Company](#markdown-header-our-company)
+* [Operations](#operations)
 * [References](#markdown-header-references)
+
+## OUR COMPANY
+
+> [...] the future is already here — it’s just not very evenly distributed.
+> -- William Gibson
+
+We are here to help organizations improve their productivity and to prepare people for the future that is already here.
+
+We are passionate about the unknown and by solving problems with technology.
+
+We want to be recognized as the bests at solving problems using Artificial Intelligence and good Software Engineering practices. We know how to create minimal viable products and also complete solutions through a systemic vision and good business understanding. We know how to communicate and how to sell what our customers need.
+
+### PURPOSE
+
+Why Magrathea Labs exists?
+
+Our purpose is to *transform the future into the present*.
+
+We want to do this solving our customers challenging problems using technology in an effective and innovative way by designing and engineering software systems and data analysis using Artificial Intelligence.
+
+### PRINCIPLES
+
+*We care*. We don't say "I told you." We don't say "this is not my responsibility."
+
+*We are actively transparent*. We actively communicate. We share the problems with each other.
+
+*We are a team*. We share responsibilities. We don't let our egos take control of us. We win and lose together. We don't have positions; we have roles. We could disagree with each other, but we commit to the team.
 
 ## PROJECTS PLANNING
 
@@ -117,15 +145,7 @@ A note on the language:
 * "Prefer" indicates a better option and its alternative to watch out for.
 * "Use" is a positive instruction.
 
-## OUR COMPANY
-
-[TODO]
-
-### PURPOSE
-
-[TODO]
-
-### PRINCIPLES
+## OPERATIONS
 
 [TODO]
 
@@ -133,9 +153,6 @@ A note on the language:
 
 [TODO]
 
-### OPERATIONS
-
-[TODO]
 
 ### SALES
 
