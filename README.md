@@ -95,11 +95,11 @@ Tasks are created and managed on [Trello](https://trello.com/):
 Most of our practices were detailed by Kent Beck in the *Extreme Programming Explained: Embrace Change* and in Uncle Bob's *Clean Code*. We have tried their practices and found that using most of them improves the quality of our work.
 
 **Stories**
-We believe it's a matter of good documenting to register all steps of the way when making software. A good documentation allows software to be easily maintainable by other and even by ourselves when we deal with code that was made some time ago. 
+We believe it's a matter of good documenting to register all steps of the way when making software. A good documentation allows software to be easily maintainable by other and even by ourselves when we deal with code that was made some time ago.
 But to have a good documentation doesn't mean we will write long comments at the side of each line of code. And it doesn't mean we will have long messages in the commits explaining each little change that was made to the software. Therefore the documenting must be done at a right amount and in an organized manner.
 
 **Pivotal Tracker (PT)**
-This space is used to specify features and bugs (including all steps to reproduce them), and another discussion that must happen before coding.
+This space is used to specify features and bugs (including all steps to reproduce them), and another discussion that must happen before coding. The system also works together with github in a way that when a PR is merged to the master branch PT sets the informed task as finished.
 
 **Coding**
 All code must be understandable. That's a clean code principle in which we believe. We avoid commentaries in all cases, except when they are extremely necessary.
@@ -120,6 +120,8 @@ This space allows a bit more discussion between the developers and should includ
 * Start coding!
 * Commit changes when you finished
 * Make a Pull Request (PR)
+   * Make sure to inform the pivotal track task id in the PR title like so:
+      * [Delivers #PT_id_number]
    * Prefer creating small PRs (changing ~500 LOC at most).
 * Clean up (erase created branches)
 
