@@ -131,6 +131,10 @@ At this point, pivotal tracker automatically changes the status of the task to a
 
 * All code should be written in English.
 
+**Security Guidelines**
+
+* [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist)
+
 **Style**
 
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
