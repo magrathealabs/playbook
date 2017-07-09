@@ -1,0 +1,38 @@
+site_name: Playbook
+site_description: 'Magrathea Labs Playbook'
+repo_name: 'magrathealabs/playbook'
+repo_url: 'https://github.com/magrathealabs/playbook'
+pages:
+  - Introduction: index.md
+  - Company: company.md
+  - Development: development.md
+  - References: references.md
+  - Contributing: contributing.md
+theme: material
+extra:
+  palette:
+  font:
+    text: 'Open Sans'
+    code: 'Ubuntu Mono'
+  social:
+    - type: 'github'
+      link: 'https://github.com/magrathealabs'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company-beta/10337473/'
+markdown_extensions:
+  - admonition
+  - codehilite(linenums=true)
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
