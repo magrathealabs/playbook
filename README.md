@@ -1,13 +1,12 @@
 # PLAYBOOK
 
-Here we describe how we run our company, how we plan our work, program our softwares and ensure their quality. This document is based in our experience, but also in the experience and study of others and is always evolving when we find a better way to do things.
+Here we describe how we run our company, how we plan our work, develop our software and ensure their quality. This document is based on our experience, but also in the experience and study of others and is always evolving when we find a better way to do things.
 
 > No matter the circumstance you can always improve. You can always start improving with yourself. You can always start improving today.
 >
 > -- Kent Beck, Extreme Programming Explained
 
-
-Everyone in Magrathea can edit this playbook by simply opening a PR (pull request) with the desired modifications. In this way, we can discuss all modifications through the PR and keep the discussion archived for future references.
+Everyone at MLabs can edit this playbook by simply opening a PR (pull request) with the desired modifications. In this way, we can discuss it through the PR and keep the discussion archived for future reference.
 
 **Summary**
 
@@ -22,13 +21,14 @@ Everyone in Magrathea can edit this playbook by simply opening a PR (pull reques
 ## OUR COMPANY
 
 > [...] the future is already here — it’s just not very evenly distributed.
+>
 > -- William Gibson
 
 We are here to help organizations improve their productivity and to prepare people for the future that is already here.
 
-We are passionate about the unknown and by solving problems with technology.
+The people of Magrathea are passionate about the unknown and by solving problems with technology.
 
-We want to be recognized as the bests at solving problems using Artificial Intelligence and good Software Engineering practices. We know how to create minimal viable products and also complete solutions through a systemic vision and good business understanding. We know how to communicate and how to sell what our customers need.
+We want to be recognized as the bests at solving problems using good Software Engineering practices and Artificial Intelligence. We know how to create minimal viable products and also complete solutions through a systemic vision and good business understanding. We know how to communicate and how to sell what our customers need.
 
 ### PURPOSE
 
@@ -36,13 +36,13 @@ Why Magrathea Labs exists?
 
 Our purpose is to *transform the future into the present*.
 
-We want to do this solving our customers challenging problems using technology in an effective and innovative way by designing and engineering software systems and data analysis using Artificial Intelligence.
+We do this by solving our customers' challenging problems using technology in an effective and innovative way, designing and engineering software systems, doing data analysis and using Artificial Intelligence.
 
 ### PRINCIPLES
 
-*We care*. We don't say "I told you." We don't say "this is not my responsibility."
+*We care*. We don't say "I told you" or "this is not my responsibility". We take responsibility for our work and look for ways to improve it constantly.
 
-*We are actively transparent*. We actively communicate. We share the problems with each other.
+*We are actively transparent*. What matters most in team software development is communication, and we actively communicate. We share the problems with each other. Communication is essential for creating a sense of team and active cooperation.
 
 *We are a team*. We share responsibilities. We don't let our egos take control of us. We win and lose together. We don't have positions; we have roles. We could disagree with each other, but we commit to the team.
 
@@ -56,7 +56,7 @@ We want to do this solving our customers challenging problems using technology i
 >
 > -- [Donald Rumsfeld](https://www.wikiwand.com/en/There_are_known_knowns)
 
-It is important to write plans and projects. In any form and size a plan provides a framework to organize the neural pathways in your mind and to make the raw information available in an accessible way to the rest of the team in a way to have a future reference. But do not stick to a plan. A plan does not capture everything. Changes happen all the time and unfortunately a plan usually fails to capture the randomness of life.
+Writing plans for projects is important. In any form and size, a plan provides a framework to organize the neural pathways in your mind and to make the raw information available in an accessible way to the rest of the team in a way to have a future reference. However, do not stick to a plan. A project plan does not capture everything. Changes happen all the time, and unfortunately, a plan usually fails to capture the randomness of life.
 
 All projects are specified in PRDs (**P**roduct **R**equirements **D**ocuments) in our [Google Drive Projets folder](https://drive.google.com/drive/folders/0B6m7dowklNjvUTVIcURiazBoM2s).
 
@@ -68,9 +68,9 @@ All projects have some accompaniment docs:
 * [Project Completion Term](https://docs.google.com/document/d/1KF3qVysLKTRBIS8-f6dxW64N-HyatC_UplUtzBDyrwM/edit);
 * [NDA](https://docs.google.com/document/d/1lY-N5sT8BX-YWKflEqt-m1HPdY5rzS02g1cIB6WtSfE/edit).
 
-We start the project with the commercial proposal, with a broad vision of the project's estimatives and costs. We write this document to start negotiating with our customers. Them, we write the project, with requirements and functional specs. The project document is attached with the contract. When finishing a project, we give to our customer the project completion term, where we list what we have done and ask for feedback about our work. In some projects we also use a special NDA documents.
+We start the project with the commercial proposal, with a broad vision of the project's estimates and costs. We write this document to start negotiating with our customers. Them, we write the project, with requirements and functional specs. The project document is attached to the contract. When finishing a project, we give to our customer the project completion term, where we list what we have done and ask for feedback about our work. In some projects, we also use a particular NDA document.
 
-We like to work in phases, iterating with customers to prioritise, test and learn about what we're doing. We implement MVPs to explore the potential of our ideas, scaling the good ones that worked:
+We like to work in phases, iterating with customers to prioritize, test and learn about what we're doing. We implement MVPs to explore the potential of our ideas, scaling the ones that worked:
 
 ![Project Flow](images/project-flow.png "Project Flow")
 [Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)
