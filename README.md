@@ -119,7 +119,7 @@ The commits messages should point out objectively what changes were made to the 
 We use the [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/) development protocol.
 
 * Take a task from pivotal tracker
-* Start a new git branch, each task should have it is feature branch following a consistent name convention from GitFlow:
+* Start a new git branch, each task should have it's feature branch following a consistent name convention from GitFlow:
    * `feature/` for features
    * `fix/` for bug fixes
    * `refactor/` for improvements/refactor
