@@ -8,6 +8,7 @@ pages:
   - Development: development.md
   - References: references.md
   - Contributing: contributing.md
+  - Dev Troubleshooting: troubleshooting.md
 theme: material
 extra:
   palette:
