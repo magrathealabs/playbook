@@ -1,4 +1,4 @@
-# Our Company
+# Our Laboratory
 
 !!! quote
     [...] the future is already here, it’s just not very evenly distributed
@@ -8,7 +8,7 @@ We are here to help organizations improve their productivity and to prepare peop
 
 The people of Magrathea are passionate about the unknown and by solving problems with technology.
 
-We want to be recognized as the bests at solving problems using good Software Engineering practices and Artificial Intelligence. We know how to create minimal viable products and also complete solutions through a systemic vision and good business understanding. We know how to communicate and how to sell what our customers need.
+We want to be recognized as the bests at solving problems using good Software Engineering practices and Artificial Intelligence. We know how to create minimum viable products and also complete solutions through a systemic vision and good business understanding. We know how to communicate and how to sell what our customers need.
 
 ## Purpose
 
@@ -26,7 +26,7 @@ We do this by solving our customers' challenging problems using technology in an
 
 **We are a team**. We share responsibilities. We don't let our egos take control of us. We win and lose together. We don't have positions; we have roles. We could disagree with each other, but we commit to the team.
 
-# Projects Planning
+# Project Planning
 
 !!! quote
     Plans are nothing; planning is everything
@@ -38,7 +38,7 @@ We do this by solving our customers' challenging problems using technology in an
 
 Writing plans for projects is important. In any form and size, a plan provides a framework to organize the neural pathways in your mind and to make the raw information available in an accessible way to the rest of the team in a way to have a future reference. However, do not stick to a plan. A project plan does not capture everything. Changes happen all the time, and unfortunately, a plan usually fails to capture the randomness of life.
 
-All projects are specified in PRDs (Product Requirement Documents) in our [Google Drive Projets folder](https://drive.google.com/drive/folders/0B6m7dowklNjvUTVIcURiazBoM2s).
+All projects are specified in PRDs (Product Requirement Documents) in our [Google Drive Projects folder](https://drive.google.com/drive/folders/0B6m7dowklNjvUTVIcURiazBoM2s).
 
 All projects have some accompaniment docs:
 

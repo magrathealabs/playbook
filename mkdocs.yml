@@ -4,7 +4,7 @@ repo_name: 'magrathealabs/playbook'
 repo_url: 'https://github.com/magrathealabs/playbook'
 pages:
   - Introduction: index.md
-  - Company: company.md
+  - Laboratory: laboratory.md
   - Development: development.md
   - References: references.md
   - Contributing: contributing.md
