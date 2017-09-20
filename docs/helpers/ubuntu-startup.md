@@ -1,5 +1,5 @@
 # Ubuntu setup
-For setup your ubuntu, in easy way:
+The fast way for setup your Ubuntu/Debian SO:
 
 ```bash
 
