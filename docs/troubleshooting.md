@@ -8,7 +8,7 @@ If you run `pip install -r requirements.txt` and you project keeps breaking on `
 
 ### Not Connecting
 
-If you installed Postgres from `apt-get` and did not touched postgres configs, you may have some connection problems.
+If you installed Postgres from `apt-get` and did not touch postgres configs, you may have some connection problems.
 
 For avoiding this troubles:
 - Fix your `pg_hba` on trust/md5 permission directives.
