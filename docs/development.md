@@ -104,6 +104,25 @@ We follow style guides to help us consistently write code. This ensures that all
     This section is missing content.
 
 Use [dotfiles](https://github.com/alfakini/dotfiles) to automate your environment setup. Use an extensible code editor like Vim/NeoVim or Sublime Text 3.
+    
+### Ubuntu
+
+- Install general stuff, like Postgres, Redis, Phantom, CMake...
+```sh
+sudo apt-get install cmake phatomjs postgresql postgresql-contrib postgresql-server-dev-all python-pip redis-server
+```
+
+- Install RVM.
+
+PS.: On 3rd line is possible that script asks for reimportin gpg keys. Just run script's suggestion command.
+
+```sh
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+curl -sSL https://get.rvm.io -o rvm.sh
+cat rvm.sh | bash -s stable
+source ~/.rvm/scripts/rvm
+```
+
 
 ## Deploy
 
