@@ -3,12 +3,14 @@ site_description: 'Magrathea Labs Playbook'
 repo_name: 'magrathealabs/playbook'
 repo_url: 'https://github.com/magrathealabs/playbook'
 pages:
-  - Introduction: index.md
-  - Laboratory: laboratory.md
-  - Development: development.md
-  - References: references.md
-  - Contributing: contributing.md
-  - Dev Troubleshooting: troubleshooting.md
+  - Introduction: 0-introduction.md
+  - Company: 1-company.md
+  - Practices: 2-practices.md
+  - Projects: 3-projects.md
+  - Engineering: 4-engineering.md
+  - "First Steps": 5-first-steps.md
+  - "Code of Conduct": 6-code-of-conduct.md
+  - References: x-references.md
 theme: material
 extra:
   palette:
