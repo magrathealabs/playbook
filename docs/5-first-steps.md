@@ -41,7 +41,7 @@ Sublime Text 3.
 
 Here is the minimal configs for your code editor:
 
-* Remove Remove trailing whitespace
+* Remove trailing whitespace
 * Ruby, HTML, JavaScript, CSS, SCSS, etc, tabs with 2 spaces
 * Python tabs with 4 spaces
 
