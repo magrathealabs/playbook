@@ -3,26 +3,20 @@
 !!! attention
     This section is missing content.
 
-This is your first day of work, here are some guidelines.
+This is a guide for you first day, week and month of work at MLabs.
 
 ## First Day
 
 !!! attention
-    This section is missing content.
+    This section is missing content. Link documantation. Link Fliperama Guide.
 
 In the first day your mission is to setup your desk, machine, present yourself to your colegues and know how our space
 works.
 
-[TODO] Link Welcome document
-[TODO] Link Fliperama Guide
-
 ## First Week
 
 !!! attention
-    This section is missing content.
-
-[TODO] Setup your dev environment, read documentations of the tools you don't know already and start working in some
-minor stuff in the projects.
+    This section is missing content. Setup your dev environment, read documentations of the tools you don't know already and start working in some minor stuff in the projects.
 
 ## First Month
 
@@ -32,7 +26,7 @@ minor stuff in the projects.
 ## Extreme Programming
 
 !!! attention
-    This section is missing content. [TODO] link books and guides.
+    This section is missing content. Link books and guides.
 
 It is recommended to read one of our books about Extreme Programming.
 
@@ -68,12 +62,7 @@ In all Ruby projects we use a set of tools to help us:
 ### Quality tools
 
 !!! attention
-    This section is missing content.
-
-Rubocop
-Danger
-pronto
-etc.
+    This section is missing content. Rubocop, Danger, Pronto, etc.
 
 ### Ruby on Rails
 

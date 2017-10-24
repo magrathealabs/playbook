@@ -37,7 +37,6 @@ development protocol.
 * Start coding!
 * Commit changes when you finished
 * Create a [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
-    * Inform the Project Management tool Story id in the PR body
     * Prefer creating small PRs (changing ~500 LOC at most)
 * Clean up (erase created branches)
 
@@ -50,14 +49,22 @@ GitFlow:
 * `chore/` for random tasks
 
 At this point, link the Pull Request in the Trello card and move it to `Code Review`.
-At leads one team member should review and approve your PR. After the review, if
-approved, merge the changes to master, delete the branch, and move the Trello
-card to `QA` list. Deploy the master branch to staging. In this stage, the customer
-should review the feature to aprove or refuse it. After this stage, if the task
-is accepted we have a new code implementation. Otherwise, the task goes back to
-`Current` with a description of why the task was rejected in the first place.
-If approved, we merge master to production branch and deploy it pro production
-environment.
+At least one team member should review and approve your PR. After the review, if
+approved:
+
+* Merge the changes to master and delete the branch
+    * Prefer to squash merge instead of a normal merge. Only do a normal merge if
+      you want to keep the history of changes in our branch
+* Move the Trello card to `QA` list
+* Deploy the master branch to staging
+    * In some projects the deploy to staging is automatic
+
+In this stage, the customer should review the feature to approve or refuse it.
+If the task is accepted, we have a new code implementation. We merge master to
+production branch and deploy it to production environment.
+
+Otherwise, the task goes back to `Current` with a description of why the task was
+rejected in the first place.
 
 ### Pull Requests
 
@@ -73,13 +80,10 @@ Double check what was requested in the feature description.
 When creating a Pull Request, include:
 
 * A description of the feature we are delivering
-* The Trello story url
-* Refer back to PR on Trello card
-* Add screen shots of the new behavior if applicable
+* Screenshots of the new behavior if applicable
 * Details about how to test them
-* When the feature includes a critical change in the system, like database migration of any
-  task that should be run in the production environment, we include details about
-  how to run them.
+* Details about how to run migrations or any task that should be run in the
+  production environment
 
 ### Tests
 
@@ -103,8 +107,7 @@ code quality; it is inherent in our development process.
 
 We integrate our work frequently, at least daily. Continuous Integration is a
 software development practice that we use to verify our code in an automated way
-to detect integration errors as quickly as possible. This helps ensure there is
-nothing in our local environment that is making the tests pass. We are currently
+to detect integration errors as quickly as possible. We are currently
 using [CircleCI](http://circleci.com/) to run the project's test suite.
 
 See Martin Fowler
@@ -117,7 +120,7 @@ for mode details.
 
 ### Style Guides
 
-We follow style guides to help us consistently write code. This ensures that all
+We follow style guides to help us write code consistently. This ensures that all
 team members use the same dialect when writing code, helping us to communicate
 with each other.
 
@@ -161,11 +164,11 @@ A note on the language:
 # Design
 
 !!! attention
-    This section is missing content.
+    This section is missing content. [The Design Sprint](www.gv.com/sprint)
 
-As developers, we don't know deeply about UI and UX design, but, but that
-doesn't mean we should build crap stuff. Follow the basic rules. In general, we
-follow the [Good UI](http://goodui.org) rules.
+As developers, we don't know deeply about UI and UX design, but we follow basic
+rules to build pleasant and usable interfaces. Follow the basic rules. In general,
+we follow the [Good UI](http://goodui.org) rules.
 
 # Quality
 
@@ -208,5 +211,3 @@ Good TDD is about small steps that generally take less than a minute.
 
 !!! attention
     This section is missing content. http://apdex.org/overview.html
-
-This is a guide for you first day, week and month of work at MLabs.

@@ -4,11 +4,10 @@ Here we describe some of our practices.
 
 ## Weekly Update
 
-Once a week we do a standup meeting so people at MLabs can communicate the
-others about:
+Once a week we do a standup meeting so we can communicate others about:
 
-* What they've been doing
-* What did they learn
+* What we've been doing
+* What we learned
 * What was good
 * What was bad
 * What can be improved
@@ -17,22 +16,21 @@ others about:
 
 Once a month we run a Hacker Day. This event is based on the
 [Open Source Friday](https://opensourcefriday.com/businesses) initiative.
-During the month we [collect ideias](https://trello.com/b/6Qg8rle1/guia-dos-mochileiros)
-that we should work on and in the last Friday of the month we choose some of them
-to work on. The thing we work on can be fixes or improvements to open source
-software, some prototype, testing new technologies, blog posts or some new
-product.
+It's a special day in which we contribute to open source projects, prototype
+stuff, test new technologies, write blog posts or create new products.
+During the month we [collect ideas](https://trello.com/b/6Qg8rle1/guia-dos-mochileiros)
+and on the last Friday of the month we choose some of them to work on.
 
 ## Quarter Update
 
-Once a quarter run a meeting to update everyone with the current status of the
+Once a quarter we run a meeting to update everyone with the current status of the
 company and plans for the future. We talk about:
 
-* Major company anoucements.
-* Our culture. What we're doing that is good and what should we improve as a team?
-* And overview of our current and new customers.
-* Sales Pipeline.
-* Cash flow. A summary of the major incomming and outgoing funds and debts.
+* Major company announcements
+* Our culture: what we're doing that is good and what should we improve as a team
+* An overview of our current and new customers
+* Sales Pipeline
+* Cash flow: a summary of the major incomming and outgoing funds and debts
 
 ## Pair Programming
 

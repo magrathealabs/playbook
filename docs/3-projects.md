@@ -26,7 +26,7 @@ information available in an accessible way to the rest of the team in a way to
 have a future reference.
 
 However, do not stick to a plan. A project plan does not capture everything.
-Changes happen all the time, and unfortunately, a plan usually fails to capture
+Changes happen all the time and, unfortunately, a plan usually fails to capture
 the randomness of life.
 
 ## Documentation
@@ -34,7 +34,7 @@ the randomness of life.
 Clear communication is a core of our development process. We believe it is a
 matter of proper documentation to register all steps of the way when making
 software. A proper documentation allows software to be easily maintainable by
-other and even by ourselves when we deal with code that was made some time ago.
+others and even by ourselves when we deal with code that was made some time ago.
 
 However, to have a good documentation does not mean we will write long comments
 at the side of each line of code. Moreover, it does not mean we will have long
@@ -54,7 +54,7 @@ All projects have some accompaniment docs:
 
 We start the project with the commercial proposal, with a broad vision of the
 project's estimates and costs. We write this document to start negotiating with
-our customers. Them, we write the project, with requirements and functional
+our customers. Then, we write the project, with requirements and functional
 specs. The project document is attached to the contract. When finishing a
 project, we give to our customer the project completion term, where we list
 what we have done and ask for feedback about our work. In some projects, we also
@@ -63,8 +63,9 @@ use a particular NDA document.
 ## Project Management
 
 We like to work in phases, iterating with customers to prioritize, test and
-learn about what we're doing. We implement MVPs to explore the potential of our
-ideas, scaling the ones that worked:
+learn about what we're doing. We implement POCs to explore the potential of our
+ideas, so we can focus on a particular one to build the MVP, scaling the ones
+that worked:
 
 ![Project Flow](images/project-flow.png "Project Flow")
 <center>[Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)</center>
@@ -82,6 +83,11 @@ For each feature, we write a story with a subset of tasks. We always try to
 break the stories in the smallest possible pieces to deliver value to the user
 of the system.
 
+Stories should be understandable by everyone on the team, including designers,
+PMs (Project Managers) and POs (Project Owners). We may create some stories that
+are too technical, but this is an exception; the rule should be "every story
+should have all the necessary information to be understood by anyone".
+
 ### Estimates
 
 Stories are estimated using the Fibonacci sequence:
@@ -95,33 +101,29 @@ Stories are estimated using the Fibonacci sequence:
 
 ### Sprints
 
-For each set of features, we add a milestone with a due date. We deliver one or
-more milestones per iteration. We negotiate with our customers what features and
-in what order they will be delivered in each milestone.
+!!! attention
+    This section is missing content.
 
-When working on a big feature, we use epics to associate multiple related
-stories and milestones that are part of the high-level feature.
+[Template project](https://trello.com/b/OzLyn6bx/projeto-template).
 
-Mostly, we use the Pivotal Way to write [stories](https://medium.com/product-labs/principles-to-effective-story-writing-the-pivotal-labs-way-76da56031f82).
+### Trello
 
-### Trello Browser Plugins
+These are some essential Chrome/Firefox plugins we currently use.
 
-Some essential Chrome/Firefox plugins to use.
-
-[Trelabels](https://github.com/fredericseiler/trelabels)
+#### [Trelabels](https://github.com/fredericseiler/trelabels)
 
 For better labels.
 
 ![](https://cloud.githubusercontent.com/assets/954168/11151664/9d5c657e-8a2e-11e5-9a58-fc82838ebc02.png)
 
-[TrelloWIPLimits](https://github.com/NateHark/TrelloWIPLimits)
+#### [TrelloWIPLimits](https://github.com/NateHark/TrelloWIPLimits)
 
 Adds work-in-progress limits to Trello lists supporting a Kanban workflow. WIP
 limit on a list, include the limit in braces in the list title (e.g.,
 "Code Review [4]). When the number of cards in the list exceeds the limit,
 the list background will turn red.
 
-[Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
+#### [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
 
 Adds functionality for use in Scrum projects. You can add estimates adding
 `(NUMBER)` in the beginning of the card title and the consumed points in the end

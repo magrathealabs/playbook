@@ -1,6 +1,6 @@
 # Company
 
-We want to be recognized as the bests at solving problems using good Software
+We want to be recognized by solving problems using good Software
 Engineering practices and Artificial Intelligence. We know how to create minimum
 viable products and also complete solutions through a systemic vision and good
 business understanding. We know how to communicate and how to sell what our
@@ -34,8 +34,8 @@ other. Communication is essential for creating a sense of team and active
 cooperation.
 
 **We are a team**. We share responsibilities. We don't let our egos take control
-of us. We win and lose together. We don't have positions; we have roles. We
-could disagree with each other, but we commit to the team.
+of ourselves. We win and lose together. We don't have positions; we have roles.
+We could disagree with each other, but we commit to the team.
 
 ## Operations
 
