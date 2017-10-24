@@ -32,6 +32,11 @@ company and plans for the future. We talk about:
 * Sales Pipeline
 * Cash flow: a summary of the major incomming and outgoing funds and debts
 
+## 1-1
+
+!!! attention
+    This section is missing content.
+
 ## Pair Programming
 
 !!! attention
