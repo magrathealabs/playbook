@@ -2,6 +2,18 @@
 
 The [playbook](http://playbook.magrathealabs.com/) for MLabs.
 
+# Contributing
+
+We're using [mkdocs](http://mkdocs.org) to build our playbook.
+
+Install dependencies with `pip install -r requirements.txt`
+
+* `mkdocs serve` - Start the live-reloading docs server
+* `mkdocs build` - Build the documentation site
+* `mkdocs help` - Print this help message
+
+See the [MkDocs](https://mkdocs.readthedocs.io) and [Theme Documentation](http://squidfunk.github.io/mkdocs-material).
+
 ## License
 
 The documents in this repository are available under the terms of the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
