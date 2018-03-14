@@ -61,7 +61,7 @@ This is an example of a regular project's Trello board:
 
 The board is organised in a way that all the flow, from ideas (upstream), to development (downstream) is visible by all team members. Focusing only on upstream effectiveness (ideas options) there is a risk of starvation in the downstream (too much execution requests). Without downstream effectiveness, it is necessary to blindly trust the upstream to prevent non-value-generating demands from flowing.
 
-As you can see, the the Doing list (in red) and the Code Review list (in yellow) have constraints. This means that there are too many tasks in Work in Process in the Doing list and we're in the limit of tasks in the Code Review. This helps us to keep the amount of Work in Process small and focus on helping others in the team to finish the task or review the open Pull Requests.
+As you can see, the Doing list (in red) and the Code Review list (in yellow) have constraints. This means that there are too many tasks in Work in Process in the Doing list and we're in the limit of tasks in the Code Review. This helps us to keep the amount of Work in Process small and focus on helping others in the team to finish the task or review the open Pull Requests.
 
 ## Project management
 
