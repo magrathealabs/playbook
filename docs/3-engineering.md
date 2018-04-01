@@ -36,7 +36,7 @@ We use the [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/) de
     * Prefer creating small PRs (changing ~500 LOC at most)
 * Clean up (erase created branches)
 
-Each task should have it's branch following a consistent name convention from GitFlow:
+Each task should have its branch following a consistent name convention from GitFlow:
 
 * `feature/` for features
 * `fix/` for bug fixes
@@ -159,7 +159,7 @@ We recommend for every software engineer to read Kent Beck's books about eXtreme
 
 ### Tests
 
-Creating unit tests helps a developer to really consider what needs to be done. Requirements are nailed down firmly by tests. There can be no misunderstanding a specification written in the form of executable code.
+Creating unit tests helps a developer to really consider what needs to be done. Requirements are nailed down firmly by tests. There can be no such thing of misunderstanding a specification written in the form of executable code.
 
 we're currently using [CircleCI](http://circleci.com/) to run the project's test suite.
 

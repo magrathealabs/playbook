@@ -7,6 +7,6 @@ In this document we describe how we run our organization, how we plan our work, 
 
 This playbook is a collaborative effort. If you spot something that is wrong, feel free to hop in and correct it. Everyone at MLabs can edit this playbook by simply opening a [PR (Pull Request)](https://github.com/magrathealabs/playbook) with the desired modifications. In this way, we can discuss it through the PR and keep the discussion archived for future reference.
 
-Sharing knowledge is extremely important for us. We believe that there is no such thing as business advantage in maintaining our practices in secret. We improved the way we work from things we learned from others, that improved from things they learned from others. We believe that sharing the way we run our organization can help our industry improve it's processes and become more productive, what will also help us.
+We believe that there is no such thing as business advantage in maintaining our practices in secret. We improved the way we work from things we learned from others, that improved from things they learned from others. We believe that sharing the way we run our organization can help our industry improve its processes and become more productive, which will also help us.
 
 This work is available under the terms of the [Creative Commons BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).

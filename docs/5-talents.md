@@ -1,12 +1,12 @@
 # Talents
 
-We do not recruit people. We do not hire resources. We discover and help to develop talents. we're looking for people who are proud of their craft and wanting to evolve their careers.
+We do not recruit people. We do not hire resources. We discover and help to develop talents. We're looking for people who are proud of their craft and wanting to evolve their careers.
 
-we're constantly look for new people to join the team, but we're not in a hurry. Our hiring process take 3 to 4 weeks to complete.  We don't want to make a mistake by hiring the wrong person.
+We're constantly looking for new people to join the team, but we're not in a hurry. Our hiring process take 3 to 4 weeks to complete.  We don't want to make a mistake by hiring the wrong person.
 
 The first way we find people is through our networks. We look for people we know. The second way is on Meetups and events, local or online professional communities. The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process.
 
-We know what we will get when we hire our teammates in this way. We know the will take initiative because they voluntarily contributed to the community, to open source. We know their coding style. We know their personality and energy level from the local and online  professional communities.
+We know what we will get when we hire our teammates in this way. We know they will take initiative because they voluntarily contributed to the community, to open source. We know their coding style. We know their personality and energy level from the local and online  professional communities.
 
 ## Scorecards and job descriptions
 
@@ -62,11 +62,11 @@ We try to keep the conversation quite high-level, and avoid going into too much 
 * Does this person seem likely to share our values?
 * Does this person have an interest in our purpose?
 * The person working experience
-* What the person thinks about it's own personality and qualifications
+* What the person thinks about its own personality and qualifications
 
 We avoid making any commitments during this call. Near the end, we explain that we'll be in touch soon.
 
-After the call, we can talk about the candidate with the team if we wish, or just make a decision. If we think it's quite likely that they have the skills, experience and personal qualities that we need, we should take them through to the first meeting.
+After the call, we can talk about the candidate with the team if we wish, or just make a decision. If we think its quite likely that they have the skills, experience and personal qualities that we need, we should take them through to the first meeting.
 
 ### Culture meeting
 
@@ -80,7 +80,7 @@ Before going to an interview, set aside enough time for the interview. We should
 
 Our interviews are informal. They are a semi-structured conversation, rather than Q&A. We do not recite the list of questions or keep verbose notes on replies. The questions are there to ensure that we don't forget to cover important ground, and as a prompt when the conversation naturally dries up.
 
-The first thing we do when the candidate arrives is to show the office to him. Them, we start with a couple of questions, and then allow the conversation to evolve naturally. We ask questions about things they say, and try to go into more detail on the points that we think will help to assess their skills, experience and personal qualities. Keep the scorecard in mind: this should always be your frame of reference.
+The first thing we do when the candidate arrives is to show the office to him. Then, we start with a couple of questions, and then allow the conversation to evolve naturally. We ask questions about things they say, and try to go into more detail on the points that we think will help to assess their skills, experience and personal qualities. Keep the scorecard in mind: this should always be your frame of reference.
 
 At the end of the interview, always ask the candidate if there's anything they would like to ask. If they have questions, answer them honestly. When everything's done, we thank the candidate for their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Airtable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and a rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
 

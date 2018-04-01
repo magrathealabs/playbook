@@ -59,13 +59,13 @@ This is an example of a regular project's Trello board:
 [Template project](https://trello.com/b/OzLyn6bx/projeto-template).
 </center>
 
-The board is organised in a way that all the flow, from ideas (upstream), to development (downstream) is visible by all team members. Focusing only on upstream effectiveness (ideas options) there is a risk of starvation in the downstream (too much execution requests). Without downstream effectiveness, it is necessary to blindly trust the upstream to prevent non-value-generating demands from flowing.
+The board is organised in a way that all the flow, from ideas (upstream), to development (downstream) is visible by all team members. Focusing only on upstream effectiveness (ideas options) raises a risk of starvation in the downstream (too much execution requests). Without downstream effectiveness, it is necessary to blindly trust the upstream to prevent non-value-generating demands from flowing.
 
 As you can see, the Doing list (in red) and the Code Review list (in yellow) have constraints. This means that there are too many tasks in Work in Process in the Doing list and we're in the limit of tasks in the Code Review. This helps us to keep the amount of Work in Process small and focus on helping others in the team to finish the task or review the open Pull Requests.
 
 ## Project management
 
-We like to work in phases, iterating with customers to prioritise, test and learn about what we're doing. We implement POCs to explore the potential of our ideas, so we can focus on a particular one to build the MVP, scaling the ones that worked:
+We like to work in phases, iterating with customers to prioritize, test and learn about what we're doing. We implement POCs to explore the potential of our ideas, so we can focus on a particular one to build the MVP, scaling the ones that worked:
 
 ![Project Flow](images/project-flow.png "Project Flow")
 <center>[Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)</center>
@@ -109,13 +109,13 @@ Generally, our boards include the following lists:
 * Ready for Production
 * Done
 
-In some projects, we also have the "Support" list on the side of "Current Sprint" where we add urgent support work that should be addressed as soon as possible by the teammate that is using the support hat. Every week the support hat should be with a different teammate.
+In some projects, we also have the "Support" list on the side of "Current Sprint" where we add urgent support work that should be addressed as soon as possible by the teammate that is wearing the support hat. Every week the support hat should be with a different teammate.
 
-"Opportunities and problems" and "Solution design" are the upstream, were product, design and client's team work to prioritise work and design the solution.
+"Opportunities and problems" and "Solution design" are the upstream, where product, design and client's team work to prioritize work and design the solution.
 
 The Backlog list is the single prioritized list to which the product team refers in order to know what to work on next. A card represents a User Story, bug fix or engineering task.
 
-Once the cards in the Backlog list have been prioritized, they are ready for development. A developer assign it to him and pull it into the Doing list. The cards in the Doing list are actively being developed. Etiquette is that you should never have your face on more than one card at a time. Work is done in a feature branch.
+Once the cards in the Backlog list have been prioritized, they are ready for development. A developer assigns it to him and pull it into the Doing list. The cards in the Doing list are actively being developed. Etiquette is that you should never have your face on more than one card at a time. Work is done in a feature branch.
 
 When the developer creates a pull request for their feature branch, they move the card to the Code Review list. Any reviewers put their face in the card while reviewing it. There is no bottleneck for merging into master: everyone can do it.
 
