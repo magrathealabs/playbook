@@ -21,8 +21,8 @@ There are four principles that guide us.
 
 **We care**: we don't say *"I told you"* or *"this is not my responsibility"*. We take responsibility for our work and look for ways to improve it constantly.
 
-**we're actively transparent**: what matters most in team software development is communication, and we actively communicate. We share the problems with each other. Communication is essential for creating a sense of team, and active cooperation.
+**We're actively transparent**: what matters most in team software development is communication, and we actively communicate. We share the problems with each other. Communication is essential for creating a sense of team, and active cooperation.
 
-**we're a team**: we are team players and committed partners. We share responsibilities. We don't let our egos take control of ourselves. We win and lose together. We don't have positions; we have roles. We could disagree with each other, but we commit to the team.
+**We're a team**: we are team players and committed partners. We share responsibilities. We don't let our egos take control of ourselves. We win and lose together. We don't have positions; we have roles. We could disagree with each other, but we commit to the team.
 
-**we're different**: we seek out, respect and deeply value ideas, disciplines and experiences different from our own, knowing that this richness is fundamental to delivering our best work. We're a team of bacon lovers and vegans. We're members and non-members of LGBT community. Some of us love Python, and others love Ruby.
+**We're different**: we seek out, respect and deeply value ideas, disciplines and experiences different from our own, knowing that this richness is fundamental to delivering our best work. We're a team of bacon lovers and vegans. We're members and non-members of LGBT community. Some of us love Python, and others love Ruby.

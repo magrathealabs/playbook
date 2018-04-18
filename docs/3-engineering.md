@@ -161,7 +161,7 @@ We recommend for every software engineer to read Kent Beck's books about eXtreme
 
 Creating unit tests helps a developer to really consider what needs to be done. Requirements are nailed down firmly by tests. There can be no such thing of misunderstanding a specification written in the form of executable code.
 
-we're currently using [CircleCI](http://circleci.com/) to run the project's test suite.
+We're currently using [CircleCI](http://circleci.com/) to run the project's test suite.
 
 ### Test driven development
 

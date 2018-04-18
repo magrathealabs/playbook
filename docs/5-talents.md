@@ -24,7 +24,7 @@ Based on the scorecard, we write a job description that contains:
 
 It's important for the job descriptions to be declarative and as objective as possible.
 
-Almost everything we know about discovering and how to bring the best talents to the team we learned from the books Who, Scaling Up and Management 3.0. Take a look on them.
+Almost everything we know about discovering and how to bring the best talents to the team we learned from the books [Who](https://www.goodreads.com/book/show/4989687-who), [Scaling Up](https://www.goodreads.com/book/show/22212880-scaling-up) and [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0). Take a look on them.
 
 ## Hiring process
 
@@ -40,7 +40,7 @@ This is the process we follow:
 2. Someone at MLabs will send you an e-mail to schedule a call
 3. We call you to know you better and to introduce the company and what we're doing here
 4. If we like you, and you like us, we schedule a meeting in our office so our team can know you better
-5. If you have a culture fit with us, in the next meeting we will talk about code
+5. If you have a cultural fit with us, in the next meeting we will talk about code
 6. If everything goes as expected, if you're not an asshole, we schedule a meeting to discuss the terms
 7. You start working with us 🎉
 
@@ -130,6 +130,6 @@ In the first day your mission is to setup your desk, machine, present yourself t
 
 In our apprenticeship program, apprentices have the opportunity to learn state-of-the-art technologies and put their skills to the test by working on real projects during a trial period.
 
-The apprentices don't need to be proficient in a specific area. we're eager to meet people with the right attitude and skills. We look for smart and well motivated people that like to work in teams and to learn new things.
+The apprentices don't need to be proficient in a specific area. We're eager to meet people with the right attitude and skills. We look for smart and well motivated people that like to work in teams and to learn new things.
 
 Once the apprentice finishes the apprenticeship program, she have the chance to become part of the MLabs.

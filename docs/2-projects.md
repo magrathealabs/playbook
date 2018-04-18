@@ -4,7 +4,7 @@ We work with startups and big companies to develop software products, services a
 
 We adopt the Lean principles, meaning we eliminate unnecessary tasks, encourage informed decisions to be made as late as possible, and deliver as fast as possible. We empower teams to make their own decisions and develop ownership.
 
-We also believe in [agile](http://agilemanifesto.org)  software development, Kanban and XP practices to every project and sometimes Scrum. Most of our development practices are detailed in the Kent Beck's [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) and Uncle Bob's [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) books. We have tried their practices and found that using most of them improves the quality of our work.
+We also believe in [agile](http://agilemanifesto.org) software development, Kanban and XP practices to every project and sometimes Scrum. Most of our development practices are detailed in the Kent Beck's [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) and Uncle Bob's [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) books. We have tried their practices and found that using most of them improves the quality of our work.
 
 One of our primary process goal is to make frequent, small releases of our working software. We do it through frequent communication and at least with weekly iterations on a product.
 

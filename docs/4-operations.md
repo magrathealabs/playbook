@@ -10,7 +10,7 @@ Here we describe some of the practices we use to run the organization. Managing 
 
 ## Space
 
-we're a company prepared to work with remote teams, but we prefer to have everybody at the office in order to build strong relationships. Building a good space to work on is hard. Making sure we have coffee, tea and good snacks take time.
+We're a company prepared to work with remote teams, but we prefer to have everybody at the office in order to build strong relationships. Building a good space to work on is hard. Making sure we have coffee, tea and good snacks take time.
 
 As a small and young company, we would have to spend a lot of time and money creating a pleasant working environment. That's why we work on [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/), a coworking space that serves us with everything we need.
 
