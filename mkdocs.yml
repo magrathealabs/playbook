@@ -3,7 +3,7 @@ site_description: 'Magrathea Labs Playbook'
 repo_name: 'magrathealabs/playbook'
 repo_url: 'https://github.com/magrathealabs/playbook'
 pages:
-  - "Introduction": 0-introduction.md
+  - "Introduction": index.md
   - "1. Organization": 1-organization.md
   - "1.1. Sharing": 1.1-sharing.md
   - "1.2. Communication": 1.2-communication.md
