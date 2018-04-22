@@ -17,7 +17,9 @@ pages:
   - "5. Talents": 5-Talents.md
   - "6. Code of Conduct": 6-code-of-conduct.md
   - "References": x-references.md
-theme: material
+theme:
+  name: material
+  custom_dir: custom_theme
 extra:
   palette:
   font:
