@@ -8,6 +8,23 @@ We also believe in [agile](http://agilemanifesto.org) software development, Kanb
 
 One of our primary process goal is to make frequent, small releases of our working software. We do it through frequent communication and at least with weekly iterations on a product.
 
+## Setup
+
+Change is something ubiquitous in software development, and that’s why we believe that no software development process is perfect. We embrace change by being always aware of our current processes and seeking continuous improvement at every stage.
+
+We use [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) to help us develop and evolve our processes and STATIK (acronym for *Systems Thinking Approach to Introducing Kanban*) to guide our Kanban implementations and reviews. STATIK is an iterative 8-step process that can be summarized as:
+
+1. Understand what makes the service fit for purpose for the customer
+2. Understand sources of dissatisfaction
+3. Analyze demand
+4. Analyze capability
+5. Model workflow
+6. Discover classes of service
+7. Design kanban systems
+8. Socialize the design and negotiate implementation
+
+We always seek to exercise this with all our collaborators and customers, capturing multiple perspectives in order to achieve a solid  understanding of current issues, processes and roles.
+
 ## Planning
 
 > Plans are nothing; planning is everything
@@ -101,6 +118,7 @@ Generally, our boards include the following lists:
 
 * Opportunities and problems
 * Solution design
+* Breaking down stories
 * Backlog
 * Current Sprint
 * Doing

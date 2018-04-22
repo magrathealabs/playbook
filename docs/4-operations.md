@@ -67,7 +67,7 @@ Some good practice are:
 * Configuring screens to lock after a period of inactivity
 * Ensuring that work-related data on the device is regularly backed up
 * Encrypting storage
-* Using good passwords and changing defaults
+* Using good passwords and 2FA
 * Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) Wi-Fi networks, etc)
 * Disposing of your device securely when you no longer need it
 

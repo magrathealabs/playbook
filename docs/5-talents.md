@@ -41,7 +41,7 @@ This is the process we follow:
 3. We call you to know you better and to introduce the company and what we're doing here
 4. If we like you, and you like us, we schedule a meeting in our office so our team can know you better
 5. If you have a cultural fit with us, in the next meeting we will talk about code
-6. If everything goes as expected, if you're not an asshole, we schedule a meeting to discuss the terms
+6. If everything goes as expected, we schedule a meeting to discuss the terms
 7. You start working with us 🎉
 
 ### Applicant tracking
@@ -55,7 +55,7 @@ The purpose of the screening is to:
 * Introduce ourselves and explain a little more about the job and life at MLabs
 * Talk to the candidate about their experience and explore why they are interested in the job
 * Decide whether you think they are quite likely to have the experience and personal qualities that we're looking for
-*  How they heard about the job
+*  Know how they heard about the job
 
 We try to keep the conversation quite high-level, and avoid going into too much technical detail. This part of the process is more about experience and personal qualities than about skills. Things we try to explore during the conversation:
 
@@ -132,4 +132,4 @@ In our apprenticeship program, apprentices have the opportunity to learn state-o
 
 The apprentices don't need to be proficient in a specific area. We're eager to meet people with the right attitude and skills. We look for smart and well motivated people that like to work in teams and to learn new things.
 
-Once the apprentice finishes the apprenticeship program, she have the chance to become part of the MLabs.
+Once the apprentices finishes the apprenticeship program, they have the chance to become part of the MLabs.
