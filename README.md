@@ -6,11 +6,11 @@ The [playbook](http://playbook.magrathealabs.com/) for MLabs.
 
 We're using [mkdocs](http://mkdocs.org) to build our playbook.
 
-Install dependencies with `pip install -r requirements.txt`
+Install dependencies with `pipenv install`.
 
-* `mkdocs serve` - Start the live-reloading docs server
-* `mkdocs build` - Build the documentation site
-* `mkdocs help` - Print this help message
+* `pipenv run mkdocs serve` - Start the live-reloading docs server
+* `pipenv run mkdocs build` - Build the documentation site
+* `pipenv run mkdocs help` - Print this help message
 
 See the [MkDocs](https://mkdocs.readthedocs.io) and [Theme Documentation](http://squidfunk.github.io/mkdocs-material).
 

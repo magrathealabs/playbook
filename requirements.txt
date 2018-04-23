@@ -1,4 +1,0 @@
-mkdocs==0.16.3
-mkdocs-material
-pygments
-pymdown-extensions
