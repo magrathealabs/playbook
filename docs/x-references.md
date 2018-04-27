@@ -9,8 +9,8 @@ Some of our references:
 * [Pioneering Organizational Transformation: Here's What You Need to Know](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)
 * [Apprentice Onboarding Packet](https://www.apprentice.io)
 * [Thoughtbot playbook](https://thoughtbot.com/playbook)
-* [Plataformatec Guidelines](guidelines.plataformatec.com.br)
-* [The Design Sprint](www.gv.com/sprint)
+* [Plataformatec Guidelines](https://guidelines.plataformatec.com.br)
+* [The Design Sprint](https://www.gv.com/sprint)
 * [Startup Garage](https://www.gsb.stanford.edu/stanford-gsb-experience/academic/entrepreneurship/startup-garage)
 * [Google Open Source Docs](https://opensource.google.com/docs)
 
