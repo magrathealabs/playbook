@@ -24,7 +24,7 @@ We use [Git](https://git-scm.com/) open source code control to manage our code a
 
 The commits messages should point out objectively what changes were made to the system using preferably bullet points. The messages should be clear and concise so that other programmers can look it up quickly. More good practices about commit messages can be found at [tpope's blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-## WorkFlow
+## Workflow
 
 We use the [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/) development protocol.
 
