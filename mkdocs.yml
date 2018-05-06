@@ -11,10 +11,10 @@ pages:
   - "2. Projects": 2-projects.md
   - "2.1. Starting a new project": 2.1-new-projects.md
   - "3. Engineering": 3-engineering.md
-  - "3.1. Guides": 3.1-Guides.md
+  - "3.1. Guides": 3.1-guides.md
   - "3.2. Environment Setup": 3.2-environment.md
-  - "4. Operations": 4-Operations.md
-  - "5. Talents": 5-Talents.md
+  - "4. Operations": 4-operations.md
+  - "5. Talents": 5-talents.md
   - "6. Code of Conduct": 6-code-of-conduct.md
   - "References": x-references.md
 theme:
