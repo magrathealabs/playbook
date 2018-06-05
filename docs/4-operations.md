@@ -75,7 +75,10 @@ Some good practice are:
 
 If there is a book relevant to your work that you would like to read, let the team know and we will buy it for the library.
 
-### Feira da Fruta
+### Votocracia
 
-!!! attention
-    This section is missing content.
+The **Votocracia** in Magrathea consists of a monthly budget of R$ 500,00 to be invested in some idea proposed and approved by the group. Any person can give ideas and there is no limit to it, but each person can only vote once on each idea. By the end of the month, the most voted idea (or ideas, if the sum of ideas's worth is still within budget) will be acquired and made available to the group.
+
+It is interesting to think of acquisitions that benefit all or most of the group, both by the adhesion of the votes and by the sense of community. Ideas are not limited to products, can also be services or activities.
+
+To know more about it and to participate, just look for the card in [Trello](https://trello.com/) about Votocracia and join.
