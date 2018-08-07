@@ -24,7 +24,7 @@ Based on the scorecard, we write a job description that contains:
 
 It's important for the job descriptions to be declarative and as objective as possible.
 
-Almost everything we know about discovering and how to bring the best talents to the team we learned from the books [Who](https://www.goodreads.com/book/show/4989687-who), [Scaling Up](https://www.goodreads.com/book/show/22212880-scaling-up) and [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0). Take a look on them.
+Almost everything we know about discovering and how to bring the best talents to the team we learned from the books [Who](https://www.goodreads.com/book/show/4989687-who), [Scaling Up](https://www.goodreads.com/book/show/22212880-scaling-up) and [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0). Take a look at them.
 
 ## Hiring process
 

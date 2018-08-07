@@ -40,11 +40,12 @@ From time to time, some of us spend our own money at work. Most often, this is t
 MLabs will always pay expenses which are:
 
 **Necessary**: We only expense things we need in order to be able to complete our work
+
 **Proportionate**: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money
 
 ### Accounting
 
-[Trentini Contabilidade](http://www.trentinicontabilidade.com/) provides us the services for bookkeeper, controller, tax accountant, labor law support and strategy planning and guidance about the regulatory environment.
+[Trentini Contabilidade](http://www.trentinicontabilidade.com/) provides us the services for bookkeeper, controller, tax accountant, labor law support, strategy planning and guidance about the regulatory environment.
 
 We use [Conta Azul](https://contaazul.com/) to make our financial organization easier.  It helps keep everything organized in one place. There we have our bank account connected to automatically import and categorize transactions.
 
