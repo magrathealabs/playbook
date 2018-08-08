@@ -67,7 +67,7 @@ By creating a mission-oriented environment, we have a single queue of work in yo
 
 By favouring a mission-oriented environment, we change the question from "What should we do now?" to "What do we need to achieve?". Thus, the effort of the team members is directed toward solving the problems that really matter at a given moment rather than just delivering demands received from someone.
 
-While a a task-oriented environment makes developers care only with their own work, a mission-oriented environment makes developers focus on the big picture. This helps the developers to identify bottlenecks in the process and proactively work on them, like reviewing colleagues code or do pair programming to work in a hard task.
+While a task-oriented environment makes developers care only with their own work, a mission-oriented environment makes developers focus on the big picture. This helps the developers to identify bottlenecks in the process and proactively work on them, like reviewing colleagues code or do pair programming to work in a hard task.
 
 This is an example of a regular project's Trello board:
 
