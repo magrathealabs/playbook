@@ -79,6 +79,6 @@ If there is a book relevant to your work that you would like to read, let the te
 
 The **Votocracia** in Magrathea consists of a monthly budget of R$ 500,00 to be invested in some idea proposed and approved by the group. Any person can give ideas and there is no limit to it, but each person can only vote once on each idea. By the end of the month, the most voted idea (or ideas, if the sum of ideas's worth is still within budget) will be acquired and made available to the group.
 
-It is interesting to think of acquisitions that benefit all or most of the group, both by the adhesion of the votes and by the sense of community. Ideas are not limited to products, can also be services or activities.
+It is interesting to think of acquisitions that benefit all or most of the group, both by the adhesion of the votes and by the sense of community. Ideas are not limited to products, they can also be services or activities. For instance, in the past we had an afternoon session of massage :massage:. We also bought 4 Powerballs and even electronic swimming fishes (yep, we actually did that :expressionless:).
 
-To know more about it and to participate, just look for the card in [Trello](https://trello.com/) about Votocracia and join.
+To know more about it and to participate, join the [board](https://trello.com/b/YCWjWorE) and [read the instructions](https://trello.com/c/3FksxgWf/1-%E2%98%9E-instru%C3%A7%C3%B5es).
