@@ -191,7 +191,7 @@ Integrate work frequently, at least daily. [Continuous Integration](http://www.e
 
 Developers should be integrating and committing code into the code repository every few hours, whenever possible. In any case never hold onto changes for more than a day. Continuous integration often avoids diverging or fragmented development efforts, where developers are not communicating with each other about what can be re-used, or what could be shared. Everyone needs to work with the latest version. Changes should not be made to obsolete code causing integration headaches.
 
-Continuous integration avoids or detects compatibility problems early. If you integrate throughout the project in small amounts you will not find your self trying to integrate the system for weeks at the project's end while the deadline slips by.
+Continuous integration avoids or detects compatibility problems early. If you integrate throughout the project in small amounts you will not find yourself trying to integrate the system for weeks at the project's end while the deadline slips by.
 
 See Martin Fowler [guide to Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) for mode details.
 
