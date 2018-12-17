@@ -2,7 +2,7 @@
 
 The [playbook](http://playbook.magrathealabs.com/) for MLabs.
 
-# Contributing
+## Contributing
 
 We're using [mkdocs](http://mkdocs.org) to build our playbook.
 
@@ -13,6 +13,21 @@ Install dependencies with `pipenv install`.
 * `pipenv run mkdocs help` - Print this help message
 
 See the [MkDocs](https://mkdocs.readthedocs.io) and [Theme Documentation](http://squidfunk.github.io/mkdocs-material).
+
+## Deploy
+
+You must have the aws command utility configured in your machine:
+
+```sh
+pipenv install
+pipenv run aws configure
+```
+
+Build and deploy to s3 using the `deploy.sh` script:
+
+```sh
+./scripts/deploy.sh
+```
 
 ## License
 
