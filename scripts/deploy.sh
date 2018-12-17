@@ -6,8 +6,8 @@ if ! hash pipenv 2>/dev/null; then
 fi
 
 LOCAL_BUILD="site/"
-BUCKET_NAME="s3://playbook.magrathealabs.com"
+BUCKET_NAME="playbook.magrathealabs.com"
 
 pipenv install
 pipenv run mkdocs build
-pipenv run aws s3 sync $LOCAL_BUILD $BUCKET_NAME
+pipenv run aws s3 sync $LOCAL_BUILD s3://$BUCKET_NAME
