@@ -2,7 +2,7 @@ site_name: Playbook
 site_description: 'Magrathea Labs Playbook'
 repo_name: 'magrathealabs/playbook'
 repo_url: 'https://github.com/magrathealabs/playbook'
-pages:
+nav:
   - "Introduction": index.md
   - "1. Organization": 1-organization.md
   - "1.1. Sharing": 1.1-sharing.md
@@ -36,10 +36,10 @@ extra:
       link: 'https://www.facebook.com/magrathealabs'
 markdown_extensions:
   - admonition
-  - codehilite(linenums=true)
+  - codehilite
   - footnotes
   - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.betterem
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.emoji:
@@ -49,5 +49,5 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tasklist
   - pymdownx.tilde
