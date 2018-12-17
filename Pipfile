@@ -8,6 +8,7 @@ mkdocs = "*"
 mkdocs-material = "*"
 pymdown-extensions = "*"
 Pygments = "*"
+awscli = "*"
 
 [dev-packages]
 
