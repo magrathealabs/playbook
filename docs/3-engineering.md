@@ -1,28 +1,28 @@
-# Engineering
+# Engenharia
 
-Here we describe our engineering practices. Our goal isn't to write code all day. We'd rather solve real problems for real people. The software we build makes a difference for our clients, our clients' clients, and you.
+Nesta seção, serão apresentadas as práticas de engenharia que nós utilizamos. Nosso objetivo não é passar o dia escrevendo código. Nós preferimos resolver problems reais para pessoas reais. O *software* que construímos faz diferença para nossos clientes, para os clientes dos nossos clientes, e para você.
 
-## General Guidelines
+## Diretrizes Gerais
 
-High-level guidelines:
+Diretrizes em alto-nível:
 
-* Be consistent
-* Don't rewrite existing code to follow this guide
-* Don't violate a guideline without a good reason
-* A reason is good when you can convince a teammate
+* Seja consistente
+* Não reescreva código existente para seguir este guia
+* Não viole uma orientação deste guia sem uma boa razão
+* Uma boa razão é quando você consegue convencer alguém do time
 
-A note on the language:
+Uma nota no idioma:
 
-* *"Avoid"* means don't do it unless you have good reason
-* *"Don't"* means there's never a good reason
-* *"Prefer"* indicates a better option and its alternative to watch out for
-* *"Use"* is a positive instruction
+* *"Evite"* significa não faça a não ser que vocẽ tenha um bom motivo para fazer
+* *"Não"* significa que nunca há uma bom motivo para fazer
+* *"Prefira"* indica uma melhor opção e que sua alternativa deve ser observada
+* *"Use"* é uma instrução positiva
 
-## Version control
+## Controle de Versão
 
-We use [Git](https://git-scm.com/) open source code control to manage our code and GitHub for hosting our Git repositories.
+Nós usamos o sistema de controle de versões [Git](https://git-scm.com/) para gerenciar nossos códigos e o GitHub para hospedar nossos repositórios.
 
-The commits messages should point out objectively what changes were made to the system using preferably bullet points. The messages should be clear and concise so that other programmers can look it up quickly. More good practices about commit messages can be found at [tpope's blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+As mensagens de *commit* devem descrever as mudanças realizadas no sistema de maneira objetiva, preferivelmente utilizando uma lista de marcadores. As mensagens devem ser claras e concisas para que outros programadores entendam facilmente. Outras práticas sobre mensagens de *commit* podem ser encontradas no blog do [tpope](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
 ## Workflow
 
