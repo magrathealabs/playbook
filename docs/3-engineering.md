@@ -55,82 +55,83 @@ In this stage, the customer should review the feature to approve or refuse it. I
 
 Otherwise, the task goes back to `Current` with a description of why the task was rejected in the first place.
 
-### Pull Requests
+### *Pull Requests*
 
-This space allows a bit more discussion between the developers and should include a link to the commits bullet points (the commit number).
+Este espaço permite uma maior discussão entre desenvolvedores e deve incluir um vínculo com o número do *commit* respectivo.
 
-Before opening a PR, read thoroughly the feature description to see if you implemented everything. Run the code and use it as the end user would. Double check what was requested in the feature description.
+Antes de abrir um PR, leia a descrição da funcionalidade para ver se você implementou tudo. Rode o código e use-o como se você fosse o usuário final. Revise mais um vez os requisitos na descrição da funcionalidade.
 
-#### Creating a PR
+#### Criando um PR
 
-When creating a Pull Request, include:
+Quando for criar um *Pull Request*, inclua:
 
-* A description of the feature we're delivering
-* Screenshots of the new behaviour if applicable
-* Details about how to test them
-* Details about how to run migrations or any task that should be run in the production environment
+* A descrição da funcionalidade que estamos entregando
+* *Prints* da tela com o novo comportamento se aplicável
+* Detalhes de como testar as modificações
+* Detalhes sobre como rodar as migrações ou qualquer tarefa que precise ser feita para rodar em ambiente de produção
 
-## UI/UX Design
+## *UI/UX Design*
 
-!!! attention
-    This section can be improved.
+!!! atenção
+    Esta seção pode ser melhorada.
 
-As developers, we don't know deeply about UI and UX design, but we follow basic rules to build pleasant and usable interfaces. Follow the basic rules. In general, we follow the [Good UI](http://goodui.org) rules.
+Como desenvolvedores, nós não sabemos profundamente sobre UI e UX design, mas nós seguimos as regras básicas para construir interfaces agradáveis e utilizáveis. Siga as regras básicas. Em geral, nós seguimos as regras do [Good UI](http://goodui.org).
 
-## Code
-All code must be understandable. That is a clean code principle in which we believe. We avoid commentaries in all cases, except when they are essential.
+## Código
 
-Best practices:
+Todo código deve ser entendível. Este é um princípio de código limpo no qual nós acreditamos. Nós evitamos comentários em todos os casos, exeto quando é essencial.
 
-* All code should be written in English
-* Write tests first
-* Write acceptance tests
-* When you find bad code, improve it
+Melhores práticas:
 
-### Quality
+* Todo código deve ser escrito em Inglês
+* Escreve testes primeiro
+* Escreve testes de aceitação
+* Quando encontrar código ruim, melhore-o
 
-!!! attention
-    This section is missing content
+### Qualidade
 
-* [Design Patterns & Refactoring](https://sourcemaking.com/)
+!!! atenção
+    Esta seção pode ser melhorada.
 
-### Refactoring
+* [Padrões de Design & Refatoração](https://sourcemaking.com/)
 
-!!! attention
-    This section is missing content
+### Refatoração
 
-When starting to work on a new feature, look around to improve the quality of the code you are going to work on. We do not stop everything else to improve our code quality; it is inherent in our development process.
+!!! atenção
+    Esta seção pode ser melhorada.
 
-* [Refactoring](https://sourcemaking.com/refactoring)
+Quando começar a trabalhar em uma nova funcionalidade, olhe em volta para melhorar a qualidade do código. Nós não paramos tudo que estamos fazendo para melhorar a qualidade do código; isto é inerente no nosso processo de desenvolvimento.
 
-### Security Guidelines
+* [Refatoração](https://sourcemaking.com/refactoring)
 
-!!! attention
-    This section is missing content
+### Guias de Seguraça
+
+!!! atenção
+    Esta seção pode ser melhorada.
 
 * [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist)
 
-### Accessibility
+### Accessibilidade
 
-!!! attention
-    This section is missing content
+!!! atenção
+    Esta seção pode ser melhorada.
 
 * [The A11Y Project](http://a11yproject.com)
 * [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet)
 
-## Production
+## Produção
 
-!!! attention
-    This section is missing content
+!!! atenção
+    esta seção pode ser melhorada.
 
 ### Twelve-factor software
 
-!!! attention
-    This section is missing content
+!!! atenção
+    esta seção pode ser melhorada.
 
 * [The Twelve-Factor App](https://12factor.net/)
 
-### Error tracking
+### Rastreamento de Errps
 
 We keep track of errors in production using real-time error tracking tools that give us insights and information to reproduce and fix crashes. By keeping track of errors, we do not need users to report them to us. Sometimes we know about the error before the user notices it. We currently use [Sentry.io](https://sentry.io/welcome/) in our projects.
 
