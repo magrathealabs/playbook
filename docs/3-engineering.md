@@ -131,34 +131,34 @@ Quando começar a trabalhar em uma nova funcionalidade, olhe em volta para melho
 
 * [The Twelve-Factor App](https://12factor.net/)
 
-### Rastreamento de Errps
+### Rastreamento de Erros
 
-We keep track of errors in production using real-time error tracking tools that give us insights and information to reproduce and fix crashes. By keeping track of errors, we do not need users to report them to us. Sometimes we know about the error before the user notices it. We currently use [Sentry.io](https://sentry.io/welcome/) in our projects.
+Nós acompanhamos os erros em produção usando ferramentas de rastreamento em tempo real,  que nos fornecem indícios e informação para reproduzir-los e concertá-los. Com rastreamento de erros, nós não necessitamos dos usuários para relatarem os erros para nós. As vezes, nós percebemos o erro antes que o usuário perceba. Atualmente, nós utilizamos o [Sentry.io](https://sentry.io/welcome/) em nossos projetos.
 
-### Measure
+### Medida
 
-!!! attention
-    This section is missing content
+!!! atenção
+    esta seção pode ser melhorada.
 
 ### Apdex
 
-!!! attention
-    This section is missing content
+!!! atenção
+    esta seção pode ser melhorada.
 
 * [Apdex.org](http://apdex.org/overview.html)
 
-## Scalability
+## Escalabilidade
 
-!!! attention
-    This section is missing content
+!!! atenção
+    esta seção pode ser melhorada.
 
 * [Practical Scalability Analysis](https://www.vividcortex.com/resources/universal-scalability-law)
 
-## eXtreme Programming
+## Programação Extrema
 
-We recommend for every software engineer to read Kent Beck's books about eXtreme Programming. Here we describe some of the practices from XP we embrace.
+Nós recomendamos que todo engenheiro de *software* leia o livro de Kent Back sobre Programação Extrema. A seguir, nós descrevemos algumas das práticas do XP que nós adotamos.
 
-### Tests
+### Testes
 
 Creating unit tests helps a developer to really consider what needs to be done. Requirements are nailed down firmly by tests. There can be no such thing of misunderstanding a specification written in the form of executable code.
 
