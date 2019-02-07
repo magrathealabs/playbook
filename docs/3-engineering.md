@@ -160,11 +160,11 @@ Nós recomendamos que todo engenheiro de *software* leia o livro de Kent Back so
 
 ### Testes
 
-Creating unit tests helps a developer to really consider what needs to be done. Requirements are nailed down firmly by tests. There can be no such thing of misunderstanding a specification written in the form of executable code.
+Testes unitários ajudam desenvolvedores a realmente considerar o que precisa ser feito. Requerimentos são considerados firmemente pelo uso de testes. Não há má interpretação de uma especificação escrita na forma de código.
 
-We're currently using [CircleCI](http://circleci.com/) to run the project's test suite.
+Atualmente, nós utilizamos o [CircleCI](http://circleci.com/) para rodar a suite de testes do projeto.
 
-### Test driven development
+### Desenvolvimento Dirigido a Testes
 
 When you create your [tests first](http://www.extremeprogramming.org/rules/testfirst.html), before the code, you will find it much easier and faster to create your code. The combined time it takes to create a unit test and create some code to make it pass is about the same as just coding it up straight away. But, if you already have the unit tests you don't need to create them after the code saving you some time now and lots later.
 
