@@ -166,7 +166,11 @@ Atualmente, nós utilizamos o [CircleCI](http://circleci.com/) para rodar a suit
 
 ### Desenvolvimento Dirigido a Testes
 
-When you create your [tests first](http://www.extremeprogramming.org/rules/testfirst.html), before the code, you will find it much easier and faster to create your code. The combined time it takes to create a unit test and create some code to make it pass is about the same as just coding it up straight away. But, if you already have the unit tests you don't need to create them after the code saving you some time now and lots later.
+Quando você cria os [testes primeiro](http://www.extremeprogramming.org/rules/testfirst.html), antes da implementação, você vai perceber que é muito mais fácil e rápido criar o seu código. O tempo que leva para criar um teste unitário e criar algum código para passa-lo é mais ou menos o mesmo tempo que implementar diretamente. Mas, se você já tem os testes unitários você não precisará criá-los após a codificação, economizando um pouco de tempo agora e muito tempo mais tarde.
+
+Você também terá um *feedback* imediato enquanto você trabalha. Normalmente não é claro quando um desenvovedor terminou todo trabalho necessário no desenvolvimento de uma funcionalidade. ...
+
+# **CONTINUA ...**
 
 You also have immediate feedback while you work. It is often not clear when a developer has finished all the necessary functionality. Scope creep can occur as extensions and error conditions are considered. If we create our unit tests first then we know when we're done; the unit tests all run.
 
