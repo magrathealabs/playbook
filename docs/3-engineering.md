@@ -24,36 +24,36 @@ Nós usamos o sistema de controle de versões [Git](https://git-scm.com/) para g
 
 As mensagens de *commit* devem descrever as mudanças realizadas no sistema de maneira objetiva, preferivelmente utilizando uma lista de marcadores. As mensagens devem ser claras e concisas para que outros programadores entendam facilmente. Outras práticas sobre mensagens de *commit* podem ser encontradas no blog do [tpope](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
-## Workflow
+## Fluxo de Trabalho
 
-We use the [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/) development protocol.
+Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/).
 
-* Take a task from the `Current` list on Trello
-* Start a new git branch
-* Start coding!
-* Commit changes when you finished
-* Create a [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
-    * Prefer creating small PRs (changing ~500 LOC at most)
-* Clean up (erase created branches)
+* Pegue uma tarefa da lista `Current` no Trello
+* Crie uma nova *branch* no Git
+* Começe a codar!
+* Faça o *commit* das mudanças quando você terminar
+* Crie uma [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
+    * Prefira criar pequenas PRs (~500 LOC no máximo)
+* Exclua a *branch* criada
 
-Each task should have its branch following a consistent name convention from GitFlow:
+Cada *branch* criada deve ter um nome consistente seguindo a convenção do GitFlow:
 
-* `feature/` for features
-* `fix/` for bug fixes
-* `refactor/` for improvements/refactor
-* `chore/` for random tasks
+* `feature/` para funcionalidades
+* `fix/` para correção de *bugs*
+* `refactor/` para melhorias/refatorações
+* `chore/` para tarefas aleatórias
 
-At this point, link the Pull Request in the Trello card and move it to `Code Review`. At least one team member should review and approve your PR. After the review, if approved:
+Neste ponto, relacione o PR no cartão do Trello e mova para `Code Review`. Pelo menos um membro do time deve revisar e aprovar o seu PR. Depois da revisão, se aprovado:
 
-* Merge the changes to master and delete the branch
-    * Prefer to squash merge instead of a normal merge. Only do a normal merge if you want to keep the history of changes in our branch
-* Move the Trello card to `QA` list
-* Deploy the master branch to staging
-    * In some projects the deploy to staging is automatic
+* Faça o *merge* das mudanças para *master* e exclua a *branch*
+    * Prefira um *squash merge* ao invés de um *merge* normal. Somente faça um *merge* normal se você quiser manter o histórico das mudanças na sua *branch*.
+* Mova o cartão do Trello para a lista `QA`
+* Faça o *deploy* da *master* para *staging*
+  * Em alguns projetos o *deploy* para *staging* é automático
 
-In this stage, the customer should review the feature to approve or refuse it. If the task is accepted, we have a new code implementation. We merge master to production branch and deploy it to production environment.
+Neste estágio, O cliente deve revisar a funcionalidade, aprovando ou recusando. Se a tarefa for aprovada, nós temos uma nova implementação do código. Em seguida, fazemos o *merge* da *master* com a *branch* de produção e então, o *deploy* para o ambiente de produção.
 
-Otherwise, the task goes back to `Current` with a description of why the task was rejected in the first place.
+Caso contrário, a tarefa volta para a lista `Current` com uma descrição do porque foi rejeitada.
 
 ### *Pull Requests*
 
@@ -83,9 +83,9 @@ Todo código deve ser entendível. Este é um princípio de código limpo no qua
 
 Melhores práticas:
 
-* Todo código deve ser escrito em Inglês
-* Escreve testes primeiro
-* Escreve testes de aceitação
+* Todo código deve ser escrito em inglês
+* Escreva testes primeiro
+* Escreva testes de aceitação
 * Quando encontrar código ruim, melhore-o
 
 ### Qualidade
@@ -156,7 +156,7 @@ Nós acompanhamos os erros em produção usando ferramentas de rastreamento em t
 
 ## Programação Extrema
 
-Nós recomendamos que todo engenheiro de *software* leia o livro de Kent Back sobre Programação Extrema. A seguir, nós descrevemos algumas das práticas do XP que nós adotamos.
+Nós recomendamos que todo engenheiro de *software* leia o livro do Kent Back sobre Programação Extrema. A seguir, nós descrevemos algumas das práticas do XP que nós adotamos.
 
 ### Testes
 
@@ -166,50 +166,46 @@ Atualmente, nós utilizamos o [CircleCI](http://circleci.com/) para rodar a suit
 
 ### Desenvolvimento Dirigido a Testes
 
-Quando você cria os [testes primeiro](http://www.extremeprogramming.org/rules/testfirst.html), antes da implementação, você vai perceber que é muito mais fácil e rápido criar o seu código. O tempo que leva para criar um teste unitário e criar algum código para passa-lo é mais ou menos o mesmo tempo que implementar diretamente. Mas, se você já tem os testes unitários você não precisará criá-los após a codificação, economizando um pouco de tempo agora e muito tempo mais tarde.
+Quando você cria os [testes primeiro](http://www.extremeprogramming.org/rules/testfirst.html), antes da implementação, você vai perceber que é muito mais fácil e rápido criar o seu código. O tempo que leva para criar um teste unitário e criar algum código para passá-lo é mais ou menos o mesmo tempo que implementar diretamente. Então, se você já tem os testes unitários você não precisará criá-los após a codificação, economizando um pouco de tempo agora e muito tempo mais tarde.
 
-Você também terá um *feedback* imediato enquanto você trabalha. Normalmente não é claro quando um desenvovedor terminou todo trabalho necessário no desenvolvimento de uma funcionalidade. ...
+Além do mais, você terá um *feedback* imediato enquanto você trabalha. Normalmente não é claro quando um desenvovedor terminou todo trabalho necessário no desenvolvimento de uma funcionalidade. Assim, podendo ocorrer o chamado *scope creep*, que é quando o escopo do projeto se extende além dos requerimentos estipulados pelo cliente. Se criarmos nossos testes unitários primeiro, saberemos quando terminamos a codificação, ou seja, quando todos os testes passarem.
 
-# **CONTINUA ...**
+Há também um benefício ao projetar o sistema. Normalmente é bem difícil fazer testes unitários dependendo do sistema. Estes sistemas normalmente são construídos começando pela codificação para depois serem feitos os testes, normalmente por um time totalmente diferente. Criando testes primeiro você será influenciado pelo desejo de testar tudo que seja de valor para o cliente. Isto acontece porque fica mais fácil de testar.
 
-You also have immediate feedback while you work. It is often not clear when a developer has finished all the necessary functionality. Scope creep can occur as extensions and error conditions are considered. If we create our unit tests first then we know when we're done; the unit tests all run.
+As 3 regras de TDD do *Uncle Bob*:
 
-There is also a benefit to system design. It is often very difficult to unit test some software systems. These systems are typically built code first and testing second, often by a different team entirely. By creating tests first your design will be influenced by a desire to test everything of value to your customer. Your design will reflect this by being easier to test.
+1. Você não tem permição para escrever qualquer código de produção a não ser que seja para fazer um teste unitário passar
+2. Você não tem permissão para escrever mais de um teste unitário do que é suficiente para falhar
+3. Você não tem permissão para escrever mais código de produção do que o necessário para passar o único teste unitário
 
-Uncle Bob's 3 rules of TDD:
+### Testes de Aceitação
 
-1. You are not allowed to write any production code unless it is to make a failing unit test pass
-2. You are not allowed to write any more of a unit test than is sufﬁcient to fail
-3. You are not allowed to write any more production code than is sufﬁcient to pass the one failing unit test
+[Testes de Aceitação](http://www.extremeprogramming.org/rules/functionaltests.html) são criados a partir de histórias de usuários. Durante uma iteração, as histórias de usuários selecionadas durante a reunião de planejamento vão ser transcritas para testes de aceitação. O cliente especifica cenários para serem testados, garantindo que uma história de usuário foi implementada corretamente. Uma história pode ter mais de um teste de aceitação; o que precisar para garantir a funcionalidade do que está sendo implementado.
 
-### Acceptance tests
+Testes de aceitação são testes caixa preta. Cada teste de aceitação representa algum resultados esperado do sistema. Uma história de usuário não é considerada completa até que tenha passado por todos os testes de aceitação relacionados a ela.
 
-[Acceptance Tests](http://www.extremeprogramming.org/rules/functionaltests.html) are created from user stories. During an iteration the user stories selected during the iteration planning meeting will be translated into acceptance tests. The customer specifies scenarios to test when a user story has been correctly implemented. A story can have one or many acceptance tests, what ever it takes to ensure the functionality works.
+Testes de aceitação devem ser automatizados para que possam ser executados regularmente. O resultado dos testes de aceitação são publicados para todo time. É responsabilidade do time em arranjar tempo a cada iteração para concertar qualquer teste que falhe.
 
-Acceptance tests are black box system tests. Each acceptance test represents some expected result from the system. A user story is not considered complete until it has passed its acceptance tests.
+### Integração contínua
 
-Acceptance tests should be automated so they can be run often. The acceptance test score is published to the team. It is the team's responsibility to schedule time each iteration to fix any failed tests.
+Integre o trabalho relizado constantemente, pelo menos diariamente. [Integração Contínua](http://www.extremeprogramming.org/rules/integrateoften.html) é uma prática de desenvolvimento de *software* que nós usamos para verificar erros de integração de uma maneira automatizada o mais rápido possível.
 
-### Continuous Integration
+Desenvolvedores devem integrar e fazer *commit* do código no repositório em intervalos de algumas horas, ou quando possível. Para todos os casos, nunca deixe passar mais de um dia. A integração contínua geralmente evita esforços de desenvolvimento divergentes ou fragmentados, onde desenvolvedores não se comunicam direito sobre o que pode ser reutilizado, ou compartilhado. Todos precisam trabalhar com a versão do código atualizada. Mudanças não devem ser feitas em código obsoleto causando problemas de integração.
 
-Integrate work frequently, at least daily. [Continuous Integration](http://www.extremeprogramming.org/rules/integrateoften.html) is a software development practice that we use to verify our code in an automated way to detect integration errors as quickly as possible.
+A integração contínua evita ou detecta problemas de compatibilidade antecipadamente. Se você integrar o projeto em pequenas quantidades, não ficará tentando integrar o sistema por semanas no final do projeto, enquanto o prazo se esgota.
 
-Developers should be integrating and committing code into the code repository every few hours, whenever possible. In any case never hold onto changes for more than a day. Continuous integration often avoids diverging or fragmented development efforts, where developers are not communicating with each other about what can be re-used, or what could be shared. Everyone needs to work with the latest version. Changes should not be made to obsolete code causing integration headaches.
+Veja o [guia sobre Integração Contínua](https://martinfowler.com/articles/continuousIntegration.html) para mais detalhes.
 
-Continuous integration avoids or detects compatibility problems early. If you integrate throughout the project in small amounts you will not find yourself trying to integrate the system for weeks at the project's end while the deadline slips by.
+### Programação em pares
 
-See Martin Fowler [guide to Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) for mode details.
+Todo código enviado a produção que é criado por duas pessoas trabalhando em conjunto em um único computador é chamado [programação em pares](http://www.extremeprogramming.org/rules/pair.html).
 
-### Pair Programming
+Programação em pares aumenta a qualidade do *software* sem impactar no tempo de entrega. É contra intuitivo, mas duas pessoas trabalhando em conjunto em um único computador irá adicionar muito mais funcionalidade do que duas pessoas trabalhando separadas, e o código terá muito mais qualidade. O aumento na qualidade resulta em economia mais tarde.
 
-All code to be sent into production that is created by two people working together at a single computer is [pair programming](http://www.extremeprogramming.org/rules/pair.html).
+Programação em pares não é mentoria. Uma relação entre professor e estudante é muito diferente de duas pessoas trabalhando em conjunto como iguais, mesmo se um tem muito mais experiência que outro.
 
-Pair programming increases software quality without impacting time to deliver. It is counter intuitive, but two people working at a single computer will add as much functionality as two working separately except that it will be much higher in quality. With increased quality comes big savings later in the project.
+### Revisão de Código
 
-One thing pair programming is not is mentoring. A teacher-student relationship feels very different from two people working together as equals even if one has significantly more experience.
+Revisão de código é uma [revisão feita por pares](https://blog.codinghorror.com/code-reviews-just-do-it/), na qual outras pessoas além do autor examinam o código com objetivo de encontrar erros e oportunidades de melhorias.
 
-### Code review
-
-Code review is a  [Peer review](https://blog.codinghorror.com/code-reviews-just-do-it/) activity in which people other than the author of a software deliverable examine it for defects and improvement opportunities.
-
-Code reviews are intended to ensure conformance to standards, and more importantly, intended to ensure that the code is clear, efficient and works. They also intended to help disseminate knowledge about the code to the rest of the team. This ensures that more than one person has intimate knowledge of the code at all times.
+O objetivo de revisões de código são para garantir conformidade com os padrões estabelecidos, e mais importante, garantir que o código é limpo, eficiente e funciona. E também ajudam a disseminar o conhecimento sobre o código para o resto do time. Isto garante que mais de uma pessoa tem conhecimento íntimo do código todo tempo.
