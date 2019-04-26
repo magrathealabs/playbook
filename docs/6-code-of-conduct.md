@@ -34,7 +34,7 @@ Este código de conduta aplica-se em situações onde o indivíduo encontra-se d
 
 ## Execução
 
-Casos de comportamento abusivo, assédio, ou outro comportamento inaceitável podem ser relatados contatando [contact@magrathealabs.com](contact@magrathealabs.com). Todas as reclamações vão ser revisadas e investigadas, e resultará em uma reposta considerada necessária e adequada à circunstância. A equipe do projeto é obrigada a manter confidencialidade em relação ao relator de um
+Casos de comportamento abusivo, assédio, ou outros comportamentos inaceitáveis devem ser relatados contatando [contact@magrathealabs.com](contact@magrathealabs.com). Todas as reclamações vão ser revisadas e investigadas, e resultará em uma reposta considerada necessária e adequada à circunstância. A equipe do projeto é obrigada a manter confidencialidade em relação ao relator de um
 incidente. Mais detalhes sobre políticas de execução específicas podem ser publicados separadamente.
 
 ## Atribuição
