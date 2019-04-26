@@ -182,7 +182,7 @@ As 3 regras de TDD do *Uncle Bob*:
 
 [Testes de Aceitação](http://www.extremeprogramming.org/rules/functionaltests.html) são criados a partir de histórias de usuários. Durante uma iteração, as histórias de usuários selecionadas durante a reunião de planejamento vão ser transcritas para testes de aceitação. O cliente especifica cenários para serem testados, garantindo que uma história de usuário foi implementada corretamente. Uma história pode ter mais de um teste de aceitação; o que precisar para garantir a funcionalidade do que está sendo implementado.
 
-Testes de aceitação são testes caixa preta. Cada teste de aceitação representa algum resultados esperado do sistema. Uma história de usuário não é considerada completa até que tenha passado por todos os testes de aceitação relacionados a ela.
+Testes de aceitação são testes de caixa preta. Cada teste de aceitação representa algum resultado esperado do sistema. Uma história de usuário não é considerada completa até que tenha passado seus testes de aceitação.
 
 Testes de aceitação devem ser automatizados para que possam ser executados regularmente. O resultado dos testes de aceitação são publicados para todo time. É responsabilidade do time em arranjar tempo a cada iteração para concertar qualquer teste que falhe.
 
