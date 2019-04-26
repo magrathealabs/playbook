@@ -1,12 +1,12 @@
-# Introduction
+# Introdução
 
-In this document we describe how we run our organization, how we plan our work, develop software and ensure its quality. This document is based on our experience, but also in the [experience](https://thoughtbot.com/playbook) and [study](http://playbook.dxw.com/#/) of [others](https://www.vinta.com.br/playbook/) and is always evolving when we find a better way to do things.
+Neste documento é apresentado como nós administramos a nossa organização, como planejamos nosso trabalho, como desenvolvemos *software* e garantimos sua qualidade. Este documento é baseado na nossa experiência, além da [experiência](https://thoughtbot.com/playbook) e [estudo](http://playbook.dxw.com/#/) de [outros](https://www.vinta.com.br/playbook/), e está sempre evoluindo quando nós encontramos uma maneira melhor de fazer as coisas.
 
 > No matter the circumstance you can always improve. You can always start improving with yourself. You can always start improving today.
 > <br>— *Kent Beck, Extreme Programming Explained*
 
-This playbook is a collaborative effort. If you spot something that is wrong, feel free to hop in and correct it. Everyone at MLabs can edit this playbook by simply opening a [PR (Pull Request)](https://github.com/magrathealabs/playbook) with the desired modifications. In this way, we can discuss it through the PR and keep the discussion archived for future reference.
+Este manual é um esforço colaborativo. Se você perceber que algo está errado, sinta-se a vontade para corrigí-lo. Todo mundo na Magrathea pode editar este manual abrindo um [PR (Pull Request)](https://github.com/magrathealabs/playbook) com as modificações desejadas. Desta maneira, nós podemos discutir através do PR e manter a discussão arquivada para referências futuras.
 
-We believe that there is no such thing as business advantage in maintaining our practices in secret. We improved the way we work from things we learned from others, that improved from things they learned from others. We believe that sharing the way we run our organization can help our industry improve its processes and become more productive, which will also help us.
+Nós acreditamos que não existe vantagem em manter nossas práticas em segredo. Nós aperfeiçoamos a maneira que trabalhamos aprendendo com os outros, que aprenderam com outros. Nós acreditamos que compartilhando a maneira que administramos a nossa organização podemos ajudar a nossa indústria a melhorar seus processos a se tornar mais produtiva, o que nos ajudará também.
 
-This work is available under the terms of the [Creative Commons BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+Este trabalho está disponível sob os termos de [Creative Commons BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
