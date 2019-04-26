@@ -176,7 +176,7 @@ As 3 regras de TDD do *Uncle Bob*:
 
 1. Você não tem permissão para escrever qualquer código de produção a menos que seja para fazer um teste unitário passar
 2. Você não tem permissão para escrever mais em um teste unitário do que é suficiente para falhar
-3. Você não tem permissão para escrever mais código de produção do que o necessário para passar o único teste unitário
+3. Você não tem permissão para escrever mais código de produção do que o necessário para passar o teste unitário que falhou
 
 ### Testes de Aceitação
 
