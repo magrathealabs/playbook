@@ -79,7 +79,7 @@ Como desenvolvedores, nós não sabemos profundamente sobre UI e UX design, mas 
 
 ## Código
 
-Todo código deve ser entendível. Este é um princípio de código limpo no qual nós acreditamos. Nós evitamos comentários em todos os casos, exeto quando é essencial.
+Todo código deve ser entendível. Este é um princípio de código limpo no qual nós acreditamos. Nós evitamos comentários em todos os casos, exceto quando é essencial.
 
 Melhores práticas:
 
