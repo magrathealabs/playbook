@@ -4,16 +4,16 @@ Nesta seção, serão apresentadas as práticas de engenharia que nós utilizamo
 
 ## Diretrizes Gerais
 
-Diretrizes em alto-nível:
+Diretrizes de alto-nível:
 
 * Seja consistente
 * Não reescreva código existente para seguir este guia
 * Não viole uma orientação deste guia sem uma boa razão
-* Uma boa razão é quando você consegue convencer alguém do time
+* Uma razão é boa quando você consegue convencer alguém do time
 
-Uma nota no idioma:
+Notas de linguagem:
 
-* *"Evite"* significa não faça a não ser que vocẽ tenha um bom motivo para fazer
+* *"Evite"* significa não fazer a não ser que vocẽ tenha um bom motivo
 * *"Não"* significa que nunca há uma bom motivo para fazer
 * *"Prefira"* indica uma melhor opção e que sua alternativa deve ser observada
 * *"Use"* é uma instrução positiva
