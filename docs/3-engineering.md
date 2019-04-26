@@ -1,6 +1,6 @@
 # Engenharia
 
-Nesta seção, serão apresentadas as práticas de engenharia que nós utilizamos. Nosso objetivo não é passar o dia escrevendo código. Nós preferimos resolver problems reais para pessoas reais. O *software* que construímos faz diferença para nossos clientes, para os clientes dos nossos clientes, e para você.
+Nesta seção, serão apresentadas as práticas de engenharia que nós utilizamos. Nosso objetivo não é passar o dia escrevendo código. Nós preferimos resolver problemas reais para pessoas reais. O *software* que construímos faz diferença para nossos clientes, para os clientes dos nossos clientes e para você.
 
 ## Diretrizes Gerais
 
