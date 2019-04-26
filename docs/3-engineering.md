@@ -30,7 +30,7 @@ Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-suc
 
 * Pegue uma tarefa da lista `Current` no Trello
 * Crie uma nova *branch* no Git
-* Começe a codar!
+* Comece a escrever códigos!
 * Faça o *commit* das mudanças quando você terminar
 * Crie uma [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
     * Prefira criar pequenas PRs (~500 LOC no máximo)
