@@ -1,158 +1,158 @@
-# Projects
+# Projetos
 
-We work with startups and big companies to develop software products, services and platforms covering all the software development process phases, from initial ideation to systems scalability and long-term support.
+Nós trabalhamos com startups e grandes empresas para desenvolver produtos de software, serviços e plataformas abrangendo todas as fases do processo de desenvolvimento de software, da idealização para a escalabilidade dos sitemas e suporte de longo prazo.
 
-We adopt the Lean principles, meaning we eliminate unnecessary tasks, encourage informed decisions to be made as late as possible, and deliver as fast as possible. We empower teams to make their own decisions and develop ownership.
+Nós adotamos os princípios do Lean Thinking, ou seja, eliminamos tarefas desnecessárias, incentivamos as decisões informadas a serem feitas o mais tarde possível e entregamos o mais rápido possível. Nós capacitamos as equipes para tomar suas próprias decisões e tomarem a propriedade de desenvolvimento.
 
-We also believe in [agile](http://agilemanifesto.org) software development, Kanban and XP practices to every project and sometimes Scrum. Most of our development practices are detailed in the Kent Beck's [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) and Uncle Bob's [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) books. We have tried their practices and found that using most of them improves the quality of our work.
+Nós também acreditamos no desenvolvimento de software [ágil](http://agilemanifesto.org), Kanban e princípios de XP para todos os projetos e ás vezes adotamos o Scrum. A grande parte das nossas práticas de desenvolvimento estam detalhdas nos livros [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) (Kent Beck's) e [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) (Uncle Bob's). Nós usamos as práticas, descobrindo que usar a maioria deles melhora a qualidade do nosso trabalho.
 
-One of our primary process goal is to make frequent, small releases of our working software. We do it through frequent communication and at least with weekly iterations on a product.
+Um dos nossos principais objetivos de processo é fazer entregas pequenas frequentemente do software funcional. Fazemos isso através de comunicação frequente e, pelo menos, com interações semanais no produto.
 
-## Setup
+## Configuração
 
-Change is something ubiquitous in software development, and that’s why we believe that no software development process is perfect. We embrace change by being always aware of our current processes and seeking continuous improvement at every stage.
+A mudança é algo onipresente no desenvolvimento de software. Este é o motivo pelo qual acreditamos que nenhum processo de desenvolvimento de software é perfeito. Adotamos a mudança, estando sempre concientes dos nossos processos atuais e buscando melhorias contínuas em todas as etapas.
 
-We use [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) to help us develop and evolve our processes and STATIK (acronym for *Systems Thinking Approach to Introducing Kanban*) to guide our Kanban implementations and reviews. STATIK is an iterative 8-step process that can be summarized as:
+Nós usamos [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) para ajudar-nos a desenvolver e evoluir nossos processos e o STATIK (sigla para *Systems Thinking Approach to Introducing Kanban*) para guiar nossas implementações e revisões do Kanban. O STATIK é um processo iterativo de 8 etapas que pode ser resumido como:
 
-1. Understand what makes the service fit for purpose for the customer
-2. Understand sources of dissatisfaction
-3. Analyze demand
-4. Analyze capability
-5. Model workflow
-6. Discover classes of service
-7. Design kanban systems
-8. Socialize the design and negotiate implementation
+1. Entenda o que torna o serviço adequado para o propósito do cliente
+2. Entenda as fontes de insatisfação
+3. Analise a demanda
+4. Analisar capacidade
+5. Modelar o fluxo de trabalho
+6. Descubra classes de serviço
+7. Projetar sistemas kanban
+8. Socialize o design e negocie a implementação
 
-We always seek to exercise this with all our collaborators and customers, capturing multiple perspectives in order to achieve a solid  understanding of current issues, processes and roles.
+Sempre procuramos exercitar isso com todos os nossos colaboradores e clientes, capturando várias perspectivas para obter uma sólida compreensão dos problemas, processos e regras.
 
-## Planning
+## Planejamento
 
-> Plans are nothing; planning is everything
-> <br>— *Dwight D. Eisenhower*
+> Planos não são nada; Planejamento é tudo
+> <br>— *Dwight D. Eisenhower* (Tradução literal)
 
-Writing plans for projects is important. In any form and size, a plan provides a framework to organize the neural pathways in your mind and to make the raw information available in an accessible way to the rest of the team in a way to have a future reference.
+Escrever planos para projetos é importante. Em qualquer forma e tamanho, um plano fornece uma estrutura para organizar os caminhos neurais em sua mente e disponibilizar as informações brutas de maneira acessível para o restante da equipe, de modo a ter uma referência futura.
 
-However, do not stick to a plan. A project plan does not capture everything. Changes happen all the time and, unfortunately, a plan usually fails to capture the randomness of life.
+No entanto, não se atenha a um plano. Um plano de projeto não captura tudo. As mudanças acontecem o tempo todo e, infelizmente, um plano geralmente não capta a aleatoriedade da vida.
 
-> Everything in software changes. The requirements change. The design changes. The business changes. The technology changes. The team changes. The team members change. The problem isn't changing because change is going to happen; the problem, rather, is our inability to cope with change.
-> <br>— Kent Beck, Extreme Programming Explained
+> Tudo no software muda. Os requisitos mudam. O design muda. O negócio muda. A tecnologia muda. A equipe muda. Os membros da equipe mudam. O problema não está mudando porque a mudança vai acontecer; O problema, ao contrário, é nossa incapacidade de lidar com a mudança.
+> <br>— *Kent Beck*, Extreme Programming Explained (Tradução literal)
 
-## Documentation
+## Documentação
 
-Clear communication is a core of our development process. We believe it is a matter of proper documentation to register all steps of the way when making software. A proper documentation allows software to be easily maintainable by others and even by ourselves when we deal with code that was made some time ago.
+A comunicação clara é o núcleo do nosso processo de desenvolvimento. Acreditamos que é uma questão de documentação adequada para registrar todas as etapas do caminho ao fazer o software. Uma documentação adequada permite que o software seja facilmente mantido por outros e até por nós mesmos quando lidamos com código que foi feito há algum tempo.
 
-However, to have a good documentation does not mean we will write long comments at the side of each line of code. Moreover, it does not mean we will have long messages in the commits explaining each little change in the software. Therefore the documenting must be done at a right amount and in an organised manner.
+No entanto, ter uma boa documentação não significa que iremos escrever longos comentários ao lado de cada linha de código. Além disso, isso não significa que teremos mensagens longas nos commits explicando cada pequena mudança no software. Portanto, a documentação deve ser feita na quantidade certa e de maneira organizada.
 
-For us, a well written code is a good documentation by itself. The automated test suite also should give to engineers insights and answer their questions about how the software works. If there is something that can't be understood from the code, good commit messages and well documented Pull Requests should give the answers. Also, the tasks from the task manager are linked in the Pull Requests, and by looking on them we can understand what the client requested.
+Para nós, um código bem escrito é uma boa documentação por si só. A suíte de testes automatizados também devem fornecer informações aos engenheiros e responder às perguntas sobre como o software funciona. Se houver algo que não possa ser entendido a partir do código, boas mensagens de Commits e Pull Requests bem documentadas devem fornecer as respostas. Além disso, as tarefas do board são vinculadas nas Solicitações de Pull Request e, ao examiná-las, podemos entender o que o cliente solicitou.
 
-All projects also have some accompaniment docs:
+Todos os projetos também possuem alguns documentos de acompanhamento:
 
-* [Commercial Proposal](https://docs.google.com/document/d/1sESbIJ_I53wYpENJo8iZU5TcdfZK8tZlzEwkfzPj4_w/edit)
-* [Project](https://docs.google.com/a/magrathealabs.com/document/d/1IU_-NaHIaXniNpa-qpl_55tIdeLmi5TYVDpbrSTc-jk/edit)
-* [Contract](https://docs.google.com/a/magrathealabs.com/document/d/1Xhk0-s2k5ONhC2Z8gpXpPzlFagnDH7Y7D208jq-D69U/edit)
-* [Project Completion Term](https://docs.google.com/document/d/1KF3qVysLKTRBIS8-f6dxW64N-HyatC_UplUtzBDyrwM/edit)
-* [NDA](https://docs.google.com/document/d/1lY-N5sT8BX-YWKflEqt-m1HPdY5rzS02g1cIB6WtSfE/edit)
+* [Proposta Comercial](https://docs.google.com/document/d/1sESbIJ_I53wYpENJo8iZU5TcdfZK8tZlzEwkfzPj4_w/edit)
+* [Projeto](https://docs.google.com/a/magrathealabs.com/document/d/1IU_-NaHIaXniNpa-qpl_55tIdeLmi5TYVDpbrSTc-jk/edit)
+* [Contrato](https://docs.google.com/a/magrathealabs.com/document/d/1Xhk0-s2k5ONhC2Z8gpXpPzlFagnDH7Y7D208jq-D69U/edit)
+* [Termo de Conclusão do Projeto](https://docs.google.com/document/d/1KF3qVysLKTRBIS8-f6dxW64N-HyatC_UplUtzBDyrwM/edit)
+* [Acordo de Não Divulgação](https://docs.google.com/document/d/1lY-N5sT8BX-YWKflEqt-m1HPdY5rzS02g1cIB6WtSfE/edit)
 
-We start the project with the commercial proposal, with a broad vision of the project's estimates and costs. We write this document to start negotiating with our clients. Then, we write the project, with the initial requirements and functional specs. The project document is attached to the contract. When finishing a project, we give to our customer the project completion term, where we list what we have done and ask for feedback about our work. In some projects, we also use a particular NDA document.
+Iniciamos o projeto com a Proposta Comercial, com uma visão ampla das estimativas e custos do projeto. Escrevemos este documento para começar a negociar com nossos clientes. Em seguida, escrevemos o Projeto, com os requisitos iniciais e as especificações funcionais. O documento do projeto está anexado ao Contrato. Ao finalizar um projeto, damos ao cliente o Termo de Conclusão de Projeto, onde listamos o que fizemos e pedimos feedback sobre o nosso trabalho. Em alguns projetos, também usamos um documento específico para Acordo de Não Divulgação.
 
-## Methods
+## Métodos
 
-Our process ensures [short, user-tested development cycles](http://www.extremeprogramming.org/rules/releaseoften.html), making it easier to integrate client and customer feedback. It also allows us to quickly get back on course and build on new information.
+Nosso processo garante [ciclos de desenvolvimento curtos e testados pelo usuário](http://www.extremeprogramming.org/rules/releaseoften.html), facilitando a integração do feedback do cliente. Também nos permite voltar rapidamente ao curso e construir com as novas informações.
 
-Our software development process mix ceremonies and practices from XP, Scrum and Kanban. Regularly, we reflect on how to become more effective, tuning and adjusting our behaviour accordingly. We look for a motivating environment and culture, where everybody trusts each other to receive constructive feedback and get the job done.
+Nosso processo de desenvolvimento de software mistura cerimônias e práticas de XP, Scrum e Kanban. Regularmente, refletimos sobre como nos tornar mais eficientes, ajustando nosso comportamento de acordo a aprimorar o processo. Buscamos um ambiente e cultura motivadora, onde todos confiam uns nos outros para receber feedback construtivo e realizar o trabalho.
 
-We believe that it ensures that we avoid creating a task-oriented environment and favours a mission-oriented environment. A task-oriented environment is that in which the members of team have only a visibility of the work they are performing at that moment, without seeing the implications of their work as a whole. This enforces that developers maintain an individual job queues and a manager should be responsible for centralising the decision of what should be done.
+Acreditamos que isso evita a criação de um ambiente orientado a tarefas e favorece um ambiente orientado para a missão. Um ambiente orientado a tarefas é aquele em que os membros da equipe têm apenas uma visibilidade do trabalho que estão realizando naquele momento, sem ver as implicações de seu trabalho como um todo. Isso impõe que os desenvolvedores mantenham filas de trabalho individuais e que um gerente seja responsável por centralizar as decisões sobre o que deve ser feito.
 
-By creating a mission-oriented environment, we have a single queue of work in your development process, which will improve the utilisation of available resources, decreasing the delivery time of the demands that have gone through the flow, and collecting faster feedback about what is being built.
+Ao criar um ambiente orientado para a missão, temos uma única fila de trabalho em seu processo de desenvolvimento, que melhorará a utilização dos recursos disponíveis, diminuindo o tempo de entrega das demandas que passaram pelo fluxo e coletando feedback mais rápido sobre o que está sendo construído.
 
-By favouring a mission-oriented environment, we change the question from "What should we do now?" to "What do we need to achieve?". Thus, the effort of the team members is directed toward solving the problems that really matter at a given moment rather than just delivering demands received from someone.
+Ao favorecer um ambiente orientado para a missão, mudamos a pergunta "O que devemos fazer agora?" para "O que precisamos alcançar?" Assim, o esforço dos membros da equipe é direcionado para resolver os problemas que realmente importam em um determinado momento, em vez de apenas entregar as demandas recebidas de alguém.
 
-While a task-oriented environment makes developers care only with their own work, a mission-oriented environment makes developers focus on the big picture. This helps the developers to identify bottlenecks in the process and proactively work on them, like reviewing colleagues code or do pair programming to work in a hard task.
+Enquanto um ambiente orientado a tarefas faz com que os desenvolvedores se preocupem apenas com seu próprio trabalho, um ambiente orientado à missão faz com que os desenvolvedores se concentrem no panorama geral. Isso ajuda os desenvolvedores a identificar gargalos no processo e trabalhar de forma proativa para resolvê-los, como revisar código de colegas ou fazer par de programação para trabalhar em uma tarefa difícil.
 
-This is an example of a regular project's Trello board:
+Este é um exemplo do quadro Trello de um projeto comum:
 
 <center>
-![images/trello.png](images/trello.png)
-[Template project](https://trello.com/b/OzLyn6bx/projeto-template).
+    ![images/trello.png](images/trello.png)
+    [Projeto Template](https://trello.com/b/OzLyn6bx/projeto-template).
 </center>
 
-The board is organised in a way that all the flow, from ideas (upstream), to development (downstream) is visible by all team members. Focusing only on upstream effectiveness (ideas options) raises a risk of starvation in the downstream (too much execution requests). Without downstream effectiveness, it is necessary to blindly trust the upstream to prevent non-value-generating demands from flowing.
+O board é organizado de forma que todo o fluxo, de idéias (upstream) a desenvolvimento (downstream) seja visível para todos os membros da equipe. Concentrar-se apenas na eficácia upstream (board de ideias) aumenta o risco de desbalanceamento do board downstream (pedidos de execução excessivos). Sem eficácia no board downstream, é necessário confiar cegamente no upstream para evitar tarefas que não geram valor no fluxo de demandas.
 
-As you can see, the Doing list (in red) and the Code Review list (in yellow) have constraints. This means that there are too many tasks in Work in Process in the Doing list and we're in the limit of tasks in the Code Review. This helps us to keep the amount of Work in Process small and focus on helping others in the team to finish the task or review the open Pull Requests.
+Como você pode ver, a lista de Doing (em vermelho) e a lista de Code Review (em amarelo) têm limites de cards. Isso significa que há muitas tarefas no Work in Process na lista Doing e estamos no limite de tarefas na lista Code Review. Isso nos ajuda a manter a quantidade de trabalho em andamento pequena, tornando o foco em ajudar os outros membros da equipe a concluírem a tarefa ou revisar os Pull Requests abertos.
 
-## Project management
+## Gerenciamento de Projeto
 
-We like to work in phases, iterating with customers to prioritize, test and learn about what we're doing. We implement POCs to explore the potential of our ideas, so we can focus on a particular one to build the MVP, scaling the ones that worked:
+Gostamos de trabalhar em fases, interagindo com os clientes para priorizar, testar e aprender sobre o que estamos fazendo. Implementamos os POCs para explorar o potencial de nossas ideias, para que possamos nos concentrar em um particular para construir o MVP, escalonando os que funcionaram:
 
-![Project Flow](images/project-flow.png "Project Flow")
+![Fluxo de Projeto](images/project-flow.png "Fluxo de Projeto")
 <center>[Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)</center>
 
-Our software projects are managed on [Trello](https://trello.com). In our experience, Trello is a flexible tool where developers, product managers, designers and customers can work together.
+Nossos projetos de software são gerenciados no [Trello](https://trello.com). Em nossa experiência, o Trello é uma ferramenta flexível na qual desenvolvedores, gerentes de produto, designers e clientes podem trabalhar juntos.
 
-This space is used to specify users stories, write about opportunities to improve the software, problems we should solve, design of solutions, features and bugs (including all steps to reproduce them), and other discussions that must happen before coding.
+Esse espaço é usado para especificar histórias de usuários, escrever sobre oportunidades para melhorar o software, problemas que devem ser resolvidos, design de soluções, recursos e bugs (incluindo todas as etapas para reproduzi-los) e outras discussões que devem acontecer antes da codificação.
 
-For each feature, we write a story with a subset of tasks. We always try to break the stories in the smallest possible pieces to deliver value to the user of the system.
+Para cada feature, escrevemos uma história com um subconjunto de tarefas. Nós sempre tentamos quebrar as histórias nas menores peças possíveis para entregar valor ao usuário do sistema.
 
-Stories should be understandable by everyone on the team, including designers, PMs (Project Managers) and POs (Project Owners). We may create some stories that are too technical, but this is an exception; the rule should be "every story should have all the necessary information to be understood by anyone".
+As histórias devem ser compreensíveis por todos da equipe, incluindo designers, PMs (Project Managers) e POs (Project Owners). Podemos criar algumas histórias que são muito técnicas, mas isso é uma exceção; a regra deve ser "toda história deve ter todas as informações necessárias para ser entendida por qualquer pessoa".
 
-### Estimates
+### Estimativas
 
-Stories are estimated using the Fibonacci sequence:
+As histórias são estimadas usando a seqüência de Fibonacci:
 
-* **0 points**: trivial (~10 minutes)
-* **1 point**: 1/4 day of work
-* **2 points**: 1/2 day of work
-* **3 points**: 1 day of work
-* **5 points**: 2~3 days of work (should be split into smaller tasks)
-* **8 points**: 1 week of work (should be split into smaller tasks)
+* **0 pontos**: trivial (~10 minutes)
+* **1 ponto**: 1/4 dia de trabalho
+* **2 pontos**: 1/2 dia de trabalho
+* **3 pontos**: 1 dia de trabalho
+* **5 pontos**: 2~3 dias de trabalho (Espera-se que seja quebrada em mais tarefas)
+* **8 pontos**: 1 semana de trabalho (Espera-se que seja quebrada em mais tarefas)
 
-We estimate the stories before starting, and after finishing them. In this way we can track how good is our estimates and improve them in the next sprints.
+Estimamos as histórias antes de começar e depois de terminá-las. Desta forma, podemos acompanhar quão boas são as nossas estimativas e melhorá-las nos próximos sprints.
 
-we're using the [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje) plugin to help us estimate the stories on Trello.
+Estamos usando o plug-in [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje) para nos ajudar a estimar as histórias no Trello.
 
-### Project management software
+### Software de gerenciamento de projetos
 
-Here we describe the process of using Trello, but the overall process remains relatively similar across different systems. No two products are the same, so flexibility in the product development process is important. Trello responds well to changing the structure of the process “on the fly.” A Trello board is a software equivalent of a physical Kanban board.
+Aqui, descrevemos o processo de uso do Trello, mas o processo geral permanece relativamente semelhante em diferentes sistemas. Não há dois produtos iguais, portanto, a flexibilidade no processo de desenvolvimento do produto é importante. Trello responde bem a mudar a estrutura do processo “on the fly”. Um quadro Trello é um equivalente de software de um quadro Kanban físico.
 
-Generally, our boards include the following lists:
+Geralmente, nossos quadros incluem as seguintes listas:
 
-* Opportunities and problems
-* Solution design
-* Breaking down stories
-* Backlog
-* Current Sprint
-* Doing
-* Code Review
-* QA Review
-* Ready for Production
-* Done
+* Opportunities and problems (Oportunidades e problemas)
+* Solution design (Projeto da solução)
+* Breaking down stories (Quebrando histórias)
+* Backlog (Lista de pendências)
+* Current Sprint (Sprint atual)
+* Doing (Fazendo)
+* Code Review (Revisão de código)
+* QA Review (Qualidade)
+* Ready for Production (Pronto para produção)
+* Done (Feito)
 
-In some projects, we also have the "Support" list on the side of "Current Sprint" where we add urgent support work that should be addressed as soon as possible by the teammate that is wearing the support hat. Every week the support hat should be with a different teammate.
+Em alguns projetos, também temos a lista de "Support" (Suporte) ao lado de "Current Sprint", onde adicionamos um trabalho de suporte urgente que deve ser tratado o mais rapidamente possível pelo colega de equipe que está usando o chapéu de suporte. Toda semana o chapéu de apoio deve estar com um colega de equipe diferente.
 
-"Opportunities and problems" and "Solution design" are the upstream, where product, design and client's team work to prioritize work and design the solution.
+"Opportunities and problems" e "Solution design" pertencem ao upstream, onde o time de produto e design, junto a equipe do cliente, trabalham para priorizar o trabalho e projetar a solução.
 
-The Backlog list is the single prioritized list to which the product team refers in order to know what to work on next. A card represents a User Story, bug fix or engineering task.
+A lista "Backlog" é a única lista priorizada a que a equipe do produto se refere para saber o que trabalhar em seguida. Um card representa uma história de usuário, correção de bug ou tarefa de engenharia.
 
-Once the cards in the Backlog list have been prioritized, they are ready for development. A developer assigns it to him and pull it into the Doing list. The cards in the Doing list are actively being developed. Etiquette is that you should never have your face on more than one card at a time. Work is done in a feature branch.
+Depois que os cards na lista de Backlog forem priorizadas, elas estarão prontas para a execução. Um membro do projeto atribui-se e puxa para a lista "Doing". As cartas na lista de "Doing" estão sendo ativamente desenvolvidas. Você não pode estar atribuido em mais de um card na mesma etapa.
 
-When the developer creates a pull request for their feature branch, they move the card to the Code Review list. Any reviewers put their face in the card while reviewing it. There is no bottleneck for merging into master: everyone can do it.
+Quando o desenvolvedor cria um Pull Request para a branch de funcionamento, ele move o cartão para a lista de Code Review. Qualquer revisor atribui seu rosto no cartão enquanto revê-lo. Não há afunilamento para mesclar na master: todos podem fazer isso.
 
-The cards in the QA Review list are deployed to staging. The card creator and in some cases the client review it. There is no bottleneck for deploying to staging: everyone can do it.
+Os cartões na lista "QA Review" são implantados no staging. O criador do cartão e, em alguns casos, o cliente revisa a nova funionalidade. Não há afunilamento para implantação em teste: todos podem fazer isso.
 
-Ready to Production list include cards that have been accepted on staging and are ready to be deployed. There is no bottleneck for releasing to production: everyone can do it. The cards in the Done lists have been released. Each week has its own Done list so we can follow what got released when.
+A lista "Ready for Production" inclui cartões que foram aceitos no staging e estão prontos para serem implantados. Não há gargalo para liberar para produção: todos podem fazê-lo. Os cartões nas listas "Done" já estão liberados em produção. Cada semana tem sua própria lista "Done" para que possamos acompanhar o que foi lançado em determinado período.
 
-These are some essential Chrome/Firefox plugins we currently use.
+Estes são alguns plugins essenciais do Chrome / Firefox que usamos atualmente:
 
 #### [Trelabels](https://github.com/fredericseiler/trelabels)
 
-For better labels.
+Para melhores rótulos no trello.
 
 ![](https://cloud.githubusercontent.com/assets/954168/11151664/9d5c657e-8a2e-11e5-9a58-fc82838ebc02.png)
 
 #### [TrelloWIPLimits](https://github.com/NateHark/TrelloWIPLimits)
 
-Adds work-in-progress limits to Trello lists supporting a Kanban workflow. WIP limit on a list, include the limit in braces in the list title (e.g. "Code Review [4]). When the number of cards in the list exceeds the limit, the list background will turn red.
+Adiciona limites de trabalho em andamento às listas do Trello que suportam um fluxo de trabalho Kanban. Para adicionar limite de WIP (Work in Progress) em uma lista, inclua o limite entre chaves no título da lista (por exemplo, `Revisão de código [4]`). Quando o número de cartões na lista exceder o limite, o fundo da lista ficará vermelho.
 
 #### [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
 
-Adds functionality for use in Scrum projects. You can add estimates adding `(NUMBER)` in the beginning of the card title and the consumed points in the end using `[NUMBER]`.
+Adiciona funcionalidade para uso em projetos Scrum. Você pode adicionar estimativas adicionando `(N)` no início do título do cartão e os pontos consumidos no final usando `[N]`.
