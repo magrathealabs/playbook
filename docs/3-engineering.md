@@ -36,7 +36,7 @@ Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-suc
     * Prefira criar pequenos PRs (~500 linhas de código, no máximo)
 * Exclua as *branches* criadas
 
-Cada *branch* criada deve ter um nome consistente seguindo a convenção do GitFlow:
+Cada tarefa deve ter sua *branch* criada com um nome consistente seguindo a convenção do GitFlow:
 
 * `feature/` para funcionalidades
 * `fix/` para correção de *bugs*
