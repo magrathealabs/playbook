@@ -14,8 +14,8 @@ Diretrizes de alto-nível:
 Notas de linguagem:
 
 * *"Evite"* significa não fazer a não ser que vocẽ tenha um bom motivo
-* *"Não"* significa que nunca há uma bom motivo para fazer
-* *"Prefira"* indica uma melhor opção e que sua alternativa deve ser observada
+* *"Não"* significa que nunca há um bom motivo para fazer
+* *"Prefira"* indica uma melhor opção e qual sua alternativa a ser observada
 * *"Use"* é uma instrução positiva
 
 ## Controle de Versão
@@ -33,8 +33,8 @@ Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-suc
 * Comece a escrever códigos!
 * Faça o *commit* das mudanças quando você terminar
 * Crie um [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
-    * Prefira criar pequenas PRs (~500 LOC no máximo)
-* Exclua a *branch* criada
+    * Prefira criar pequenos PRs (~500 linhas de código, no máximo)
+* Exclua as *branches* criadas
 
 Cada *branch* criada deve ter um nome consistente seguindo a convenção do GitFlow:
 
@@ -49,17 +49,17 @@ Neste ponto, relacione o PR no cartão do Trello e mova para `Code Review`. Pelo
     * Prefira um *squash merge* ao invés de um *merge* normal. Somente faça um *merge* normal se você quiser manter o histórico das mudanças na sua *branch*.
 * Mova o cartão do Trello para a lista `QA`
 * Faça o *deploy* da *master* para *staging*
-  * Em alguns projetos o *deploy* para *staging* é automático
+  * Em alguns projetos, o *deploy* para *staging* é automático
 
-Neste estágio, O cliente deve revisar a funcionalidade, aprovando ou recusando. Se a tarefa for aprovada, nós temos uma nova implementação do código. Em seguida, fazemos o *merge* da *master* com a *branch* de produção e então, o *deploy* para o ambiente de produção.
+Neste estágio, o cliente deve revisar a funcionalidade, aprovando ou recusando. Se a tarefa for aprovada, nós temos uma nova implementação do código. Em seguida, fazemos o *merge* da *master* com a *branch* de produção e então, o *deploy* para o ambiente de produção.
 
-Caso contrário, a tarefa volta para a lista `Current` com uma descrição do porque foi rejeitada.
+Caso contrário, a tarefa volta para a lista `Current` com uma descrição do motivo da rejeição.
 
 ### *Pull Requests*
 
 Este espaço permite uma maior discussão entre desenvolvedores e deve incluir um vínculo com o número do *commit* respectivo.
 
-Antes de abrir um PR, leia a descrição da funcionalidade para ver se você implementou tudo. Rode o código e use-o como se você fosse o usuário final. Revise mais um vez os requisitos na descrição da funcionalidade.
+Antes de abrir um PR, leia a descrição da funcionalidade para ver se você implementou tudo. Rode o código e use-o como se você fosse o usuário final. Revise mais uma vez os requisitos na descrição da funcionalidade.
 
 #### Criando um PR
 
@@ -156,26 +156,26 @@ Nós acompanhamos os erros em produção usando ferramentas de rastreamento em t
 
 ## Programação Extrema
 
-Nós recomendamos que todo engenheiro de *software* leia o livro do Kent Back sobre Programação Extrema. A seguir, nós descrevemos algumas das práticas do XP que nós adotamos.
+Nós recomendamos que todo engenheiro de *software* leia o livro do Kent Beck sobre Programação Extrema (*eXtreme Programming*). A seguir, nós descrevemos algumas das práticas do XP que nós adotamos.
 
 ### Testes
 
-Testes unitários ajudam desenvolvedores a realmente considerar o que precisa ser feito. Requerimentos são considerados firmemente pelo uso de testes. Não há má interpretação de uma especificação escrita na forma de código.
+Testes unitários ajudam desenvolvedores a realmente considerar o que precisa ser feito. Requisitos são bem definidos pelo uso de testes. Não há má interpretação de uma especificação escrita na forma de código.
 
 Atualmente, nós utilizamos o [CircleCI](http://circleci.com/) para rodar a suite de testes do projeto.
 
-### Desenvolvimento Dirigido a Testes
+### Desenvolvimento Guiado por Testes (*TDD*)
 
-Quando você cria os [testes primeiro](http://www.extremeprogramming.org/rules/testfirst.html), antes da implementação, você vai perceber que é muito mais fácil e rápido criar o seu código. O tempo que leva para criar um teste unitário e criar algum código para passá-lo é mais ou menos o mesmo tempo que implementar diretamente. Então, se você já tem os testes unitários você não precisará criá-los após a codificação, economizando um pouco de tempo agora e muito tempo mais tarde.
+Quando você cria seus [testes primeiro](http://www.extremeprogramming.org/rules/testfirst.html), antes da implementação, você vai perceber que é muito mais fácil e rápido criar o seu código. O tempo que leva para criar um teste unitário e criar algum código para passá-lo é mais ou menos o mesmo tempo que implementar diretamente. Então, se você já tem os testes unitários você não precisará criá-los após a codificação, economizando um pouco de tempo agora e muito tempo mais tarde.
 
-Além do mais, você terá um *feedback* imediato enquanto você trabalha. Normalmente não é claro quando um desenvovedor terminou todo trabalho necessário no desenvolvimento de uma funcionalidade. Assim, podendo ocorrer o chamado *scope creep*, que é quando o escopo do projeto se extende além dos requerimentos estipulados pelo cliente. Se criarmos nossos testes unitários primeiro, saberemos quando terminamos a codificação, ou seja, quando todos os testes passarem.
+Além do mais, você terá um *feedback* imediato enquanto você trabalha. Normalmente não é claro quando um desenvovedor terminou todo trabalho necessário no desenvolvimento de uma funcionalidade. Assim, podendo ocorrer o chamado *scope creep*, que é quando o escopo do projeto se estende além dos requisitos estipulados pelo cliente. Se criarmos nossos testes unitários primeiro, saberemos quando terminamos a codificação, ou seja, quando todos os testes passarem.
 
 Há também um benefício ao projetar o sistema. Normalmente é bem difícil fazer testes unitários dependendo do sistema. Estes sistemas normalmente são construídos começando pela codificação para depois serem feitos os testes, normalmente por um time totalmente diferente. Criando testes primeiro você será influenciado pelo desejo de testar tudo que seja de valor para o cliente. Isto acontece porque fica mais fácil de testar.
 
 As 3 regras de TDD do *Uncle Bob*:
 
-1. Você não tem permição para escrever qualquer código de produção a não ser que seja para fazer um teste unitário passar
-2. Você não tem permissão para escrever mais de um teste unitário do que é suficiente para falhar
+1. Você não tem permissão para escrever qualquer código de produção a menos que seja para fazer um teste unitário passar
+2. Você não tem permissão para escrever mais em um teste unitário do que é suficiente para falhar
 3. Você não tem permissão para escrever mais código de produção do que o necessário para passar o único teste unitário
 
 ### Testes de Aceitação
