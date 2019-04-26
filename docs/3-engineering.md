@@ -133,7 +133,7 @@ Quando começar a trabalhar em uma nova funcionalidade, olhe em volta para melho
 
 ### Rastreamento de Erros
 
-Nós acompanhamos os erros em produção usando ferramentas de rastreamento em tempo real,  que nos fornecem indícios e informação para reproduzir-los e concertá-los. Com rastreamento de erros, nós não necessitamos dos usuários para relatarem os erros para nós. As vezes, nós percebemos o erro antes que o usuário perceba. Atualmente, nós utilizamos o [Sentry.io](https://sentry.io/welcome/) em nossos projetos.
+Nós acompanhamos os erros em produção usando ferramentas de rastreamento em tempo real que nos fornecem indícios e informação para reproduzi-los e consertá-los. Com rastreamento de erros, nós não necessitamos dos usuários para relatarem os erros para nós. Às vezes nós encontramos o erro antes que o usuário perceba. Atualmente, nós utilizamos o [Sentry.io](https://sentry.io/welcome/) em nossos projetos.
 
 ### Medida
 
