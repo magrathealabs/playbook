@@ -184,7 +184,7 @@ As 3 regras de TDD do *Uncle Bob*:
 
 Testes de aceitação são testes de caixa preta. Cada teste de aceitação representa algum resultado esperado do sistema. Uma história de usuário não é considerada completa até que tenha passado seus testes de aceitação.
 
-Testes de aceitação devem ser automatizados para que possam ser executados regularmente. O resultado dos testes de aceitação são publicados para todo time. É responsabilidade do time em arranjar tempo a cada iteração para concertar qualquer teste que falhe.
+Testes de aceitação devem ser automatizados para que possam ser executados regularmente. O resultado dos testes de aceitação são publicados para todo time. É responsabilidade do time em arranjar tempo a cada iteração para consertar qualquer teste que falhe.
 
 ### Integração contínua
 
