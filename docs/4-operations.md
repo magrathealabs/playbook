@@ -80,6 +80,6 @@ Se houver um livro relevante para o seu trabalho que você gostaria de ler, avis
 
 A **Votocracia** na Magrathea consiste em um orçamento mensal de R$ 500,00 para ser investido em alguma idéia proposta e aprovada pelo grupo. Qualquer pessoa pode dar idéias e não há limite para isso, mas cada pessoa só pode votar uma vez em cada ideia. No final do mês, a ideia mais votada (ou ideias, se a soma das ideias ainda estiver dentro do orçamento) será adquirida e disponibilizada ao grupo
 
-É interessante pensar em aquisições que beneficiam a totalidade ou a maioria do grupo, tanto pela adesão dos votos quanto pelo senso de comunidade. As ideias não se limitam aos produtos, elas também podem ser serviços ou atividades. Por exemplo, já tivemos uma sessão da tarde de massagem: massagem :. Nós também compramos 4 Powerballs e até mesmo peixes eletrônicos (sim, realmente fizemos isso: expressionless :).
+É interessante pensar em aquisições que beneficiam a totalidade ou a maioria do grupo, tanto pela adesão dos votos quanto pelo senso de comunidade. As ideias não se limitam aos produtos, elas também podem ser serviços ou atividades. Por exemplo, já tivemos uma sessão da tarde de massagem: massagem :. Nós também compramos 4 Powerballs e até mesmo peixes eletrônicos (sim, realmente fizemos isso: expressionless:).
 
 Para saber mais e participar, junte-se ao [board](https://trello.com/b/YCWjWorE) e [leia as instruções](https://trello.com/c/3FksxgWf/1-%E2%98%9E-instru%C3%A7%C3%B5es).
