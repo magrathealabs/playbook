@@ -32,7 +32,7 @@ Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-suc
 * Crie uma nova *branch* no Git
 * Comece a escrever códigos!
 * Faça o *commit* das mudanças quando você terminar
-* Crie uma [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
+* Crie um [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
     * Prefira criar pequenas PRs (~500 LOC no máximo)
 * Exclua a *branch* criada
 
