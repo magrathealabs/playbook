@@ -13,7 +13,7 @@ Diretrizes de alto-nível:
 
 Notas de linguagem:
 
-* *"Evite"* significa não fazer a não ser que vocẽ tenha um bom motivo
+* *"Evite"* significa não faça a menos que você tenha um bom motivo
 * *"Não"* significa que nunca há um bom motivo para fazer
 * *"Prefira"* indica uma melhor opção e qual sua alternativa a ser observada
 * *"Use"* é uma instrução positiva
@@ -33,7 +33,7 @@ Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-suc
 * Comece a escrever códigos!
 * Faça o *commit* das mudanças quando você terminar
 * Crie um [Pull Request (PR)](https://help.github.com/articles/creating-a-pull-request)
-    * Prefira criar pequenos PRs (~500 linhas de código, no máximo)
+    * Prefira criar PRs pequenos (~500 linhas de código, no máximo)
 * Exclua as *branches* criadas
 
 Cada tarefa deve ter sua *branch* criada com um nome consistente seguindo a convenção do GitFlow:
