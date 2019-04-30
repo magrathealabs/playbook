@@ -170,13 +170,13 @@ Quando você cria seus [testes primeiro](http://www.extremeprogramming.org/rules
 
 Além do mais, você terá um *feedback* imediato enquanto você trabalha. Normalmente não é claro quando um desenvovedor terminou todo trabalho necessário no desenvolvimento de uma funcionalidade. Assim, podendo ocorrer o chamado *scope creep*, que é quando o escopo do projeto se estende além dos requisitos estipulados pelo cliente. Se criarmos nossos testes unitários primeiro, saberemos quando terminamos a codificação, ou seja, quando todos os testes passarem.
 
-Há também um benefício ao projetar o sistema. Normalmente é bem difícil fazer testes unitários dependendo do sistema. Estes sistemas normalmente são construídos começando pela codificação para depois serem feitos os testes, normalmente por um time totalmente diferente. Criando testes primeiro você será influenciado pelo desejo de testar tudo que seja de valor para o cliente. Isto acontece porque fica mais fácil de testar.
+Há também um benefício ao projetar o sistema. Eventualmente é bem difícil fazer testes unitários em alguns sistemas. Estes sistemas normalmente são construídos começando pela codificação para depois serem feitos os testes, muitas vezes por um time totalmente diferente. Criando testes primeiro você será influenciado pelo desejo de testar tudo que seja de valor para o cliente. Isso será refletido em seu desenvolvimento pela maior facilidade de testar.
 
 As 3 regras de TDD do *Uncle Bob*:
 
-1. Você não tem permissão para escrever qualquer código de produção a menos que seja para fazer um teste unitário passar
-2. Você não tem permissão para escrever mais em um teste unitário do que é suficiente para falhar
-3. Você não tem permissão para escrever mais código de produção do que o necessário para passar o teste unitário que falhou
+1. Você não tem permissão para escrever qualquer código de produção a menos que seja para fazer um teste unitário que esteja falhando passar
+2. Você não tem permissão para escrever mais de um teste unitário do que é suficiente para falhar; E falhas de compilação são falhas também
+3. Você não tem permissão para escrever mais código de produção assim que os testes que estão falhando passarem
 
 ### Testes de Aceitação
 
@@ -186,9 +186,9 @@ Testes de aceitação são testes de caixa preta. Cada teste de aceitação repr
 
 Testes de aceitação devem ser automatizados para que possam ser executados regularmente. O resultado dos testes de aceitação são publicados para todo time. É responsabilidade do time em arranjar tempo a cada iteração para consertar qualquer teste que falhe.
 
-### Integração contínua
+### Integração Contínua
 
-Integre o trabalho relizado constantemente, pelo menos diariamente. [Integração Contínua](http://www.extremeprogramming.org/rules/integrateoften.html) é uma prática de desenvolvimento de *software* que nós usamos para verificar erros de integração de uma maneira automatizada o mais rápido possível.
+Integre o trabalho realizado constantemente, pelo menos diariamente. [Integração Contínua](http://www.extremeprogramming.org/rules/integrateoften.html) é uma prática de desenvolvimento de *software* que nós usamos para verificar erros de integração de uma maneira automatizada o mais rápido possível.
 
 Desenvolvedores devem integrar e fazer *commit* do código no repositório em intervalos de algumas horas, ou quando possível. Para todos os casos, nunca deixe passar mais de um dia. A integração contínua geralmente evita esforços de desenvolvimento divergentes ou fragmentados, onde desenvolvedores não se comunicam direito sobre o que pode ser reutilizado, ou compartilhado. Todos precisam trabalhar com a versão do código atualizada. Mudanças não devem ser feitas em código obsoleto causando problemas de integração.
 
@@ -202,7 +202,7 @@ Todo código enviado a produção que é criado por duas pessoas trabalhando em 
 
 Programação em pares aumenta a qualidade do *software* sem impactar no tempo de entrega. É contra intuitivo, mas duas pessoas trabalhando em conjunto em um único computador irá adicionar muito mais funcionalidade do que duas pessoas trabalhando separadas, e o código terá muito mais qualidade. O aumento na qualidade resulta em economia mais tarde.
 
-Programação em pares não é mentoria. Uma relação entre professor e estudante é muito diferente de duas pessoas trabalhando em conjunto como iguais, mesmo se um tem muito mais experiência que outro.
+Programação em pares não é mentoria. Uma relação entre professor e estudante é muito diferente de duas pessoas trabalhando em conjunto igualmente, mesmo se um tem mais experiência que outro.
 
 ### Revisão de Código
 
