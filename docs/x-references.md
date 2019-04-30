@@ -1,11 +1,10 @@
-# References
+# Referências
 
-Some of our references:
+Estas são algumas de nossas referências:
 
-* Extreme Programming Explained: Embrace Change - Kent Beck
-* Métricas Ágeis: Obtenha melhores resultados em sua equipe - Raphael Donaire Albino
-* Gestão de produtos de software: Como aumentar as chances de sucesso do seu software - Joaquim Torres
-* Clean Code - Robert Martin
+* [Extreme Programming Explained: Embrace Change - Kent Beck](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
+* [Métricas Ágeis: Obtenha melhores resultados em sua equipe - Raphael Donaire Albino](https://www.goodreads.com/book/show/35341623-m-tricas-geis)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 * [Pioneering Organizational Transformation: Here's What You Need to Know](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)
 * [Apprentice Onboarding Packet](https://www.apprentice.io)
 * [Thoughtbot playbook](https://thoughtbot.com/playbook)
@@ -14,8 +13,8 @@ Some of our references:
 * [Startup Garage](https://www.gsb.stanford.edu/stanford-gsb-experience/academic/entrepreneurship/startup-garage)
 * [Google Open Source Docs](https://opensource.google.com/docs)
 
-# Credits
+# Créditos
 
-Inspired from [thoughtbot's playbook](https://thoughtbot.com/playbook) and [thoughtbot's guides](https://github.com/thoughtbot/guides).
+Este documento foi inspirado no [playbook](https://thoughtbot.com/playbook) e nos [guias](https://github.com/thoughtbot/guides) da [thoughtbot](https://thoughtbot.com).
 
-Playbook is © 2018 Magrathea Labs. It is distributed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/3.0/).
+Este trabalho está disponível sob os termos de [Creative Commons BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
