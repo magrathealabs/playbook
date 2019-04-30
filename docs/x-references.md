@@ -15,6 +15,6 @@ Estas são algumas de nossas referências:
 
 # Créditos
 
-Este documento foi inspirado no [playbook da thoughtbot](https://thoughtbot.com/playbook) e [nos guias](https://github.com/thoughtbot/guides).
+Este documento foi inspirado no [playbook](https://thoughtbot.com/playbook) e nos [guias](https://github.com/thoughtbot/guides) da [thoughtbot](https://thoughtbot.com).
 
 Este trabalho está disponível sob os termos de [Creative Commons BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
