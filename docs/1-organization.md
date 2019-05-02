@@ -21,8 +21,8 @@ Existem 4 princípios que nos guiam:
 
 **Nós nos importamos**: não dizemos *"eu te falei"* ou *"isso não é minha responsabilidade"*. Nós nos responsabilizamos por nosso trabalho e sempre procuramos maneiras de melhorá-lo.
 
-**Nós somos ativamente transparentes**:  o que mais importa num time em desenvolvimento de software é comunicação, and nós ativamente nos comunicamos. Comunicação é essencial para criar um senso de time, e cooperação ativa.
+**Nós somos ativamente transparentes**:  o que mais importa num time em desenvolvimento de software é a comunicação, e nós ativamente nos comunicamos. Comunicação é essencial para criar um senso de time, e cooperação ativa.
 
-**Somos um time**: nós somos membros de time e parceiros comprometidos. Não deixamos nossos egos tomarem controle de nós. Vencemos e perdemos juntos. Não temos posições; temos papéis. Podemos discordar um com o outro, porém, nós nos comprementemos com o time.
+**Somos um time**: nós somos membros de um time e parceiros comprometidos. Não deixamos nossos egos tomarem controle de nós. Vencemos e perdemos juntos. Não temos posições; temos papéis. Podemos discordar um com o outro, porém, nós nos comprometemos com o time.
 
-**Somos diferente**: nós procuramos, respeitamos e profundamente apreciamos ideias, perspectivas e experiẽncias diferentes da nossa. Sabemos que essa riqueza é fundamental para a melhor entrega do nosso trabalho. Somos um time de amantes de bacon e vegano. Membros e não membros da comunidade LGBT. Alguns de nós amam Python, e outros, Ruby.
+**Somos diferente**: nós procuramos, respeitamos e profundamente apreciamos ideias, perspectivas e experiências diferentes das nossas. Sabemos que essa riqueza é fundamental para ter a melhor entrega do nosso trabalho. Somos um time de amantes de bacon e veganos. Membros e não membros da comunidade LGBT. Alguns de nós amam Python, e outros, Ruby.
