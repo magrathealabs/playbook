@@ -57,7 +57,7 @@ Iniciamos o projeto com a Proposta Comercial, com uma visão ampla das estimativ
 
 ## Métodos
 
-Nosso processo garante [ciclos de desenvolvimento curtos e testados pelo usuário](http://www.extremeprogramming.org/rules/releaseoften.html), facilitando a integração do feedback do cliente. Também nos permite voltar rapidamente ao curso e construir com as novas informações.
+Nosso processo garante [ciclos de desenvolvimento curtos e testados pelo usuário](http://www.extremeprogramming.org/rules/releaseoften.html), facilitando a integração do feedback do cliente e do usuário. Também nos permite retomar o curso rapidamente e seguir construindo com as novas informações.
 
 Nosso processo de desenvolvimento de software mistura cerimônias e práticas de XP, Scrum e Kanban. Regularmente, refletimos sobre como nos tornar mais eficientes, ajustando nosso comportamento de acordo a aprimorar o processo. Buscamos um ambiente e cultura motivadora, onde todos confiam uns nos outros para receber feedback construtivo e realizar o trabalho.
 
@@ -76,7 +76,7 @@ Este é um exemplo do quadro Trello de um projeto comum:
     [Projeto Template](https://trello.com/b/OzLyn6bx/projeto-template).
 </center>
 
-O board é organizado de forma que todo o fluxo, de ideias (upstream) a desenvolvimento (downstream) seja visível para todos os membros da equipe. Concentrar-se apenas na eficácia da upstream (board de ideias) aumenta o risco de desbalanceamento do board downstream (pedidos de execução excessivos). Sem eficácia no board downstream, é necessário confiar cegamente no upstream para evitar tarefas que não geram valor no fluxo de demandas.
+O board é organizado de forma que todo o fluxo, de ideias (upstream) a desenvolvimento (downstream), seja visível para todos os membros da equipe. Concentrar-se apenas na eficácia da upstream (board de ideias) aumenta o risco de esgotamento do board no downstream (pedidos de execução excessivos). Sem eficácia no board downstream, é necessário confiar cegamente no upstream para evitar tarefas que não geram valor no fluxo de demandas.
 
 Como você pode ver, a lista de Doing (em vermelho) e a lista de Code Review (em amarelo) têm limites de cards. Isso significa que há muitas tarefas no Work in Process na lista Doing e estamos no limite de tarefas na lista Code Review. Isso nos ajuda a manter a quantidade de trabalho em andamento pequena, tornando o foco em ajudar os outros membros da equipe a concluírem a tarefa ou revisar os Pull Requests abertos.
 
@@ -112,7 +112,7 @@ Estamos usando o plug-in [Scrum for Trello](https://chrome.google.com/webstore/d
 
 ### Software de gerenciamento de projetos
 
-Aqui, descrevemos o processo de uso do Trello, mas o processo geral permanece relativamente semelhante em diferentes sistemas. Não há dois produtos iguais, portanto, a flexibilidade no processo de desenvolvimento do produto é importante. Trello responde bem a mudanças na estrutura do processo "on the fly". Um quadro Trello é um equivalente de software de um quadro Kanban físico.
+Aqui, descrevemos o processo de uso do Trello, mas o processo geral permanece relativamente semelhante em diferentes sistemas. Não há dois produtos iguais, portanto, a flexibilidade no processo de desenvolvimento do produto é importante. O Trello responde bem a mudanças na estrutura do processo "on the fly". Um quadro Trello é um equivalente de software de um quadro Kanban físico.
 
 Geralmente, nossos quadros incluem as seguintes listas:
 
