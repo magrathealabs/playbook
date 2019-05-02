@@ -12,6 +12,9 @@ Estas são algumas de nossas referências:
 * [The Design Sprint](https://www.gv.com/sprint)
 * [Startup Garage](https://www.gsb.stanford.edu/stanford-gsb-experience/academic/entrepreneurship/startup-garage)
 * [Google Open Source Docs](https://opensource.google.com/docs)
+* [Who](https://www.goodreads.com/book/show/4989687-who)
+* [Scaling Up](https://www.goodreads.com/book/show/22212880-scaling-up)
+* [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0)
 
 # Créditos
 

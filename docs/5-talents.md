@@ -1,135 +1,133 @@
-# Talents
+# Pessoas
 
-We do not recruit people. We do not hire resources. We discover and help to develop talents. We're looking for people who are proud of their craft and wanting to evolve their careers.
+Nós não recrutamos pessoas, tampouco contratamos recursos. Nós descobrimos e ajudamos a desenvolver talentos. Estamos procurando por quem tenha orgulho de seu ofício e queiram evoluir em sua carreira.
 
-We're constantly looking for new people to join the team, but we're not in a hurry. Our hiring process take 3 to 4 weeks to complete.  We don't want to make a mistake by hiring the wrong person.
+Estamos constantemente à procura de novas pessoas para se juntar ao time, mas não estamos com pressa. Nosso processo de contratação leva de 4 a 6 semanas para ser concluído. Nós não queremos cometer um erro ao contratar a pessoa errada.
 
-The first way we find people is through our networks. We look for people we know. The second way is on Meetups and events, local or online professional communities. The third way we find people is by making sure we're regularly blogging about what we're doing, and being open about our culture, work and process.
+A primeira maneira de encontrar pessoas é através das nossas redes de contatos. Nós procuramos aqueles que conhecemos. A segunda maneira é em meetups e eventos, comunidades profissionais locais ou on-line. A terceira maneira é nos certificarmos de que estamos regularmente falando sobre o que estamos fazendo e sermos abertos sobre nossa cultura, trabalho e processo.
 
-We know what we will get when we hire our teammates in this way. We know they will take initiative because they voluntarily contributed to the community, to open source. We know their coding style. We know their personality and energy level from the local and online  professional communities.
+Sabemos o que obteremos quando contratarmos novas pessoas para a equipe dessa maneira. Sabemos que elas tomarão iniciativa porque contribuíram voluntariamente para a comunidade, para projetos *open-source* ou para seu próprio desenvolvimento pessoal. Nós sabemos o seu estilo de trabalho, conhecemos sua personalidade e sua energia pelo contato que tivemos com eles nas comunidades profissionais locais e on-line.
 
-## Scorecards and job descriptions
+## Scorecards e vagas
 
-Before we decide to advertise a new job, we write a [scorecard](https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions). This helps us make sure we all agree on what we need, and helps candidates to know if their skills are a good for the job. A Scorecard contains the position mission, the outcomes expected from the person, and the competencies needed for the job. The outcomes and competencies need to be things that we can have a go at understanding by asking questions and observing a candidate's behaviour.
+Antes de decidirmos anunciar uma nova vaga, escrevemos um *[Scorecard](https://hbr.org/2016/02/a-scorecard-for-making-better-hiring-decisions)*. Isso nos ajuda a garantir que todos concordem com o que precisamos e ajude as pessoas que se candidatam a saberem se suas habilidades são boas para o trabalho. Um *Scorecard* contém a missão de vaga, os resultados esperados da pessoa e as competências necessárias para o trabalho. Os resultados e competências precisam ser claros, e precisamos conseguir identificar eles fazendo perguntas e observando o comportamento de uma pessoa que se candidatou para a vaga durante as entrevistas.
 
-Throughout the rest of the process, we'll use this document to decide what questions to ask in the meetings.
+Durante o processo de recrutamento, usamos este documento para decidir quais perguntas fazer nas reuniões.
 
-Based on the scorecard, we write a job description that contains:
+Com base no *Scorecard*, escrevemos um anúncio de vaga que contém:
 
-* What we expect for the position
-* What career opportunities we're offering
-* The competencies we're looking for
-* How would be a typical day of work
-* The process that the applicant will follow
+* O que esperamos para a posição
+* Que oportunidades de carreira estamos oferecendo
+* As competências que estamos procurando
+* Como seria um dia típico de trabalho?
+* O processo que a pessoa seguirá
 
-It's important for the job descriptions to be declarative and as objective as possible.
+É importante que as descrições das vagas sejam declarativas e tão objetivas quanto possível.
 
-Almost everything we know about discovering and how to bring the best talents to the team we learned from the books [Who](https://www.goodreads.com/book/show/4989687-who), [Scaling Up](https://www.goodreads.com/book/show/22212880-scaling-up) and [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0). Take a look at them.
+Quase tudo o que sabemos sobre como trazer os melhores talentos para o time aprendemos com os livros [Who](https://www.goodreads.com/book/show/4989687-who), [Scaling Up](https://www.goodreads.com/book/show/22212880-scaling-up) e [Management 3.0](https://www.goodreads.com/book/show/10210821-management-3-0). Dê uma olhada neles.
 
-## Hiring process
+## Processo de contratação
 
-If someone in the company knows and likes you, we will send you an e-mail. If you come to us, you should apply in our [careers web page](http://www.magrathealabs.com/careers/).
+Se alguém da empresa conhece e gosta de você, nós lhe enviaremos um e-mail. Se você vier até nós, você deve se inscrever em nossa [página de novas carreiras](http://careers.magrathealabs.com).
 
-Each candidate moves through a number of stages before being offered a job or declined: a screening interview via phone, a meeting to know the company, a meeting to discuss code with engineers and a meeting to close the deal.
+Cada pessoa passa por várias etapas antes de receber uma oferta de emprego ou recusar: uma entrevista por telefone, uma conversa para conhecer a empresa, uma conversa para conversar sobre código com o time e uma reunião de proposta.
 
-We feel strongly that it's important to be respectful of candidates time and interest in us, and that their attention is valuable. So we do our best to be responsive, human and open. It's particularly important to give unsuccessful candidates good, through feedback about why we haven't made them an offer.
+Sentimos que é importante sermos respeitosos com o tempo e interesse das pessoas que nos enviam currículo. Por isso, fazemos o nosso melhor para sermos responsivos, humanos e abertos. É particularmente importante para nós dar um retorno para aqueles que não foram bem no processo de contratação.
 
-This is the process we follow:
+Este é o processo que seguimos:
 
-1. Someone recommends you, or you apply to a position
-2. Someone at MLabs will send you an e-mail to schedule a call
-3. We call you to know you better and to introduce the company and what we're doing here
-4. If we like you, and you like us, we schedule a meeting in our office so our team can know you better
-5. If you have a cultural fit with us, in the next meeting we will talk about code
-6. If everything goes as expected, we schedule a meeting to discuss the terms
-7. You start working with us 🎉
+1. Alguém recomenda você, ou você se aplica a uma vaga
+2. Alguém na Magrathea enviará um e-mail para agendar uma ligação
+3. Nós ligamos para você para conhecer você melhor e apresentar a empresa e o que estamos fazendo aqui
+4. Se gostamos de você e você gostou de nós, faremos um projeto de código juntos ou você irá apresentar um projeto seu para nós
+5. Agendamos uma conversa em nosso escritório para que nossa equipe te conheça melhor
+6. Se tudo correr como esperado, agendamos uma reunião para discutir os termos de contrato
+7. Você começa a trabalhar conosco 🎉
 
-### Applicant tracking
+### Gestão de candidatos
 
-We track each candidate's progress through the process on the [ATS workspace on Airtable](https://airtable.com/tblDPnrrwTu2qHsQR/viwBgGEWMFGPCeyoT). We manually add candidates or they are created automatically by the forms we use in our [careers web page](http://www.magrathealabs.com/careers/).
+Gerenciamos a contratação de cada candidato através do [Recruitee](https://recruitee.com). Adicionamos os candidatos manualmente ou eles mesmos se candidatam através dos formulários disponibilizados em nossa [página de novas carreiras](http://careers.magrathealabs.com).
 
-### Screening
+### Ligação
 
-The purpose of the screening is to:
+O objetivo da ligação é:
 
-* Introduce ourselves and explain a little more about the job and life at MLabs
-* Talk to the candidate about their experience and explore why they are interested in the job
-* Decide whether you think they are quite likely to have the experience and personal qualities that we're looking for
-*  Know how they heard about the job
+* Nos apresentar e explicar um pouco sobre o trabalho e a vida na Magrathea
+* Falar com a pessoa sobre sua experiência e explorar por que ela está interessada no trabalho
+* Decidir se a pessoa tem a experiência e as qualidades que estamos procurando
+* Descobrir como eles ficaram sabendo da vaga
 
-We try to keep the conversation quite high-level, and avoid going into too much technical detail. This part of the process is more about experience and personal qualities than about skills. Things we try to explore during the conversation:
+Nós tentamos manter a conversa no alto nível, e evitamos entrar em muitos detalhes técnicos. Essa parte do processo é mais sobre experiências e qualidades pessoais do que sobre habilidades técnicas. Coisas que tentamos explorar durante a conversa:
 
-* Does this person seem likely to share our values?
-* Does this person have an interest in our purpose?
-* The person working experience
-* What the person thinks about its own personality and qualifications
+* Esta pessoa parece compartilhar nossos valores?
+* Esta pessoa tem interesse em nosso propósito como empresa?
+* A experiência de trabalho dapessoa
+* O que a pessoa pensa sobre sua própria personalidade e qualificações
 
-We avoid making any commitments during this call. Near the end, we explain that we'll be in touch soon.
+Evitamos nos comprometer com próximos passos durante esta chamada e explicamos que entraremos em contato em breve.
 
-After the call, we can talk about the candidate with the team if we wish, or just make a decision. If we think its quite likely that they have the skills, experience and personal qualities that we need, we should take them through to the first meeting.
+Após a ligação, podemos conversar sobre a pessoa com a equipe, se desejarmos, ou apenas tomar uma decisão. Se achamos que é uma boa escolha,devemos ir para os próximos passos.
 
-### Culture meeting
+### Entrevista
 
-Candidates who have a successful screen will be offered a meeting. This is an hour long with two or three members of the team.
+Esta conversa tem aproximadamente uma hora de duranção com dois ou três membros da equipe.
 
-Before going to an interview, set aside enough time for the interview. We should leave half an hour each side in case the candidate is early or the interview goes long. Make sure you have:
+Reserve tempo suficiente para a entrevista. Devemos deixar meia hora a mais antes e depois para o caso de a pessoa chegar cedo ou a entrevista durar muito. Assegure-se de ter:
 
-* Read the job description
-* Read the candidate's CV
-* Read the [questions for the interview](https://docs.google.com/document/d/122snZj5ya9aEmMAenR_8nDszMRFvJM-1ih0rQ4L6gHY/edit), and thought about whether they are the right things to ask
+* Leia a descrição da vaga
+* Leia o CV da pessoa
+* Leia o [roteiro de entrevista](https://docs.google.com/document/d/122snZj5ya9aEmMAenR_8nDszMRFvJM-1ih0rQ4L6gHY/edit) e pense se elas são as coisas certas a se perguntar
 
-Our interviews are informal. They are a semi-structured conversation, rather than Q&A. We do not recite the list of questions or keep verbose notes on replies. The questions are there to ensure that we don't forget to cover important ground, and as a prompt when the conversation naturally dries up.
+Nossas entrevistas são informais. Eles são uma conversa semi-estruturada, ao invés de perguntas e respostas. Nós não recitamos a lista de perguntas ou mantemos notas detalhadas sobre as respostas. As perguntas estão aí para garantir que não nos esqueçamos de cobrir um terreno importante e como um guia para quando a conversa secar.
 
-The first thing we do when the candidate arrives is to show the office to him. Then, we start with a couple of questions, and then allow the conversation to evolve naturally. We ask questions about things they say, and try to go into more detail on the points that we think will help to assess their skills, experience and personal qualities. Keep the scorecard in mind: this should always be your frame of reference.
+A primeira coisa que fazemos quando a pessoa chega é mostrar o escritório para ela. Então, começamos a entrevista com algumas perguntas sobre ela e sua vida profissional ou academica e deixamos aberto para que a conversa evolua naturalmente. Fazemos perguntas sobre coisas que as pessoas nos falam e tentamos entrar em mais detalhes sobre os pontos que achamos que ajudarão a avaliar suas habilidades, experiência e qualidades pessoais. Mantenha o *Scorecard* em mente: este deve ser sempre o nosso quadro de referência.
 
-At the end of the interview, always ask the candidate if there's anything they would like to ask. If they have questions, answer them honestly. When everything's done, we thank the candidate for their time and then return to the office and discuss the interview. As soon as possible, we put a thorough update on Airtable. This update should include the good things and bad things about the candidate, a recommendation on whether to take them forward, and a rationale for that recommendation. It is very important that this update is detailed enough for us to understand what happened and why, long after everyone involved has forgotten all about it.
+No final da entrevista, sempre perguntamos para a pessoa se há algo que ela gostaria de perguntar. Se tiver perguntas, respondemos honestamente. Quando estiver chegando ao fim, agradecemos pelo seu tempo, depois voltamos ao escritório e discutimos a entrevista entre nós. Assim que possível, colocamos uma atualização no Recruitee. Esta atualização deve incluir as coisas boas e ruins sobre a conversa, uma recomendação sobre se devemos continuar o processo e uma justificativa para essa recomendação.
 
-If we think the candidate is very likely to have the competencies, experience and personal qualities we need, we should take them through to the code meeting by sending them an [e-mail](https://docs.google.com/document/d/122snZj5ya9aEmMAenR_8nDszMRFvJM-1ih0rQ4L6gHY/edit).
+Se achamos que a pessoa tenha as competências, a experiência e as qualidades pessoais de que precisamos, devemos conduzi-la para a conversa sobre código enviando um [e-mail de convite](https://docs.google.com/document/d/122snZj5ya9aEmMAenR_8nDszMRFvJM-1ih0rQ4L6gHY/edit).
 
-### Code meeting
+### Revisão de código
 
-The code meeting is exactly the same as the first interview, but with different members of the team and [different questions](https://docs.google.com/document/d/122snZj5ya9aEmMAenR_8nDszMRFvJM-1ih0rQ4L6gHY/edit). In this meeting we talk about code and technical aspects.
+Nesta reunião, falamos sobre código e aspectos técnicos.
 
-### Deal meeting
+!!! Atenção
+    Esta seção está sem conteúdo
 
-This is the last meeting. Sometimes, when we already know the person, it will happen with the code meeting.
+### Reunião de proposta
 
-This is the time we discuss salary expectations, compensations and make an offer to the candidate. After this, the process ends with the candidate accepting or rejecting our offer.
+Esta é a nossa última reunião. Às vezes, quando já conhecemos a pessoa, este passo acontece junto com a conversa anterior.
+
+Este é o momento em que discutimos expectativas salariais, compensações e fazemos uma oferta para a pessoa. Depois disso, o processo termina com ela aceitando ou rejeitando nossa oferta.
 
 ## Onboarding
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
-### First Steps
+### Primeiros passos
 
-This is a guide for you first days of work at MLabs. we're excited to have you here!
+!!! Atenção
+    Esta seção está sem conteúdo
 
-We recommend you looking through this guide now and referring back to it later. Think of this as your Hitchhiker's Guide during your apprenticeship. Don't Panic!
+### Primeiro dia
 
-This guide is available at [https://github.com/magrathealabs/playbook]. Feel free to file a pull request to improve any aspect of it, no matter how tiny.
+!!! Atenção
+    Esta seção está sem conteúdo
 
-### First Day
+### Primeira semana
 
-!!! attention
-    This section is missing content. Link documentation. Link Fliperama Guide.
+!!! Atenção
+    Esta seção está sem conteúdo
 
-In the first day your mission is to setup your desk, machine, present yourself to your colleagues and know how our space works.
+### Primeiro mês
 
-### First Week
+!!! Atenção
+    Esta seção está sem conteúdo
 
-!!! attention
-    This section is missing content. Setup your dev environment, read documentations of the tools you don't know already and start working in some minor stuff in the projects.
+## Programa de estágio
 
-### First Month
+Em nosso programa de estágio, os aprendizes têm a oportunidade de aprender sobre novas tecnologias e testar suas habilidades trabalhando em projetos reais.
 
-!!! attention
-    This section is missing content.
+Os aprendizes não precisam ser proficientes em uma área específica. Somos entusiasmados em conhecer pessoas com a atitude e as habilidades certas. Procuramos indivíduos inteligentes e motivados que gostem de trabalhar em equipe e aprender coisas novas.
 
-## Apprenticeship
-
-In our apprenticeship program, apprentices have the opportunity to learn state-of-the-art technologies and put their skills to the test by working on real projects during a trial period.
-
-The apprentices don't need to be proficient in a specific area. We're eager to meet people with the right attitude and skills. We look for smart and well motivated people that like to work in teams and to learn new things.
-
-Once the apprentices finishes the apprenticeship program, they have the chance to become part of the MLabs.
+Uma vez que os aprendizes concluam o programa de estágio, eles têm a chance de se tornar parte do time da Magrathea.
