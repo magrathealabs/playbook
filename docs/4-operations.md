@@ -1,85 +1,85 @@
-# Operations
+# Funcionamento
 
-Here we describe some of the practices we use to run the organization. Managing spaces, cash flow and taxes can feel difficult, but getting them right is vital to our success. Our problems are not unique. Some principles have helped us streamline our operations:
+Aqui descrevemos algumas das praticas que usamos para administrar nossa organização. Gerenciar espaços, fluxo de caixa e impostos pode ser difícil, mas gerenciá-los de forma correta é vital para o nosso sucesso. Nossos problemas não são únicos. Alguns princípios tem nos ajudado a simplificar nossas operações:
 
-* Outsource things which are super important but we're not excellent at
-* Try manual processes first
-* Automate repetitive processes
-* Give everyone access as much as possible to avoid bottlenecks
-* Avoid building internal tools
+* Terceirize coisas que são super importantes, mas que não somos excelentes
+* Tente processos manuais primeiro
+* Automatize processos repetitivos
+* Dê o máximo de acesso a todos, para evitar gargalos
+* Evite construir ferramentas internas
 
-## Space
+## Espaço
 
-We're a company prepared to work with remote teams, but we prefer to have everybody at the office in order to build strong relationships. Building a good space to work on is hard. Making sure we have coffee, tea and good snacks take time.
+Somos uma empresa preparada para trabalhar com equipes remotas, mas preferimos ter todos no escritório para assim construir relacionamentos fortes. Construir um bom espaço para trabalhar é difícil. Garantir que temos café, chá e bons lanches levam tempo.
 
-As a small and young company, we would have to spend a lot of time and money creating a pleasant working environment. That's why we work on [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/), a coworking space that serves us with everything we need.
+Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/), um espaço de coworking que tem tudo de que precisamos.
 
-!!! attention
-    This section is missing content.A photo of the office
+!!! Atenção
+    Esta seção está faltando conteúdo. Uma foto do escritório
 
-## Email, calendars and documents
+## Email, calendários e documentos
 
-We use Google Apps for Work to manage calendars, write and share documents. There is a MLabs folder where we share most of the things we write. If you can't see it when you log in to Google Drive, you'll need to ask someone else to send you the link, and then click “Add to drive”.
+Usamos o Google Apps for Work para gerenciar agendas, escrever e compartilhar documentos. Existe uma pasta chamada MLabs onde compartilhamos a maioria das coisas que escrevemos. Se você não conseguir visualizar a pasta quando fizer login no Google Drive, precisará pedir a outra pessoa que lhe envie o link e, em seguida, clique em “Adicionar ao drive”.
 
-When we write new things, we try to save them in a sensible folder within the existing structure.
+Quando escrevemos coisas novas, tentamos salvá-las em uma determinada pasta dentro da estrutura existente.
 
-## Video conferences
+## Videoconferências
 
-Usually we use Google Meet or Slack calls.
+Normalmente, usamos o Google Meet ou Slack para as chamadas de vídeo.
 
-We also have a dedicated channel on [appear.in](https://appear.in/magrathealabs).
+Também temos um canal dedicado no [appear.in](https://appear.in/magrathealabs).
 
-## Expenses
+## Despesas
 
-From time to time, some of us spend our own money at work. Most often, this is things like:
+De tempos em tempos, gastamos nosso próprio dinheiro no trabalho. Na maioria das vezes, com coisas como:
 
-* Uber or taxi fares for unexpected travel
-* Refreshments purchased for meetings with clients
-* Materials, especially for workshops or events
+* Uber ou corridas de taxi para viagens inesperadas
+* Bebidas compradas para reuniões com clientes
+* Materiais, especialmente para workshops ou eventos
 
-MLabs will always pay expenses which are:
+A MLabs sempre pagará as despesas que são:
 
-**Necessary**: We only expense things we need in order to be able to complete our work
+**Necessárias**: Nós só gastamos com coisas que realmente precisamos para dar continuidade ao nosso trabalho
 
-**Proportionate**: The total expense should be proportionate to the work at hand. In general, we try to avoid spending lots of money
+**Proporcional**: A despesa total deve ser proporcional ao trabalho em questão. Em geral, tentamos evitar gastar muito dinheiro
 
-### Accounting
+### Contabilidade
 
-[Trentini Contabilidade](http://www.trentinicontabilidade.com/) provides us the services for bookkeeper, controller, tax accountant, labor law support, strategy planning and guidance about the regulatory environment.
+[Trentini Contabilidade](http://www.trentinicontabilidade.com/) nos fornece os serviços de contabilidade, apoio à legislação trabalhista, planejamento estratégico e orientação sobre o ambiente regulatório.
 
-We use [Conta Azul](https://contaazul.com/) to make our financial organization easier.  It helps keep everything organized in one place. There we have our bank account connected to automatically import and categorize transactions.
+Usamos a [Conta Azul](https://contaazul.com/) para facilitar nossa organização financeira. Isso nos ajuda a manter tudo organizado em um único local. Lá, temos nossa conta bancária conectada para importar e categorizar transações automaticamente.
 
-[Felipe&Silva](mail:alissa@felipeesilva.com.br) provide us with support to solve routine bureaucratic jobs that we can't automate. We love the work Alissa does helping us focusing on what we're really good on by managing all the operations making sure payroll happens regularly and correctly, making sure we pay partners promptly, preparing our taxes, making sure cash flow, checking account and savings account are in order.
+[Felipe&Silva](mail:alissa@felipeesilva.com.br) nos fornece suporte para resolver trabalhos burocráticos rotineiros que não podemos automatizar. Adoramos o trabalho que a Alissa faz, nos ajudando a focar assim naquilo em que somos realmente bons, gerenciando todas as operações, certificando-se de que a folha de pagamento seja regular e correta, garantindo que paguemos aos parceiros pontualmente, preparando nossos impostos, garantindo que o fluxo de caixa, a conta corrente e a conta poupança estão em ordem.
 
-## Legal
+## Jurídico
 
-[Silveira Schneider Advogados](http://www.silveiraschneider.com.br/) is our law firm. They are able to provide us with legal support, not only with contracts and agreements, but also with with strategy planning and guidance about the regulatory environment, markets and opportunities.
+[Silveira Schneider Advogados](http://www.silveiraschneider.com.br/) é o nosso escritório de advocacia. Eles são capazes de nos fornecer suporte legal, não apenas com contratos e acordos, mas também com planejamento estratégico e orientação sobre o ambiente regulatório, mercados e oportunidades.
 
-## Devices
+## Dispositivos de trabalho
 
-MLabs provides one notebook with external monitor, keyboard and mouse to every member of the team.
+A MLabs fornece um notebook com monitor externo, teclado e mouse para todos os membros da equipe.
 
-Some of us use personal device as part of our work, because it's more convenient than carrying lots of devices around. However, no one is obligated to use a personal device for work. If you need a phone, tablet or other device, please ask for one.
+Alguns de nós usam seus dispositivos pessoais como parte do nosso trabalho, porque é mais conveniente do que ficar carregando muitos dispositivos. No entanto, ninguém é obrigado a usar seus dispositivos pessoais para o trabalho. Se você precisar de um telefone, tablet ou outro dispositivo, solicite.
 
-Anyone who does use a personal device must take reasonable care to ensure that it cannot compromise MLabs and client's security. This includes implementing prudent security measures, being mindful that your personal devices could be targeted as part of an attack on MLabs or its clients.
+Qualquer pessoa que use um dispositivo pessoal deve tomar o devido cuidado para garantir que ele não comprometa a MLabs e a segurança de nossos cliente. Isso inclui a implementação de medidas de segurança prudentes, lembrando que seus dispositivos pessoais podem ser alvos de um ataque à MLabs ou a seus clientes.
 
-Some good practice are:
+Algumas boas práticas são:
 
-* Configuring screens to lock after a period of inactivity
-* Ensuring that work-related data on the device is regularly backed up
-* Encrypting storage
-* Using good passwords and 2FA
-* Avoiding connecting devices to untrustworthy networks (internet cafes, security conferences, unencrypted (open) Wi-Fi networks, etc)
-* Disposing of your device securely when you no longer need it
+* Configurar o bloquei de telas após um período de inatividade
+* Garantir o backup regular dos dados relacionados ao trabalho
+* Armazenamento com criptografia
+* Usando boas senhas e 2FA
+* Evitar conectar dispositivos a redes não confiáveis ​​(cybercafés, conferências de segurança, redes Wi-Fi não criptografadas (abertas), etc)
+* Descarte seu dispositivo com segurança quando você não precisar mais dele
 
-## Books
+## Livros
 
-If there is a book relevant to your work that you would like to read, let the team know and we will buy it for the library.
+Se houver um livro relevante para o seu trabalho que você gostaria de ler, avise a equipe e nós o compraremos para a biblioteca.
 
 ### Votocracia
 
-The **Votocracia** in Magrathea consists of a monthly budget of R$ 500,00 to be invested in some idea proposed and approved by the group. Any person can give ideas and there is no limit to it, but each person can only vote once on each idea. By the end of the month, the most voted idea (or ideas, if the sum of ideas's worth is still within budget) will be acquired and made available to the group.
+A **Votocracia** na Magrathea consiste em um orçamento mensal de R$ 500,00 para ser investido em alguma idéia proposta e aprovada pelo grupo. Qualquer pessoa pode dar idéias e não há limite para isso, mas cada pessoa só pode votar uma vez em cada ideia. No final do mês, a ideia mais votada (ou ideias, se a soma das ideias ainda estiver dentro do orçamento) será adquirida e disponibilizada ao grupo
 
-It is interesting to think of acquisitions that benefit all or most of the group, both by the adhesion of the votes and by the sense of community. Ideas are not limited to products, they can also be services or activities. For instance, in the past we had an afternoon session of massage :massage:. We also bought 4 Powerballs and even electronic swimming fishes (yep, we actually did that :expressionless:).
+É interessante pensar em aquisições que beneficiam a totalidade ou a maioria do grupo, tanto pela adesão dos votos quanto pelo senso de comunidade. As ideias não se limitam aos produtos, elas também podem ser serviços ou atividades. Por exemplo, já tivemos uma sessão da tarde de massagem: massagem :. Nós também compramos 4 Powerballs e até mesmo peixes eletrônicos (sim, realmente fizemos isso: expressionless:).
 
-To know more about it and to participate, join the [board](https://trello.com/b/YCWjWorE) and [read the instructions](https://trello.com/c/3FksxgWf/1-%E2%98%9E-instru%C3%A7%C3%B5es).
+Para saber mais e participar, junte-se ao [board](https://trello.com/b/YCWjWorE) e [leia as instruções](https://trello.com/c/3FksxgWf/1-%E2%98%9E-instru%C3%A7%C3%B5es).
