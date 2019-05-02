@@ -206,6 +206,6 @@ Programação em pares não é mentoria. Uma relação entre professor e estudan
 
 ### Revisão de Código
 
-Revisão de código é uma [revisão feita por pares](https://blog.codinghorror.com/code-reviews-just-do-it/), onde outras pessoas além do autor examinam o código com objetivo de encontrar erros e oportunidades de melhorias.
+Revisão de código é uma [revisão feita por pares](https://blog.codinghorror.com/code-reviews-just-do-it/), nas quais outras pessoas além do autor examinam o código com objetivo de encontrar erros e oportunidades de melhorias.
 
 O objetivo de revisões de código são para garantir conformidade com os padrões estabelecidos, e mais importante, garantir que o código é limpo, eficiente e funciona. E também ajudam a disseminar o conhecimento sobre o código para o resto do time. Isto garante que mais de uma pessoa tem conhecimento íntimo do código todo tempo.
