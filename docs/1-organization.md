@@ -1,28 +1,28 @@
-# Organization
+# Organização
 
-We're a human organization specialized in engineering software products and services. We're here to help other organizations improve their productivity and to prepare people for the future.
+Nós somos uma organização humana especializada em engenharia de software e serviços. Nós estamos aqui para ajudar outras organizações melhorarem sua produtividade e para preparar pessoas para o futuro.
 
-We want to be recognised by our peers in the industry for solving problems using good software engineering practices and data science. We know how to create minimum viable products and also complete solutions through a systemic vision and good business understanding. We know how to communicate and how to sell what our customers need.
+Queremos ser reconhecidos pelos nossos colegas na indústria por resolver problemas utilizando boas práticas de engenharia de software e data science. Sabemos criar desde produtos minimamente viáveis a soluções completas por meio de uma visão sistemática e bom entendimento do mercado.
 
-## Purpose
+## Propósito
 
-> [...] the future is already here, it's just not very evenly distributed
+> [...] o futuro já chegou. Só não está uniformemente distribuido.“
 > <br>— *William Gibson*
 
-Why Magrathea Labs exists?
+Por que a Magrathea Labs existe?
 
-Our purpose is to **create better worlds**. We believe that there is a lot of knowledge out there that we can use to help others solve their problems. The problem is that this knowledge is not evenly distributed, so it is in our hands to learn how to do things and apply them in our local communities.
+Nosso propósito é **criar mundos melhores**. Acreditamos que há muito conhecimento no mundo que nós conseguimos usufruir para ajudar os outros a resolverem os seus problemas. O problema é que esse conhecimento não é distribuído uniformamente, então está em nossas mãos aprender como fazer as "coisas" e aplicá-las na nossa comunidade local.
 
-As a business, we do this by solving our customers' problems using technology in an effective and innovative way, designing and engineering software systems, doing data analysis and applying artificial intelligence. We also work in our local community and schools by organizing events to spread knowledge.
+Como empresa, nós realizamos isso resolvendo os problemas de nossos clientes utilizando a tecnologia de uma maneira efetiva e inovativa, desenhando e criando sistemas de software, realizando análise de dados e aplicando inteligência artificial. Também trabalhamos na nossa comunidade local e em escolas organizando eventos para espalhar conhecimento.
 
-## Principles
+## Princípios
 
-There are four principles that guide us.
+Existem 4 princípios que nos guiam:
 
-**We care**: we don't say *"I told you"* or *"this is not my responsibility"*. We take responsibility for our work and look for ways to improve it constantly.
+**Nós nos importamos**: não dizemos *"eu te falei"* ou *"isso não é minha responsabilidade"*. Nós nos responsabilizamos por nosso trabalho e sempre procuramos maneiras de melhorá-lo.
 
-**We're actively transparent**: what matters most in team software development is communication, and we actively communicate. We share the problems with each other. Communication is essential for creating a sense of team, and active cooperation.
+**Nós somos ativamente transparentes**:  o que mais importa num time em desenvolvimento de software é comunicação, and nós ativamente nos comunicamos. Comunicação é essencial para criar um senso de time, e cooperação ativa.
 
-**We're a team**: we are team players and committed partners. We share responsibilities. We don't let our egos take control of ourselves. We win and lose together. We don't have positions; we have roles. We could disagree with each other, but we commit to the team.
+**Somos um time**: nós somos membros de time e parceiros comprometidos. Não deixamos nossos egos tomarem controle de nós. Vencemos e perdemos juntos. Não temos posições; temos papéis. Podemos discordar um com o outro, porém, nós nos comprementemos com o time.
 
-**We're different**: we seek out, respect and deeply value ideas, disciplines and experiences different from our own, knowing that this richness is fundamental to delivering our best work. We're a team of bacon lovers and vegans. We're members and non-members of LGBT community. Some of us love Python, and others love Ruby.
+**Somos diferente**: nós procuramos, respeitamos e profundamente apreciamos ideias, perspectivas e experiẽncias diferentes da nossa. Sabemos que essa riqueza é fundamental para a melhor entrega do nosso trabalho. Somos um time de amantes de bacon e vegano. Membros e não membros da comunidade LGBT. Alguns de nós amam Python, e outros, Ruby.
