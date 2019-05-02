@@ -1,12 +1,12 @@
 # Pessoas
 
-Nós não recrutamos pessoas. Nós não contratamos recursos. Nós descobrimos e ajudamos a desenvolver pessoas. Estamos procurando por quem tenha orgulho de seu ofício e queiram evoluir em sua carreira.
+Nós não recrutamos pessoas, tampouco contratamos recursos. Nós descobrimos e ajudamos a desenvolver talentos. Estamos procurando por quem tenha orgulho de seu ofício e queiram evoluir em sua carreira.
 
 Estamos constantemente à procura de novas pessoas para se juntar ao time, mas não estamos com pressa. Nosso processo de contratação leva de 4 a 6 semanas para ser concluído. Nós não queremos cometer um erro ao contratar a pessoa errada.
 
-A primeira maneira de encontrar pessoas é através das nossas redes de contatos. Nós procuramos pessoas que conhecemos. A segunda maneira é em meetups e eventos, comunidades profissionais locais ou on-line. A terceira maneira é nos certificarmos de que estamos regularmente falando sobre o que estamos fazendo e sermos abertos sobre nossa cultura, trabalho e processo.
+A primeira maneira de encontrar pessoas é através das nossas redes de contatos. Nós procuramos aqueles que conhecemos. A segunda maneira é em meetups e eventos, comunidades profissionais locais ou on-line. A terceira maneira é nos certificarmos de que estamos regularmente falando sobre o que estamos fazendo e sermos abertos sobre nossa cultura, trabalho e processo.
 
-Sabemos o que obteremos quando contratarmos nocas pessoas para a equipe dessa maneira. Sabemos que elas tomarão iniciativa porque contribuíram voluntariamente para a comunidade, para projetos *open-source* ou para seu próprio desenvolvimento pessoal. Nós sabemos o seu estilo de trabalho, conhecemos sua personalidade e sua energia pelo contato que tivemos com eles nas comunidades profissionais locais e on-line.
+Sabemos o que obteremos quando contratarmos novas pessoas para a equipe dessa maneira. Sabemos que elas tomarão iniciativa porque contribuíram voluntariamente para a comunidade, para projetos *open-source* ou para seu próprio desenvolvimento pessoal. Nós sabemos o seu estilo de trabalho, conhecemos sua personalidade e sua energia pelo contato que tivemos com eles nas comunidades profissionais locais e on-line.
 
 ## Scorecards e vagas
 
@@ -32,7 +32,7 @@ Se alguém da empresa conhece e gosta de você, nós lhe enviaremos um e-mail. S
 
 Cada pessoa passa por várias etapas antes de receber uma oferta de emprego ou recusar: uma entrevista por telefone, uma conversa para conhecer a empresa, uma conversa para conversar sobre código com o time e uma reunião de proposta.
 
-Sentimos que é importante sermos respeitosos com o tempo e interesse das pessoas que nos enviam currículo. Por isso, fazemos o nosso melhor para sermos responsivos, humanos e abertos. É particularmente importante para nós para um retorno para pessoas que não foram bem no processo de contratação.
+Sentimos que é importante sermos respeitosos com o tempo e interesse das pessoas que nos enviam currículo. Por isso, fazemos o nosso melhor para sermos responsivos, humanos e abertos. É particularmente importante para nós dar um retorno para aqueles que não foram bem no processo de contratação.
 
 Este é o processo que seguimos:
 
@@ -44,11 +44,9 @@ Este é o processo que seguimos:
 6. Se tudo correr como esperado, agendamos uma reunião para discutir os termos de contrato
 7. Você começa a trabalhar conosco 🎉
 
-### Applicant tracking
+### Gestão de candidatos
 
-We track each candidate's progress through the process on the [ATS workspace on Airtable](https://airtable.com/tblDPnrrwTu2qHsQR/viwBgGEWMFGPCeyoT). We manually add candidates or they are created automatically by the forms we use in our [careers web page](http://www.magrathealabs.com/careers/).
-
-Nós gerenciamos o process ode contratação através do [Recrutee](https://recruitee.com). Adicionamos pessoas manualmente ou elas aplicam pela nossa [página de novas carreiras](http://careers.magrathealabs.com).
+Gerenciamos a contratação de cada candidato através do [Recruitee](https://recruitee.com). Adicionamos os candidatos manualmente ou eles mesmos se candidatam através dos formulários disponibilizados em nossa [página de novas carreiras](http://careers.magrathealabs.com).
 
 ### Ligação
 
@@ -92,8 +90,8 @@ Se achamos que a pessoa tenha as competências, a experiência e as qualidades p
 
 Nesta reunião, falamos sobre código e aspectos técnicos.
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
 ### Reunião de proposta
 
@@ -103,33 +101,33 @@ Este é o momento em que discutimos expectativas salariais, compensações e faz
 
 ## Onboarding
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
 ### Primeiros passos
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
 ### Primeiro dia
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
 ### Primeira semana
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
 ### Primeiro mês
 
-!!! attention
-    This section is missing content.
+!!! Atenção
+    Esta seção está sem conteúdo
 
 ## Programa de estágio
 
 Em nosso programa de estágio, os aprendizes têm a oportunidade de aprender sobre novas tecnologias e testar suas habilidades trabalhando em projetos reais.
 
-Os aprendizes não precisam ser proficientes em uma área específica. Somos entusiasmados em conhecer pessoas com a atitude e as habilidades certas. Procuramos pessoas inteligentes e motivadas que gostem de trabalhar em equipe e aprender coisas novas.
+Os aprendizes não precisam ser proficientes em uma área específica. Somos entusiasmados em conhecer pessoas com a atitude e as habilidades certas. Procuramos indivíduos inteligentes e motivados que gostem de trabalhar em equipe e aprender coisas novas.
 
 Uma vez que os aprendizes concluam o programa de estágio, eles têm a chance de se tornar parte do time da Magrathea.
