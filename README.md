@@ -1,6 +1,6 @@
 # Magrathea Labs Playbook
 
-The [playbook](http://playbook.magrathealabs.com/) for Magrathea Labs.
+The [playbook](https://magrathealabs.github.io/playbook/#) for Magrathea Labs.
 
 ## Contributing
 
