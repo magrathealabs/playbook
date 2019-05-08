@@ -2,7 +2,7 @@
 
 Nós somos uma organização humana especializada em engenharia de software e serviços. Nós estamos aqui para ajudar outras organizações a melhorarem sua produtividade e para preparar pessoas para o futuro.
 
-Queremos ser reconhecidos pelos nossos colegas na indústria por resolver problemas utilizando boas práticas de engenharia de software e _data science_. Sabemos criar desde produtos minimamente viáveis a soluções completas por meio de uma visão sistêmica e bom entendimento de negócio. Nós sabemos como comunicar e vender o que nossos clientes precisam. 
+Queremos ser reconhecidos pelos nossos colegas na indústria por resolver problemas utilizando boas práticas de engenharia de software e _data science_. Sabemos criar desde produtos minimamente viáveis a soluções completas por meio de uma visão sistêmica e bom entendimento de negócio. Nós sabemos como comunicar e vender o que nossos clientes precisam.
 
 ## Propósito
 

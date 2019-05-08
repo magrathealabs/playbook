@@ -24,17 +24,19 @@
     window.$docsify = {
       name: 'Magrathea Labs',
       repo: 'magrathealabs/playbook',
-      loadSidebar: true,
-      subMaxLevel: 2,
       coverpage: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      autoHeader: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
       logo: '/_media/logo-black-small.png',
       themeColor: '#3b2963',
-      autoHeader: true,
       notFoundPage: '_notfound.md',
       search: 'auto',
       pagination: {
         crossChapter: true
-      },
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

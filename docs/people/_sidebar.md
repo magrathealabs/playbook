@@ -1,0 +1,3 @@
+- [PESSOAS](people/4-people)
+- [DESENVOLVIMENTO PESSOAL](people/4-1-personal-development)
+- [< VOLTAR](/README)
