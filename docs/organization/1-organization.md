@@ -1,8 +1,20 @@
 # Organização
 
-Nós somos uma organização humana especializada em executar serviços de engenharia de software. Nós estamos aqui para ajudar outras organizações a melhorarem sua produtividade, colaborar com nossa comunidade local e para preparar as pessoas para o futuro.
+Nós somos uma organização humana especializada em executar serviços de desenvolvimento de software. Nós estamos aqui para ajudar outras organizações a melhorarem sua produtividade, colaborar com nossa comunidade local e para preparar as pessoas para o futuro.
 
-Como profissionais, queremos ser reconhecidos pelos nossos colegas na indústria por resolver problemas utilizando boas práticas de engenharia de software. Sabemos criar desde produtos minimamente viáveis até soluções completas por meio de uma visão sistêmica e bom entendimento de negócio. Nós sabemos como comunicar e vender o que nossos clientes precisam.
+> What is Software Development?
+> * Modeling (Jacobsen)
+> * Engineering (Meyer)
+> * Discipline (Humphreys)
+> * Poetry (Cockburn)
+> * Craft (Knuth)
+> * Art (Gabriel)
+>
+> Common mistake: look at software as only one of the above items.
+>
+> from Alistair Cockburn
+
+Como profissionais, queremos ser reconhecidos pelos nossos colegas na indústria por resolver problemas utilizando boas práticas de desenvolvimento de software. Sabemos criar desde produtos minimamente viáveis até soluções completas por meio de uma visão sistêmica e bom entendimento de negócio. Nós sabemos como comunicar e vender o que nossos clientes precisam.
 
 ## Propósito
 
