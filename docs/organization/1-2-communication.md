@@ -27,17 +27,31 @@ Aqui descrevemos algumas de nossas rotinas de comunicação.
 
 Uma vez por semana fazemos uma roda de conversa com duração entre 20 e 30 minutos para que possamos falar sobre:
 
-* Anúncios sobre a empresa;
+* Principais anúncios da organização;
 * Algo que aprendemos e gostaríamos de compartilhar;
 * Fazer perguntas ou discutir algo em grupo;
 * O que pode ser melhorado.
 
+### Atualização mensal
+
+Uma vez por mês, organizamos uma reunião para atualizar todos sobre os resultados do últimos mês. Falamos sobre:
+
+* Principais anúncios da organização;
+* Uma visão geral de nossos atuais e novos clientes;
+* Pipeline de vendas;
+* Fluxo de caixa: um resumo dos principais fundos e débitos de entrada e saída.
+
 ### Atualização trimestral
 
-Uma vez por trimestre, organizamos uma reunião para atualizar todos com o status atual da organização e planos para o futuro. Falamos sobre:
+Uma vez por trimestre, organizamos uma reunião para atualizar todos com o status atual da organização e planos para o futuro. Esta é uma reunião para comunicar questões estratégicas. Falamos sobre:
 
-* Principais anúncios de organização
-* Nossa cultura: o que estamos fazendo é bom e o que devemos melhorar em equipe
-* Uma visão geral de nossos atuais e novos clientes
-* Pipeline de vendas
-* Fluxo de caixa: um resumo dos principais fundos e débitos de entrada e saída
+* Anúncios gerais da organização;
+* Nossa visão para os próximos meses;
+* Nossa cultura: o que está indo bem e o que devemos melhorar em equipe;
+* Uma visão geral de nossos atuais e novos clientes;
+* Pipeline de vendas;
+* Fluxo de caixa: um resumo dos principais fundos e débitos de entrada e saída.
+
+### Momentos de compartilhamento
+
+Os [momentos de compartilhamento](/organization/1-1-sharing) são importantes para conversarmos sobre questão técnicas e nos ajudam a disseminar conhecimento entre o time.
