@@ -32,21 +32,6 @@ Uma vez por semana fazemos uma roda de conversa com duração entre 20 e 30 minu
 * Fazer perguntas ou discutir algo em grupo;
 * O que pode ser melhorado.
 
-### Reunião de planejamento
-
-!!! atenção
-    Esta seção está sem conteúdo sobre Kanban e fluxo contínuo
-
-Revise o trabalho que enviamos na semana passada, mostrando o produto real. Revise as prioridades do produto. Puxe o que estimamos ser uma quantidade adequada de trabalho para a semana na semana Sprint.
-
-Revise os bugs. Puxe todos os bugs importantes para a Sprint e priorize-os no topo da fila antes de tudo. Queremos estar sempre consertando o que está quebrado primeiro.
-
-Revise as tarefas de engenharia e refatoração. Puxe os cartões para o Backlog com base no que o cliente, os designers e os desenvolvedores acreditam ser apropriado, considerando o design do produto e as tarefas de bugs mencionados anteriormente. Reordene toda a fila do Backlog de acordo com a prioridade. Os cartões que estavam no topo da lista na semana passada podem ser movidos para o fundo ou para outros quadros ou listas.
-
-O sistema de gerenciamento de tarefas é o repositório canônico para planos. Quando as coisas só são ditas ao telefone, pessoalmente, em e-mails que não incluem todo o grupo ou em bate-papos particulares, as informações são perdidas, esquecidas ou mal interpretadas. Os problemas se expandem quando alguém entra ou sai do projeto.
-
-Durante esta reunião, busque discussões com os clientes, não instruções deles. Não podemos falar sobre soluções até identificarmos os problemas subjacentes.
-
 ### One-on-one
 
 Todos os meses fazemos reuniões individuais onde revisamos os indicadores individuais, a satisfação com o trabalho, discutimos qualquer problema individual e fazemos orientação de carreira com os mais jovens. O objetivo das reuniões individuais é construir relacionamento, oferecer suporte e realinhar as expectativas.
