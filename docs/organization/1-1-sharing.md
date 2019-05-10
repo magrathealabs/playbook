@@ -1,6 +1,6 @@
 # Compartilhar
 
-Compartilhar conhecimento é muito importante para nós. Aprendemos muito com outras pessoas participando de conferências, lendo livros, blogs e códigos no GitHub. Usamos nosso tempo de investimento disponível para fazer essas atividades acontecem. Descrevemos aqui como contribuímos com a comunidade ao compartilhar nosso conhecimento.
+Compartilhar conhecimento é muito importante para nós. Aprendemos muito com outras pessoas participando de conferências, lendo livros, blogs e códigos no GitHub. Usamos nosso tempo de investimento disponível para fazer essas atividades acontecerem. Descrevemos aqui como contribuímos com a comunidade ao compartilhar nosso conhecimento.
 
 ## Blog
 
