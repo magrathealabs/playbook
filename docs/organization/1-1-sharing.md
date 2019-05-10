@@ -45,6 +45,6 @@ Quando combinado, a Magrathea irá cobrir o custo da conferência. Se você fala
 
 ## Open Source Software
 
-_Open Source_ é parte de nossa filosofia. Desde nossa concepção, temos sido uma empresa focada em _open source_, melhorando código compartilhado por outros, colocando esforço em escrita de código e de forma geral dando suporte ao movimento _open source_. Construímos nossos produtos usando quase exclusivamente ferramentas _open source_.
+_Open Source_ é parte da nossa filosofia. Desde nossa concepção, temos sido uma empresa focada em _open source_, melhorando código compartilhado por outros, colocando esforço em escrita de código e de forma geral dando suporte ao movimento _open source_. Construímos nossos produtos usando quase exclusivamente ferramentas _open source_.
 
 Confira nossa conta do [GitHub](http://github.com/magrathealabs/) para ver todos os nossos projetos.
