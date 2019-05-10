@@ -32,21 +32,6 @@ Uma vez por semana fazemos uma roda de conversa com duração entre 20 e 30 minu
 * Fazer perguntas ou discutir algo em grupo;
 * O que pode ser melhorado.
 
-### One-on-one
-
-Todos os meses fazemos reuniões individuais onde revisamos os indicadores individuais, a satisfação com o trabalho, discutimos qualquer problema individual e fazemos orientação de carreira com os mais jovens. O objetivo das reuniões individuais é construir relacionamento, oferecer suporte e realinhar as expectativas.
-
-Ao ir para a reunião, é importante estar [preparado](https://m.signalvnoise.com/how-to-prepare-for-a-one-on-one-meeting-as-an-employee-fc2a46912a4c). Pense sobre estas questões no dia anterior:
-
-* O que devemos começar a fazer?
-* O que devemos parar de fazer?
-* O que devemos continuar fazendo?
-* Que dificuldades você está enfrentando?
-* O que você vai fazer no próximo mês para se desenvolver e como podemos ajudá-lo?
-* Como podemos melhorar os processos atuais?
-
-Esta é a hora de falar sobre qualquer coisa. Queremos ajudar cada pessoa a criar uma lista clara de objetivos com base em um plano de carreira e nas prioridades da organização.
-
 ### Atualização trimestral
 
 Uma vez por trimestre, organizamos uma reunião para atualizar todos com o status atual da organização e planos para o futuro. Falamos sobre:
