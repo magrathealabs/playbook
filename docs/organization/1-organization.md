@@ -51,4 +51,4 @@ Existem 6 princípios que nos guiam:
 
 **Nós nos comprometemos com o sucesso do cliente (responsabilidade)**: não existe valor em aplicar tecnologia nos problemas errados. Buscamos diariamente fazer as perguntas certas para os problemas certos. Nossos clientes confiam em nós não apenas para implementarmos soluções da melhor forma possível, mas também para ajudá-los a validarem novas ideias e entregarem produtos com qualidade para seus usuários.
 
-**Nós sempre buscamos melhorar (melhoria contínua)**: as pessoas que constrõem a Magrathea buscam adquirir conhecimento e compreensão sobre o que fazem. Nós lemos, estudamos, praticamos deliberadamente e compartilhamos nossos aprendizados.
+**Nós sempre buscamos melhorar (melhoria contínua)**: as pessoas que constroem a Magrathea buscam adquirir conhecimento e compreensão sobre o que fazem. Nós lemos, estudamos, praticamos deliberadamente e compartilhamos nossos aprendizados.
