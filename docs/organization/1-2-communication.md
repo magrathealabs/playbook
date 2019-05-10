@@ -15,7 +15,7 @@ Caso esteja organizando uma reunião:
 
 Caso esteja participando:
 
-* Se você receber um convite para uma reunião, não aceite se você achar que sua participação não é necessaria. Se for recurar envie uma nota explicando o motivo;
+* Se você receber um convite para uma reunião, não aceite se você achar que sua participação não é necessaria. Se for recusar envie uma nota explicando o motivo;
 * Se você estiver em uma reunião, **participe** dela. Em outras palavras, tente contribuir sempre que possível e preste atenção no assunto. Aparelhos eletrônicos (celulares e notebooks) devem ser utilizados somente quando necessários;
 * Se você achar que não deveria mais estar naquela reunião, não se sinta mal em sair mais cedo. Pergunte educadamente se a sua presença ainda é necessária, explique que você não pode despender mais tempo no momento e saia.
 
