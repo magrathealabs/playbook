@@ -37,7 +37,7 @@ Estes são alguns dos _meetups_ que ajudamos a organizar:
 
 Todos nós vamos a eventos e conferências. Seja a trabalho ou em nosso tempo livre. Palestrar em eventos é uma grande oportunidade para representar a Magrathea. Existem algumas maneiras em que isso pode ser valioso.
 
-A coisa mais importante para se lembrar é que você deixará sua melhor impressão - pessoal e da empresa - se sua palestra for interessante, útil e bem apresentada. Palestras que funcionam bem tomam tempo. Se você precisar de ajuda, conselhos ou tempo para se preparar, não tenha receio de pedir. Criar publicações após o evento também é uma boa forma de compartilhar sua experência e aprendizados.
+A coisa mais importante para se lembrar é que você deixará sua melhor impressão - pessoal e da empresa - se sua palestra for interessante, útil e bem apresentada. Palestras que funcionam bem tomam tempo. Se você precisar de ajuda, conselhos ou tempo para se preparar, não tenha receio de pedir. Criar publicações após o evento também é uma boa forma de compartilhar sua experiência e aprendizados.
 
 Se estamos contratando, podemos mencionar isso ao final da palestra. Fale para as pessoas quais papéis estamos procurando e que todos são bem-vindos a falar com você após a palestra para conversar em mais detalhes. Garanta que seus slides possuam um _link_ pequeno para nosso site de [carreiras](https://careers.magrathealabs.com).
 
