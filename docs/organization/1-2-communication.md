@@ -46,12 +46,12 @@ Uma vez por mês, organizamos uma reunião para atualizar todos sobre os resulta
 
 Uma vez por trimestre, organizamos uma reunião para atualizar todos com o status atual da organização e planos para o futuro. Esta é uma reunião para comunicar questões estratégicas. Falamos sobre:
 
-* Anúncios gerais da organização;
+* Principais anúncios da organização;
 * Nossa visão para os próximos meses;
 * Nossa cultura: o que está indo bem e o que devemos melhorar em equipe;
 * Uma visão geral de nossos atuais e novos clientes;
 * Pipeline de vendas;
-* Fluxo de caixa: um resumo dos principais fundos e débitos de entrada e saída.
+* DRE: um resumo da nossa contabilidade no exercício, detalhando receitas, custos e despesas da empresa.
 
 ### Momentos de compartilhamento
 
