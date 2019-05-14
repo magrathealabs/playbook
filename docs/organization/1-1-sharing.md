@@ -41,7 +41,9 @@ A coisa mais importante para se lembrar é que você deixará sua melhor impress
 
 Se estamos contratando, podemos mencionar isso ao final da palestra. Fale para as pessoas quais papéis estamos procurando e que todos são bem-vindos a falar com você após a palestra para conversar em mais detalhes. Garanta que seus slides possuam um _link_ pequeno para nosso site de [carreiras](https://careers.magrathealabs.com).
 
-Quando combinado, a Magrathea irá cobrir o custo da conferência. Se você falará em uma conferência relacionada com o que fazemos na organização, cobriremos os custos de deslocamento e acomodação dentro do alcance de um voo econômico. Temos uma política de considerar 50% das horas investidas em eventos como horas de trabalho normal. Novamente, converse com os líderes dos times e da empresa para combinar este investimento.
+Quando combinado, a Magrathea irá cobrir o custo da conferência. Se você falará em uma conferência relacionada com o que fazemos na organização, cobriremos os custos de deslocamento e acomodação dentro do alcance de um voo econômico.
+
+Temos uma política de considerar 50% das horas investidas na organização e participação de eventos como horas de trabalho normal. Essas horas podem ser apontadas como horas trabalhadas. Os eventos onde esta regra se aplica precisam ser validados pelas lideranças da empresa.
 
 ## Open Source Software
 
