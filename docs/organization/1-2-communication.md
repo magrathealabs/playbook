@@ -1,6 +1,6 @@
 # Comunicação
 
-Comunicação é um dos nossos principais valores. Nós acreditamos que transparência e comunicação são essenciais para o bom desenvolvimento de produtos de Software. Com base em nossa experiência, entendemos que a falta de comunicação é o principal gerador de problemas em projetos de desenvolvimento de software. Dependendo do projeto, do cliente e do time, definimos diferentes pontos e rotinas de comunicação.
+Comunicação é um dos nossos principais valores. Com base em nossa experiência, entendemos que a falta de comunicação é o principal gerador de problemas em projetos de desenvolvimento de software e, por isso, acreditamos que transparência e comunicação são essenciais na realização de tais projetos. Dependendo do projeto, do cliente e do time, definimos diferentes pontos e rotinas de comunicação.
 
 ## Reuniões
 
