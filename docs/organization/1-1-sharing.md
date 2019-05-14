@@ -43,7 +43,7 @@ Se estamos contratando, podemos mencionar isso ao final da palestra. Fale para a
 
 Quando combinado, a Magrathea irá cobrir o custo da conferência. Se você falará em uma conferência relacionada com o que fazemos na organização, cobriremos os custos de deslocamento e acomodação dentro do alcance de um voo econômico.
 
-Temos uma política de considerar 50% das horas investidas na organização e participação de eventos como horas de trabalho normal. Essas horas podem ser apontadas como horas trabalhadas. Os eventos onde esta regra se aplica precisam ser validados pelas lideranças da empresa.
+Temos uma política de considerar 50% das horas investidas na organização e participação de eventos como horas de trabalho normal. Essas horas podem ser apontadas como horas trabalhadas. Os eventos onde esta política se aplica precisam ser validados pelas lideranças da empresa.
 
 ## Open Source Software
 
