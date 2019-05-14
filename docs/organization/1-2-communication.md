@@ -30,7 +30,8 @@ Uma vez por semana fazemos uma roda de conversa com duração entre 20 e 30 minu
 * Principais anúncios da organização;
 * Algo que aprendemos e gostaríamos de compartilhar;
 * Fazer perguntas ou discutir algo em grupo;
-* O que pode ser melhorado.
+* O que pode ser melhorado;
+* Apresentação de novos mochileiros.
 
 ### Atualização mensal
 
