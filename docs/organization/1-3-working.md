@@ -1,6 +1,6 @@
 # Horas de trabalho
 
-Trabalhamos em um [ritmo sustentável](http://www.extremeprogramming.org/rules/overtime.html). Planejamos nosso trabalho de uma forma conservadora, mantendo expectativas realistas com nossos clientes sobre nossas entregas. Isso não significa que não nos empenhamos. Ser produtivo é parte fundamental para mantermos a confiança que nossos clientes têm em nós, por isso é importante não decepcioná-los.
+Trabalhamos em um [ritmo sustentável](http://www.extremeprogramming.org/rules/overtime.html). Planejamos nosso trabalho de uma forma pragmática, mantendo expectativas realistas com nossos clientes sobre nossas entregas. Isso não significa que não nos empenhamos. Ser produtivo é parte fundamental para mantermos a confiança que nossos clientes têm em nós, por isso é importante não decepcioná-los.
 
 Trabalhamos entre 6 e 6,5 horas por dia para nossos clientes em desenvolvimento de software ou consultoria, e 1,5 horas em [horas de investimento](https://thoughtbot.com/playbook/our-company/time). Quando tiramos um tempo de folga durante um trabalho de cliente, discutimos com o time como isso irá afetar nosso planejamento.
 
@@ -28,7 +28,9 @@ Ideias para as horas de investimento:
 
 Mantenha em mente que quando uma pessoa do time está trabalhando remotamente, ela não está no escritório para ouvir o que está sendo discutindo com outras pessoas do time. Se uma pessoa do time estiver remota, todo o time deve trabalhar como se estivesse remoto.
 
-Quando estiver trabalhando remotamente, comunique-se o máximo que puder. Todas as decisões sobre o projeto devem ser comunicadas no canal do projeto no Slack ou estarem descritas em um documento online onde todos podem contribuir. Evite comunicar-se em canais privados ou através de mensagens diretas. Lembre-se, _somos um time_ e _somos ativamente transparentes_. Quando usamos comunicação assíncrona no projeto é esperado que não tenhamos uma resposta imediata.
+Quando estiver trabalhando remotamente, comunique-se o máximo que puder. Todas as decisões sobre o projeto devem ser comunicadas no canal do projeto no Slack ou descritas em um documento online onde todos podem contribuir. Desse modo, evitamos que pessoas que estão trabalhando em um lugar ou horário diferente tenham seu trabalho bloqueado por falta de alinhamento.
+
+Evite comunicar-se em canais privados ou através de mensagens diretas. Lembre-se, _somos um time_ e _somos ativamente transparentes_. Quando usamos comunicação assíncrona no projeto é esperado que não tenhamos uma resposta imediata.
 
 Se você não está no escritório, sempre deixe ativadas as notificações do canal do projeto no Slack para saber o que está acontecendo no projeto. Assim, você receberá notificações de todas as ferramentas que usamos: _Github_, _New Relic_, _Heroku_, _AWS_, _Log Entries_, _Sentry_ and _Circle CI_.
 
@@ -63,10 +65,10 @@ Usamos o [Toggl](https://www.toggl.com) para gerenciar quanto tempo estamos nos 
 
 #### Boas práticas do Toggl
 
-De uma olhada nas tarefas pré-defininas nos projetos para verificar se alguma coisa não se relacionada com o que você está apontando.
+Dê uma olhada nas tarefas pré-definidas nos projetos para verificar se alguma coisa se relaciona com o que você está apontando.
 
 Não descreva seus apontamentos como "code _review_", "_pair programming_", "ajudando alguém" or "reunião", pois isso não é muito informativo. É melhor colocar o nome da tarefa que você está trabalhando no momento. Para ficar consistente, aponte no Toggl o mesmo nome da tarefa presente no Trello ou título do PR no GitHub.
 
 Quando apontar uma reunião no Toggl, selecionamos o cliente com a task "Reunião" e deixe claro na descrição qual é a reunião em que está participando. Exemplo: "Reunião de planejamento de sprint".
 
-Se você tiver TOC, pode arredondar os minutos em 5 minutos para mais ou para menos para ficar tudo bontinho.
+Se você tiver TOC, pode arredondar os minutos em 5 minutos (mais ou menos) para ficar tudo bontinho.
