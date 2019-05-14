@@ -23,7 +23,7 @@ Como profissionais, queremos ser reconhecidos pelos nossos colegas na indústria
 
 Por que a Magrathea Labs existe?
 
-Nosso propósito é **Resolver problemas complexos e entregar soluções que geram valor para os nossos clientes e para a comunidade**. Acreditamos que há muito conhecimento disponível no mundo que nós conseguimos usufruir para ajudar os outros a resolverem seus problemas. Este conhecimento não está distribuído uniformemente, então está em nossas mãos aprender como fazer as coisas e aplicá-las na nossa comunidade local.
+Nosso propósito é **Resolver problemas complexos e entregar soluções que geram valor para os nossos clientes e para a comunidade**. Acreditamos que há muito conhecimento disponível no mundo que nós conseguimos usufruir para ajudar os outros a resolverem seus problemas. Este conhecimento, porém, não está distribuído uniformemente. Cabe a nós aprender como fazer as coisas e aplicá-las na nossa comunidade local.
 
 Como empresa, nós fazemos isso resolvendo os problemas de nossos clientes utilizando a tecnologia de uma maneira eficaz, desenhando e construindo sistemas de software, realizando análise de dados e aplicando inteligência artificial. Também trabalhamos na nossa comunidade local e em escolas organizando eventos para disseminar conhecimento.
 
