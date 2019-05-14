@@ -166,7 +166,7 @@ Revise o trabalho que enviamos na semana passada, mostrando o produto real. Revi
 
 Revise os bugs. Puxe todos os bugs importantes para a Sprint e priorize-os no topo da fila antes de tudo. Queremos estar sempre consertando o que está quebrado primeiro.
 
-Revise as tarefas de engenharia e refatoração. Puxe os cartões para o Backlog com base no que o cliente, os designers e os desenvolvedores acreditam ser apropriado, considerando o design do produto e as tarefas de bugs mencionados anteriormente. Reordene toda a fila do Backlog de acordo com a prioridade. Os cartões que estavam no topo da lista na semana passada podem ser movidos para o fundo ou para outros quadros ou listas.
+Revise as tarefas de novas funcionalidades, correções de bug e refatoração. Puxe os cartões para o Backlog com base no que o cliente, os designers e os desenvolvedores acreditam ser apropriado, considerando o custo e retorno de cada tarefa. Reordene toda a fila do Backlog de acordo com a prioridade. Os cartões que estavam no topo da lista na semana passada podem ser movidos para o fundo ou para outros quadros ou listas.
 
 O sistema de gerenciamento de tarefas é o repositório canônico para planos. Quando as coisas só são ditas ao telefone, pessoalmente, em e-mails que não incluem todo o grupo ou em bate-papos particulares, as informações são perdidas, esquecidas ou mal interpretadas. Os problemas se expandem quando alguém entra ou sai do projeto.
 
