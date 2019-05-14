@@ -40,7 +40,7 @@ Uma vez por mês, organizamos uma reunião para atualizar todos sobre os resulta
 * Principais anúncios da organização;
 * Uma visão geral de nossos atuais e novos clientes;
 * Pipeline de vendas;
-* Fluxo de caixa: um resumo dos principais fundos e débitos de entrada e saída.
+* DRE: um resumo da nossa contabilidade no exercício, detalhando receitas, custos e despesas da empresa.
 
 ### Atualização trimestral
 
