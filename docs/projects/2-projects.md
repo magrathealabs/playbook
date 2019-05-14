@@ -156,3 +156,13 @@ Adiciona limites de trabalho em andamento às listas do Trello que suportam um f
 #### [Scrum for Trello](https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje)
 
 Adiciona funcionalidade para uso em projetos Scrum. Você pode adicionar estimativas adicionando `(N)` no início do título do cartão e os pontos consumidos no final usando `[N]`.
+
+### Reunião de planejamento
+
+Revise o trabalho que enviamos na semana passada, mostrando o produto real. Revise as prioridades do produto. Puxe o que estimamos ser uma quantidade adequada de trabalho para a semana na semana Sprint.
+
+Revise as tarefas de novas funcionalidades, correções de bug e refatoração. Puxe os cartões para o Backlog com base no que o cliente, os designers e os desenvolvedores acreditam ser apropriado, considerando o custo e retorno de cada tarefa. Reordene toda a fila do Backlog de acordo com a prioridade. Os cartões que estavam no topo da lista na semana passada podem ser movidos para o fundo ou para outros quadros ou listas.
+
+O sistema de gerenciamento de tarefas (normalmente o Trello) é o principal lugar onde guardamos informações sobre o plano do projeto. Quando as coisas só são ditas ao telefone, pessoalmente, em e-mails que não incluem todo o grupo ou em bate-papos particulares, as informações são perdidas, esquecidas ou mal interpretadas. Os problemas se expandem quando alguém entra ou sai do projeto. Desse modo, certifique-se de sempre manter o sistema de gerenciamento de tarefas atualizado a partir das reuniões de planejamento.
+
+Durante esta reunião, busque discussões com os clientes, não instruções deles. Não podemos falar sobre soluções até identificarmos os problemas subjacentes.
