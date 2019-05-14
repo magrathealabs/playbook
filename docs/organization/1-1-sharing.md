@@ -6,7 +6,7 @@ Compartilhar conhecimento é muito importante para nós. Aprendemos muito com ou
 
 Escrevemos _blogposts_ porque queremos compartilhar o que estamos fazendo e aprendendo sobre tecnologia, negócios e inovação. Quando estamos contratando, queremos que potenciais novas pessoas do time nos conheçam um pouco previamente.
 
-Coletamos ideias para _blogposts_ em um [quadro do Trello](https://trello.com/b/ZrBmPW5n/mlabs-hacking), onde as discutimos antes de escrever. Frequentemente pegamos ideias desse quadro em nosso tempo de investimento.
+Coletamos ideias para _blogposts_ em um [quadro do Trello](https://trello.com/b/ZrBmPW5n/mlabs-hacking), onde as discutimos antes de escrever. Frequentemente, pegamos ideias desse quadro em nosso tempo de investimento.
 
 Você pode encontrar nossas publicações em [blog.magrathealabs.com](https://blog.magrathealabs.com).
 
