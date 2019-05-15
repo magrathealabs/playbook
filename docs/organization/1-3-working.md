@@ -71,4 +71,4 @@ Não descreva seus apontamentos como "code _review_", "_pair programming_", "aju
 
 Quando apontar uma reunião no Toggl, selecionamos o cliente com a task "Reunião" e deixe claro na descrição qual é a reunião em que está participando. Exemplo: "Reunião de planejamento de sprint".
 
-Se você tiver TOC, pode arredondar os minutos em 5 minutos (mais ou menos) para ficar tudo bontinho.
+Se você tiver TOC, pode arredondar os minutos em 5 minutos (mais ou menos) para ficar tudo bonitinho.
