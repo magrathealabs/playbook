@@ -1,7 +1,6 @@
 # Configuração de Ambiente
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 Nós encorajamos todos a serem os melhores usando suas ferramentas de programação favoritas. Aprender cada atalho e automatizar tarefas repetitivas para ganhar mais produtividade permite que você foque em construir o software da melhor maneira possível.
 
@@ -13,5 +12,4 @@ Use [dotfiles](https://dotfiles.github.io) para automatizar sua configuração d
 * Tab `\t` para projetos em Go
 * Tab com 4 espaços para projetos em Python
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).

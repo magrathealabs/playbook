@@ -44,6 +44,8 @@ Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido p
 
 ### OiTchau
 
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
+
 ### Toggl
 
 Usamos o [Toggl](https://www.toggl.com) para gerenciar quanto tempo estamos nos dedicando em cada projeto.
