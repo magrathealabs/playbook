@@ -14,8 +14,8 @@ Somos uma empresa preparada para trabalhar com equipes remotas, mas preferimos t
 
 Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/), um espaço de coworking que tem tudo de que precisamos.
 
-!!! Atenção
-    Esta seção está faltando conteúdo. Uma foto do escritório
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
+!> **TODO** Foto do escritório [Veja como](https://github.com/magrathealabs/playbook).
 
 ## Email, calendários e documentos
 

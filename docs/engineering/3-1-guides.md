@@ -18,8 +18,7 @@ Antes de começar a desenvolver, garanta que você tenha instalado os linters e 
 
 ## Ruby
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 [Começando rápido com Ruby](https://www.ruby-lang.org/en/documentation/quickstart)
 [Ruby com relação a outras linguagens](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages)
@@ -32,20 +31,17 @@ Em todos os projetos Ruby nós utilizamos uma série de ferramentas para nos aju
 
 ### Ferramentas de Qualidade
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * Rubocop, Danger, Pronto
 * [Better Specs](http://www.betterspecs.org/)
 
 ### Ruby on Rails
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 [Guias de Ruby on Rails](http://guides.rubyonrails.org)
 
 ## Python
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).

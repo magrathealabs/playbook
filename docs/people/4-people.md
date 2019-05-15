@@ -90,8 +90,7 @@ Se achamos que a pessoa tenha as competências, a experiência e as qualidades p
 
 Nesta reunião, falamos sobre código e aspectos técnicos.
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Reunião de proposta
 
@@ -101,28 +100,23 @@ Este é o momento em que discutimos expectativas salariais, compensações e faz
 
 ## Onboarding
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Primeiros passos
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Primeiro dia
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Primeira semana
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Primeiro mês
 
-!!! Atenção
-    Esta seção está sem conteúdo
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ## Programa de estágio
 

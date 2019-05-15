@@ -1,6 +1,6 @@
 # Engenharia
 
-Nesta seção, serão apresentadas as práticas de engenharia que nós utilizamos. Nosso objetivo não é passar o dia escrevendo código. Nós preferimos resolver problemas reais para pessoas reais. O *software* que construímos faz diferença para nossos clientes, para os clientes dos nossos clientes e para você.
+Nesta seção, serão apresentadas as práticas de desenvolvimento que nós utilizamos. Nosso objetivo não é passar o dia escrevendo código. Nós preferimos resolver problemas reais para pessoas reais. O *software* que construímos faz diferença para nossos clientes, para os clientes dos nossos clientes e para você.
 
 ## Diretrizes Gerais
 
@@ -72,8 +72,7 @@ Quando for criar um *Pull Request*, inclua:
 
 ## *UI/UX Design*
 
-!!! atenção
-    Esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 Como desenvolvedores, nós não sabemos profundamente sobre UI e UX design, mas nós seguimos as regras básicas para construir interfaces agradáveis e utilizáveis. Siga as regras básicas. Em geral, nós seguimos as regras do [Good UI](http://goodui.org).
 
@@ -90,15 +89,13 @@ Melhores práticas:
 
 ### Qualidade
 
-!!! atenção
-    Esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * [Padrões de Design & Refatoração](https://sourcemaking.com/)
 
 ### Refatoração
 
-!!! atenção
-    Esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 Quando começar a trabalhar em uma nova funcionalidade, olhe em volta para melhorar a qualidade do código. Nós não paramos tudo que estamos fazendo para melhorar a qualidade do código; isto é inerente no nosso processo de desenvolvimento.
 
@@ -106,28 +103,24 @@ Quando começar a trabalhar em uma nova funcionalidade, olhe em volta para melho
 
 ### Guias de Seguraça
 
-!!! atenção
-    Esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist)
 
 ### Accessibilidade
 
-!!! atenção
-    Esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * [The A11Y Project](http://a11yproject.com)
 * [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet)
 
 ## Produção
 
-!!! atenção
-    esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Twelve-factor software
 
-!!! atenção
-    esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * [The Twelve-Factor App](https://12factor.net/)
 
@@ -137,20 +130,17 @@ Nós acompanhamos os erros em produção usando ferramentas de rastreamento em t
 
 ### Medida
 
-!!! atenção
-    esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ### Apdex
 
-!!! atenção
-    esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * [Apdex.org](http://apdex.org/overview.html)
 
 ## Escalabilidade
 
-!!! atenção
-    esta seção pode ser melhorada.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * [Practical Scalability Analysis](https://www.vividcortex.com/resources/universal-scalability-law)
 

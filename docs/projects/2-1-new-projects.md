@@ -1,7 +1,6 @@
 # Starting new projects
 
-!!! attention
-    This section is missing content.
+!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 ## Antes de iniciar
 
