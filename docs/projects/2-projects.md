@@ -1,7 +1,5 @@
 # Projetos
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F84%2FExtreme_Programming.svg%2F1200px-Extreme_Programming.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FExtreme_programming&docid=fpr89RJcBbiUiM&tbnid=IBir33fc8PoN4M%3A&vet=10ahUKEwje_K7DmI_iAhU8GbkGHRuXDBoQMwg-KAEwAQ..i&w=1200&h=1102&hl=en&bih=803&biw=1440&q=extreme%20programming%20feedback&ved=0ahUKEwje_K7DmI_iAhU8GbkGHRuXDBoQMwg-KAEwAQ&iact=mrc&uact=8
-
 Nós trabalhamos com startups e grandes empresas para desenvolver produtos de software, serviços e plataformas abrangendo todas as fases do processo de desenvolvimento de software, desde a idealização até a escalabilidade dos sitemas e suporte de longo prazo.
 
 Nós adotamos os princípios do Lean Thinking, ou seja, eliminamos tarefas desnecessárias, incentivamos as decisões informadas a serem feitas o mais tarde possível e entregamos o mais rápido possível. Nós capacitamos as equipes para fazerem suas próprias decisões e terem propriedade do desenvolvimento.
