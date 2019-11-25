@@ -14,9 +14,7 @@ Apesar de estarmos preparados para trabalhar com equipes remotas, gostamos de te
 
 Construir e manter um bom escritório para trabalhar é difícil. Precisamos garantir conforto e também coisas como um bom café, chá e bons lanches. Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/), um espaço de coworking que tem tudo de que precisamos. Dessa forma evitamos gastar tempo administrando o pagamento de contas, limpeza, manutenção, reposição alimentícios e focamos no que somos realmente bons: desenvolver software.
 
-## Quadro Operações
-
-No [Quadro Operações](https://trello.com/b/3tKYLWBv/mlabs-operations) temos tarefas relacionadas ao bem-estar da equipe e manutenção do escritório que qualquer pessoa pode pegar para colaborar. Algumas pessoas acabam virando guardiãs de alguma tarefa, como por exemplo fazer a feira semanal de frutas. Sempre olhe este quadro quando estiver com algum tempo livre.
+Temos duas agendas no calendário para lembretes de organização interna, onde temos tarefas relacionadas ao bem-estar da equipe e manutenção do escritório que qualquer pessoa pode pegar para colaborar. Algumas pessoas acabam virando guardiãs de alguma tarefa. Temos uma agenda para Eventos (amarela) e outra para Operações (cinza). Em eventos colocamos aniversários, data de entrada na empresa, eventos internos e externos que estamos participando. Operações são rotinas do escritório. Por exemplo: todo dia de manhã e a tarde, uma pessoa responsável vai colocar e tirar as pilhas para carregar. Toda semana alguém vai coordena a compra das frutas. Todos tem acesso às duas agendas.
 
 ## Email, calendários e documentos
 
