@@ -26,7 +26,7 @@ Ideias para as horas de investimento:
 
 ### Kindle
 
-Temos kindles na empresa. Qualquer pessoa com um endereço [@magrathealabs.com](@magrathealabs.com) pode enviar pdfs e outros formatos para [kindle.magrathea.1@Kindle.com](kindle.magrathea.1@Kindle.com). O número 1 pode ser substituído pelo número do dispositivo. A sincronização está desativada para evitar que a leitura de uma pessoa atrapalhe a de outra. Também podemos emprestar livros da conta da Magrathea para a conta pessoal de alguém, fale com o pessoal da empresa para saber como fazer isso.
+Temos kindles na empresa. Qualquer pessoa com um endereço [@magrathealabs.com](@magrathealabs.com) pode enviar pdfs e outros formatos para [kindle.magrathea.1@Kindle.com](kindle.magrathea.1@Kindle.com). O número 1 pode ser substituído pelo número do dispositivo. A sincronização está desativada para evitar que a leitura de uma pessoa atrapalhe a de outra. Também podemos emprestar livros da conta da Magrathea para a conta pessoal de alguém, fale com o pessoal da empresa para saber como fazer isso. Para mais detalhe sobre como enviar documentos, acesse a [documentação do Kindle](https://www.amazon.com/gp/sendtokindle/email).
 
 ## Trabalho remoto
 
