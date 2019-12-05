@@ -24,6 +24,10 @@ Ideias para as horas de investimento:
 * Ajudar a melhorar os processos internos da Magrathea, revisando nossas documentações;
 * Fazer _pair programming_ com colegas de trabalho para ensinar e aprender coisas.
 
+### Kindle
+
+Temos kindles na empresa. Qualquer pessoa com um endereço [@magrathealabs.com](@magrathealabs.com) pode enviar pdfs e outros formatos para [kindle.magrathea.1@Kindle.com](kindle.magrathea.1@Kindle.com). O número 1 pode ser substituído pelo número do dispositivo. A sincronização está desativada para evitar que a leitura de uma pessoa atrapalhe a de outra. Também podemos emprestar livros da conta da Magrathea para a conta pessoal de alguém, fale com o pessoal da empresa para saber como fazer isso.
+
 ## Trabalho remoto
 
 Mantenha em mente que quando uma pessoa do time está trabalhando remotamente, ela não está no escritório para ouvir o que está sendo discutindo com outras pessoas do time. Se uma pessoa do time estiver remota, todo o time deve trabalhar como se estivesse remoto.
