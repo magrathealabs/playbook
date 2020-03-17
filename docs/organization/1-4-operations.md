@@ -12,19 +12,19 @@ Esta seção descreve algumas das praticas que usamos para administrar nossa org
 
 Apesar de estarmos preparados para trabalhar com equipes remotas, gostamos de ter pessoas juntas no escritório porque isso nos ajuda a construir relacionamentos fortes.
 
-Construir e manter um bom escritório para trabalhar é difícil. Precisamos garantir conforto e também coisas como um bom café, chá e bons lanches. Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/), um espaço de coworking que tem tudo de que precisamos. Dessa forma evitamos gastar tempo administrando o pagamento de contas, limpeza, manutenção, reposição alimentícios e focamos no que somos realmente bons: desenvolver software.
+Construir e manter um bom escritório para trabalhar é difícil. Precisamos garantir conforto e também coisas como um bom café, chá e bons lanches. Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/) e no [XYZ](https://xyzcoworking.com/), ambos são espaços de coworking que tem tudo de que precisamos. Dessa forma evitamos gastar tempo administrando o pagamento de contas, limpeza, manutenção, reposição alimentícios e focamos no que somos realmente bons: desenvolver software.
 
 Temos duas agendas no calendário para lembretes de organização interna, onde temos tarefas relacionadas ao bem-estar da equipe e manutenção do escritório que qualquer pessoa pode pegar para colaborar. Algumas pessoas acabam virando guardiãs de alguma tarefa. Temos uma agenda para Eventos (amarela) e outra para Operações (cinza). Em eventos colocamos aniversários, data de entrada na empresa, eventos internos e externos que estamos participando. Operações são rotinas do escritório. Por exemplo: todo dia de manhã e a tarde, uma pessoa responsável vai colocar e tirar as pilhas para carregar. Toda semana alguém vai coordena a compra das frutas. Todos tem acesso às duas agendas.
 
 ## Email, calendários e documentos
 
-Usamos o Google Apps for Work para gerenciar [agendas](calendar.magrathealabs.com), tromar [e-mails](email.magrathealabs.com) e compartilhar [documentos](drive.magrathealabs.com). Existe uma pasta chamada [MAGRATHEA LABS](https://drive.google.com/drive/u/1/folders/0B8U0XIyR2q5pZGJ4YUgtVEhyUHc) onde compartilhamos a maioria das coisas que escrevemos. Se você não conseguir visualizar a pasta quando fizer login no Google Drive, precisará pedir a outra pessoa que lhe envie o link e, em seguida, clique em “Adicionar ao meu drive.
+Usamos o Google Apps for Work para gerenciar [agendas](https://calendar.magrathealabs.com), tromar [e-mails](https://email.magrathealabs.com) e compartilhar [documentos](https://drive.magrathealabs.com). Existe uma pasta chamada [MAGRATHEA LABS](https://drive.google.com/drive/u/1/folders/0B8U0XIyR2q5pZGJ4YUgtVEhyUHc) onde compartilhamos a maioria das coisas que escrevemos. Se você não conseguir visualizar a pasta quando fizer login no Google Drive, precisará pedir a outra pessoa que lhe envie o link e, em seguida, clique em “Adicionar ao meu drive.
 
 Quando escrevemos coisas novas, tentamos salvá-las em uma determinada pasta dentro da estrutura existente.
 
 ## Videoconferências
 
-Normalmente, usamos o Google Meet ou Slack para as chamadas de vídeo. Também temos um canal dedicado no [appear.in](https://appear.in/magrathealabs).
+Normalmente, usamos o Google Meet ou Slack para as chamadas de vídeo.
 
 ## Despesas
 
