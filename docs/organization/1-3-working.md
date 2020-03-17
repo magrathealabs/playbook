@@ -44,9 +44,9 @@ Geralmente tiramos 14 dias de férias coletivas no final do ano para o Natal e A
 
 ## Apontamento das horas
 
-Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido pela CLT, pelo sistema OiTchau. O outro, é o apontamento dos projetos no Toggl.
+Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido pela CLT, pelo sistema DalePonto. O outro, é o apontamento dos projetos no Toggl.
 
-### OiTchau
+### DalePonto
 
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
