@@ -55,4 +55,4 @@ Uma vez por trimestre, organizamos uma reunião para atualizar todos com o statu
 
 ### Momentos de compartilhamento
 
-Os [momentos de compartilhamento](/organization/1-1-sharing) são importantes para conversarmos sobre questão técnicas e nos ajudam a disseminar conhecimento entre o time.
+Os [momentos de compartilhamento](/organization/1-1-sharing) são importantes para conversarmos sobre questões técnicas e nos ajudam a disseminar conhecimento entre o time.
