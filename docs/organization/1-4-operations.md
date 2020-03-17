@@ -18,7 +18,7 @@ Temos duas agendas no calendário para lembretes de organização interna, onde 
 
 ## Email, calendários e documentos
 
-Usamos o Google Apps for Work para gerenciar [agendas](https://calendar.magrathealabs.com), tromar [e-mails](https://email.magrathealabs.com) e compartilhar [documentos](https://drive.magrathealabs.com). Existe uma pasta chamada [MAGRATHEA LABS](https://drive.google.com/drive/u/1/folders/0B8U0XIyR2q5pZGJ4YUgtVEhyUHc) onde compartilhamos a maioria das coisas que escrevemos. Se você não conseguir visualizar a pasta quando fizer login no Google Drive, precisará pedir a outra pessoa que lhe envie o link e, em seguida, clique em “Adicionar ao meu drive.
+Usamos o Google Apps for Work para gerenciar [agendas](https://calendar.magrathealabs.com), trocar [e-mails](https://email.magrathealabs.com) e compartilhar [documentos](https://drive.magrathealabs.com). Existe uma pasta chamada [MAGRATHEA LABS](https://drive.google.com/drive/u/1/folders/0B8U0XIyR2q5pZGJ4YUgtVEhyUHc) onde compartilhamos a maioria das coisas que escrevemos. Se você não conseguir visualizar a pasta quando fizer login no Google Drive, precisará pedir a outra pessoa que lhe envie o link e, em seguida, clique em “Adicionar ao meu drive.
 
 Quando escrevemos coisas novas, tentamos salvá-las em uma determinada pasta dentro da estrutura existente.
 
