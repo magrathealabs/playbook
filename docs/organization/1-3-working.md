@@ -44,9 +44,9 @@ Geralmente tiramos 14 dias de férias coletivas no final do ano para o Natal e A
 
 ## Apontamento das horas
 
-Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido pela CLT, pelo sistema OiTchau. O outro, é o apontamento dos projetos no Toggl.
+Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido pela CLT, pelo sistema DalePonto. O outro, é o apontamento dos projetos no Toggl.
 
-### OiTchau
+### DalePonto
 
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
@@ -73,7 +73,7 @@ Usamos o [Toggl](https://www.toggl.com) para gerenciar quanto tempo estamos nos 
 
 Dê uma olhada nas tarefas pré-definidas nos projetos para verificar se alguma coisa se relaciona com o que você está apontando.
 
-Não descreva seus apontamentos como "code _review_", "_pair programming_", "ajudando alguém" or "reunião", pois isso não é muito informativo. É melhor colocar o nome da tarefa que você está trabalhando no momento. Para ficar consistente, aponte no Toggl o mesmo nome da tarefa presente no Trello ou título do PR no GitHub.
+Não descreva seus apontamentos como "_code review_", "_pair programming_", "ajudando alguém" ou "reunião", pois isso não é muito informativo. É melhor colocar o nome da tarefa que você está trabalhando no momento. Para ficar consistente, aponte no Toggl o mesmo nome da tarefa presente no Trello ou título do PR no GitHub.
 
 Quando apontar uma reunião no Toggl, selecionamos o cliente com a task "Reunião" e deixe claro na descrição qual é a reunião em que está participando. Exemplo: "Reunião de planejamento de sprint".
 
