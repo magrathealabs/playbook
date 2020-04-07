@@ -57,9 +57,9 @@ Para ter acesso consulte o Carlos para que ele realiza seu cadastro na sistema.
 
 #### Utilização
 
-* Tela inicial
+**Tela inicial**
 
-Aqui é onde tem as informações do dia a dia, o que mais utilizaremos para realizar as batidas.
+Nesta tela você pode ver as informações que você precisa na rotina de batida de ponto diária e realizar as principais funções relacionadas.
 
 ![home-info](./../_media/daleponto/home-info.png)
 
@@ -67,21 +67,21 @@ Ainda na tela inicial você pode bater um ponto da seguinte forma:
 
 ![do-punch](./../_media/daleponto/do-punch.gif)
 
-Ou invalidar uma batida assim:
+Ou invalidar uma batida:
 
 ![invaliding-a-punch](./../_media/daleponto/invaliding-a-punch.gif)
 
 Batida também podem ser invalidadas na tela de histórico de batidas, da mesma forma como demonstrado acima.
 
-* Tela de Ajustes
+**Tela de Ajustes**
 
 Nessa tela é possível pedir um ajuste de pontos, como abaixo:
 
 ![request-change](./../_media/daleponto/request-change.gif)
 
-* Histórico de Batidas
+**Histórico de Batidas**
 
-Nesta tela é possível conferir as batidas e algumas outras informações úteis sobre o dia, como abaixo um dia com o número de batidas válidas é ímpar:
+Nesta tela é possível conferir as batidas e algumas outras informações úteis sobre o dia. Abaixo mostramos um exemplo, quando um dia possui um número ímpar de batidas válidas:
 
 ![history-with-invalid-punch](./../_media/daleponto/history-with-invalid-punch.png)
 
@@ -89,7 +89,7 @@ E aqui um dia com o número de batidas válido:
 
 ![history-with-valid-punches](./../_media/daleponto/history-with-valid-punches.png)
 
-Para navegar pelos dias há basicamente duas formas a primeiro é apertando no botão de `"Mostrar mais"` como abaixo:
+Existem duas formas para navegar pelos dias: a primeiro é apertando no botão de `Mostrar mais`:
 
 ![punch-history](./../_media/daleponto/punch-history.gif)
 
@@ -97,7 +97,7 @@ E o segundo é selecionando o calendário e clicando no dia desejado:
 
 ![history-of-specific-day](./../_media/daleponto/history-of-specific-day.gif)
 
-Se ainda restarem dúvidas pode falar com o Carlos no slack que ele pode te informa melhor.
+Se ainda restarem dúvidas, você pode sanar elas buscando o mestre Carlos no Slack.
 
 ### Toggl
 
