@@ -48,7 +48,56 @@ Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido p
 
 ### DalePonto
 
-!> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
+Utilizamos para controle de batidas um sistema interno, que está em desenvolvimento. Ele é uma aplicação PWA o que possibilita a utilização como aplicativo no celular.
+
+Link para o app: http://ponto-app.magrathealabs.io/
+Link para o admin: http://ponto-admin.magrathealabs.io/
+
+Para ter acesso consulte o Carlos para que ele realiza seu cadastro na sistema.
+
+#### Utilização
+
+* Tela inicial
+
+Aqui é onde tem as informações do dia a dia, o que mais utilizaremos para realizar as batidas.
+
+![home-info](./../_media/daleponto/home-info.png)
+
+Ainda na tela inicial você pode bater um ponto da seguinte forma:
+
+![do-punch](./../_media/daleponto/do-punch.gif)
+
+Ou invalidar uma batida assim:
+
+![invaliding-a-punch](./../_media/daleponto/invaliding-a-punch.gif)
+
+Batida também podem ser invalidadas na tela de histórico de batidas, da mesma forma como demonstrado acima.
+
+* Tela de Ajustes
+
+Nessa tela é possível pedir um ajuste de pontos, como abaixo:
+
+![request-change](./../_media/daleponto/request-change.gif)
+
+* Histórico de Batidas
+
+Nesta tela é possível conferir as batidas e algumas outras informações úteis sobre o dia, como abaixo um dia com o número de batidas válidas é ímpar:
+
+![history-with-invalid-punch](./../_media/daleponto/history-with-invalid-punch.png)
+
+E aqui um dia com o número de batidas válido:
+
+![history-with-valid-punches](./../_media/daleponto/history-with-valid-punches.png)
+
+Para navegar pelos dias há basicamente duas formas a primeiro é apertando no botão de `"Mostrar mais"` como abaixo:
+
+![punch-history](./../_media/daleponto/punch-history.gif)
+
+E o segundo é selecionando o calendário e clicando no dia desejado:
+
+![history-of-specific-day](./../_media/daleponto/history-of-specific-day.gif)
+
+Se ainda restarem dúvidas pode falar com o Carlos no slack que ele pode te informa melhor.
 
 ### Toggl
 
