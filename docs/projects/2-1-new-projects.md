@@ -22,7 +22,7 @@ O item no backlog está escrito como uma User Story, definido o suficiente para 
 
 **Pequeno**: tente manter o tamanho do item para ser desenvolvido em poucos dias por uma pessoa.
 
-**Testável**: tenha em mente que um item deve somente ser considerado PRONTO (_DONE_), em meio de outros fatores, se foi testado com sucesso. Se não se consegue testar um item por de falta de informação, ele não deve ser considerado um bom condidato para fazer parte do Backlog. Isto é particularmente verdade para times que seguem o TDD.
+**Testável**: tenha em mente que um item deve somente ser considerado PRONTO (_DONE_), em meio de outros fatores, se foi testado com sucesso. Se não se consegue testar um item por de falta de informação, ele não deve ser considerado um bom candidato para fazer parte do Backlog. Isto é particularmente verdade para times que seguem o TDD.
 
 ### Definição de Feito (_Definition of Done_)
 
@@ -30,9 +30,9 @@ A _Definition of Done_ (DoD) é usada para avaliar quando uma _User Story_ foi c
 
 A _Definition of Done_ reenforça que qualquer membro do time saiba exatamente o que é esperado na entrega. Reenforça também a transparência e a qualidade adequada para o propósito do produto e organização. Ele limita o custo de retrabalho após que a funcionalidade seja aceita como _Done_. Ter um contrato explícito limita o riscos de desentendimento e conflito entre o time de desenvolvimento e o cliente.
 
-Nós devemos incluir _Feature Scenarios_ descrevendo os requetimentos do produto. Devemos incluir testes de aceitação baseados nos _Feature Scenarios_.
+Nós devemos incluir _Feature Scenarios_ descrevendo os requerimentos do produto. Devemos incluir testes de aceitação baseados nos _Feature Scenarios_.
 
-O nosso _Definition of Done_ devem satisfazem os seguintes pontos:
+O nosso _Definition of Done_ deve satisfazer os seguintes pontos:
 
 * Funcionalidade foi testada com critérios rigorsos de aceitação
 * Testes unitátios e funcionais escritos e passando
@@ -51,13 +51,13 @@ Quem será responsável pelo QA? Quem será responsável por realizar o deploy p
 
 ### Prova de Conceito
 
-Antes de começar qualquer projeto que utilize uma nova tecnologia, nós acreditamos extremamente útil realizar uma Prova de Conteito (PoC). Isso reduz a chance de falha e problemas por causa de fatos e situações foram de controle.
+Antes de começar qualquer projeto que utilize uma nova tecnologia, nós acreditamos que é extremamente útil realizar uma Prova de Conteito (PoC). Isso reduz a chance de falha e problemas por causa de fatos e situações fora de controle.
 
 Por exemplo, nós tivemos que adicionar React em uma arquitetura de um cliente e tivemos inúmeros problemas nos testes. Se tivéssemos criado um simples componente "Hello World" com testes antes do projeto, iríamos ter identificado este problema e estimado melhor o prazo e esforço da entrega do projeto.
 
 ## _Stakeholders_
 
-Um projeto de software tem sucesso quando encontra todas as espectactivas de seus  _stakeholders_. Um _stakeholders_ pode ser:
+Um projeto de software tem sucesso quando encontra todas as expectativas de seus  _stakeholders_. Um _stakeholders_ pode ser:
 
 - O gerente de projeto
 - O dono da empresa/negócio/agência
