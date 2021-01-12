@@ -86,9 +86,10 @@ Como você pode ver, a lista de Doing (em vermelho) e a lista de Code Review (em
 
 Gostamos de trabalhar em fases, interagindo com os clientes para priorizar, testar e aprender sobre o que estamos fazendo. Implementamos POCs para explorar o potencial de nossas ideias, de forma que possamos nos concentrar em um particular para construir o MVP, escalonando os que funcionarem:
 
-![Fluxo de Projeto](./../_media/project-flow.png "Fluxo de Projeto")
+
 <center>
 
+![Fluxo de Projeto](./../_media/project-flow.png "Fluxo de Projeto")
 [Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)
 
 </center>
