@@ -72,8 +72,10 @@ Enquanto um ambiente orientado a tarefas faz com que os desenvolvedores se preoc
 Este é um exemplo do quadro Trello de um projeto comum:
 
 <center>
-    ![_media/trello.png](_media/trello.png)
-    [Projeto Template](https://trello.com/b/OzLyn6bx/projeto-template).
+
+![Projeto Template](./../_media/trello.png)
+[Projeto Template](https://trello.com/b/OzLyn6bx/projeto-template).
+
 </center>
 
 O board é organizado de forma que todo o fluxo, de ideias (upstream) a desenvolvimento (downstream), seja visível para todos os membros da equipe. Concentrar-se apenas na eficácia da upstream (board de ideias) aumenta o risco de esgotamento do board no downstream (pedidos de execução excessivos). Sem eficácia no board downstream, é necessário confiar cegamente no upstream para evitar tarefas que não geram valor no fluxo de demandas.
@@ -84,8 +86,12 @@ Como você pode ver, a lista de Doing (em vermelho) e a lista de Code Review (em
 
 Gostamos de trabalhar em fases, interagindo com os clientes para priorizar, testar e aprender sobre o que estamos fazendo. Implementamos POCs para explorar o potencial de nossas ideias, de forma que possamos nos concentrar em um particular para construir o MVP, escalonando os que funcionarem:
 
-![Fluxo de Projeto](_media/project-flow.png "Fluxo de Projeto")
-<center>[Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)</center>
+![Fluxo de Projeto](./../_media/project-flow.png "Fluxo de Projeto")
+<center>
+
+[Reference: Thoughtworks](https://www.thoughtworks.com/insights/blog/10-tips-transformation-guide-pioneers)
+
+</center>
 
 Nossos projetos de software são gerenciados no [Trello](https://trello.com). Em nossa experiência, o Trello é uma ferramenta flexível na qual desenvolvedores, gerentes de produto, designers e clientes podem trabalhar juntos.
 
