@@ -65,7 +65,7 @@ Qualquer pessoa que use um dispositivo pessoal deve tomar o devido cuidado para 
 Algumas boas práticas são:
 
 * Configurar o bloqueio de tela após um período de inatividade;
-* Garantir o backup regular dos dados relacionados ao trabalhol
+* Garantir o backup regular dos dados relacionados ao trabalho;
 * Armazenamento com criptografial;
 * Fazer uso de boas senhas e 2FA;
 * Evitar conectar dispositivos a redes não confiáveis.
