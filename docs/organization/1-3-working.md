@@ -97,7 +97,7 @@ E o segundo é selecionando o calendário e clicando no dia desejado:
 
 ![history-of-specific-day](./../_media/daleponto/history-of-specific-day.gif)
 
-Se ainda restarem dúvidas, você pode sanar elas buscando o mestre Carlos no Slack.
+Se ainda restarem dúvidas, você pode saná-las buscando o mestre Carlos no Slack.
 
 ### Toggl
 
