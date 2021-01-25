@@ -45,11 +45,10 @@ Existem 6 princípios que nos guiam:
 
 **Nós somos um time**: nós somos membros de um time e parceiros comprometidos. Não deixamos nossos egos tomarem controle de nós. Vencemos e perdemos juntos. Não temos posições; temos papéis. Podemos discordar um com o outro, porém, nós nos comprometemos com o time. Nós buscamos colaborar com nossos colegas de trabalho e clientes.
 
-**Nós somos ativamente transparentes**: nós acreditamos que algo muito importante em um time de profissionais do conhecimento são ciclos de feedbacks. Para garantir eles, nós somos transparentes e nos comunicamos ativamente sobre o que está acontecendo. Comunicação também é essencial para criar um senso de time e colaborar ativamente.
+**Nós somos ativamente transparentes**: nós acreditamos que algo muito importante em um time de profissionais do conhecimento são ciclos de feedbacks. Para garantir que eles aconteçam, nós somos transparentes e nos comunicamos ativamente sobre o que está acontecendo. Comunicação também é essencial para criar um senso de time e colaborar ativamente.
 
 **Nós valorizamos nossas diferenças**: nós respeitamos a individualidade dos outros. Procuramos e valorizamos profundamente ideias, perspectivas e experiências diferentes das nossas. Sabemos que essa riqueza é fundamental para nos fazer progredir não apenas individualmente, mas também como organização.
 
 **Nós somos profissionais**: nós nos responsabilizamos pelo nosso trabalho e nos comprometemos com o sucesso do cliente. Não existe valor em aplicar tecnologia nos problemas errados. Buscamos diariamente fazer as perguntas certas para os problemas certos. Nossos clientes confiam em nós não apenas para implementarmos soluções da melhor forma possível, mas também para ajudá-los a validarem novas ideias e entregarem produtos com qualidade para seus usuários.
 
 **Nós sempre buscamos melhorar**: nós buscamos desenvolver conhecimento e compreensão sobre o que fazemos. Nós lemos, estudamos, praticamos deliberadamente e compartilhamos nossos aprendizados. Nós buscamos o autoconhecimento e o autodesenvolvimento.
-
