@@ -33,7 +33,7 @@ Atualmente compreendemos que apenas transformar o futuro em presente não é suf
 
 ## Princípios
 
-Princípios e valores são duas coisas muito fortes dentro da Magrathea Labs. Temos nossa própria carta de princípios e também usamos outras, como por exemplo a do _eXtreme Programming_. Mas o que são princípios e valores?
+Princípios e valores são duas coisas muito fortes dentro da Magrathea. Temos nossa própria carta de princípios e também usamos outras, como por exemplo a do _eXtreme Programming_. Mas o que são princípios e valores?
 
 Princípios são pressupostos universais, regras essenciais que beneficiam um sistema maior. Este sistema pode ser um indivíduo ou uma organização. Os princípios são como o diamante, além de preciosos, são rígidos, constantes e inquebráveis. Eles por si só não se quebram, as pessoas que não os seguem.
 
@@ -41,14 +41,14 @@ Valores são regras individuais que orientam pessoas e organizações, como bús
 
 Existem 6 princípios que nos guiam:
 
-**Nós nos importamos (empatia)**: nós nos importamos com nossos colegas, clientes, trabalho e com a comunidade. Não dizemos _"eu te falei"_ ou _"isso não é minha responsabilidade"_. Nós nos responsabilizamos por nosso trabalho e sempre procuramos maneiras de melhorá-lo.
+**Nós nos importamos**: nós nos importamos com nossos colegas, clientes, trabalho e com a comunidade. Não dizemos _"eu te falei"_ ou _"isso não é minha responsabilidade"_. Nós nos _responsabilizamos por nosso trabalho_ e sempre procuramos maneiras de melhorá-lo. Nós agimos com alteridade, nos colocando no lugar do outro.
 
-**Somos um time (colaboração)**: nós somos membros de um time e parceiros comprometidos. Não deixamos nossos egos tomarem controle de nós. Vencemos e perdemos juntos. Não temos posições; temos papéis. Podemos discordar um com o outro, porém, nós nos comprometemos com o time.
+**Nós somos um time**: nós somos membros de um time e parceiros comprometidos. Não deixamos nossos egos tomarem controle de nós. Vencemos e perdemos juntos. Não temos posições; temos papéis. Podemos discordar um com o outro, porém, nós nos comprometemos com o time. Nós buscamos colaborar com nossos colegas de trabalho e clientes.
 
-**Nós somos ativamente transparentes (comunicação)**: o que mais importa em um time em desenvolvimento de software é a comunicação, e nós nos comunicamos ativamente. Comunicação é essencial para criar um senso de time e cooperação ativa.
+**Nós somos ativamente transparentes**: nós acreditamos que algo muito importante em um time de profissionais do conhecimento são ciclos de feedbacks. Para garantir que eles aconteçam, nós somos transparentes e nos comunicamos ativamente sobre o que está acontecendo. Comunicação também é essencial para criar um senso de time e colaborar ativamente.
 
-**Somos diferentes**: nós procuramos, respeitamos e valorizamos profundamente ideias, perspectivas e experiências diferentes das nossas. Sabemos que essa riqueza é fundamental para nos fazer progredir não apenas individualmente, mas também como organização. Somos um time de amantes de bacon e veganos. Membros e não membros da comunidade LGBT. Alguns de nós amam Python, e outros, Ruby.
+**Nós valorizamos nossas diferenças**: nós respeitamos a individualidade dos outros. Procuramos e valorizamos profundamente ideias, perspectivas e experiências diferentes das nossas. Sabemos que essa riqueza é fundamental para nos fazer progredir não apenas individualmente, mas também como organização.
 
-**Nós nos comprometemos com o sucesso do cliente (responsabilidade)**: não existe valor em aplicar tecnologia nos problemas errados. Buscamos diariamente fazer as perguntas certas para os problemas certos. Nossos clientes confiam em nós não apenas para implementarmos soluções da melhor forma possível, mas também para ajudá-los a validarem novas ideias e entregarem produtos com qualidade para seus usuários.
+**Nós somos profissionais**: nós nos responsabilizamos pelo nosso trabalho e nos comprometemos com o sucesso do cliente. Não existe valor em aplicar tecnologia nos problemas errados. Buscamos diariamente fazer as perguntas certas para os problemas certos. Nossos clientes confiam em nós não apenas para implementarmos soluções da melhor forma possível, mas também para ajudá-los a validarem novas ideias e entregarem produtos com qualidade para seus usuários.
 
-**Nós sempre buscamos melhorar (melhoria contínua)**: as pessoas que constroem a Magrathea buscam adquirir conhecimento e compreensão sobre o que fazem. Nós lemos, estudamos, praticamos deliberadamente e compartilhamos nossos aprendizados.
+**Nós sempre buscamos melhorar**: nós buscamos desenvolver conhecimento e compreensão sobre o que fazemos. Nós lemos, estudamos, praticamos deliberadamente e compartilhamos nossos aprendizados. Nós buscamos o autoconhecimento e o autodesenvolvimento.
