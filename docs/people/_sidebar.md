@@ -1,3 +1,3 @@
-- [PESSOAS](people/4-people)
-- [DESENVOLVIMENTO PESSOAL](people/4-1-personal-development)
-- [< VOLTAR](/README)
+- [PESSOAS](people/4-people?id=pessoas)
+- [DESENVOLVIMENTO PESSOAL](people/4-1-personal-development?id=desenvolvimento-pessoal)
+- [< VOLTAR](/README?id=introdução)
