@@ -1,3 +1,3 @@
-- [PROJETOS](projects/2-projects)
-- [COMEÇANDO UM NOVO PROJETO](projects/2-1-new-projects)
-- [< VOLTAR](/README)
+- [PROJETOS](projects/2-projects?id=projetos)
+- [COMEÇANDO UM NOVO PROJETO](projects/2-1-new-projects?id=starting-new-projects)
+- [< VOLTAR](/README?id=introdução)
