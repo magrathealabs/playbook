@@ -128,7 +128,7 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 * Todo texto está livre de erros gramaticais.
 * A formatação da página e do conteúdo são apropriadas para todas as páginas.
 * Todas as páginas possuem conteúdo.
-* A política de privacidade está inclusa (gere uma em getterms.io).
+* A política de privacidade está inclusa (gere uma em [getterms.io](https://getterms.io/)).
 * O Favicon criado está aparecendo corretamente (incluindo a retina).
 * O Footer incluí a informação de copyright.
 * A página 404 existe e é informativa.
