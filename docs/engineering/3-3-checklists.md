@@ -20,7 +20,7 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 
 * O código funciona? Ele se comporta de acordo com a função pretendida? A lógica está correta?
 * O código é de fácil entendimento?
-* Ele está em conformidade com as convenções de código acordadas? Essas convenções geralmente envolvem localicação das chaves, nomes das funções e variáveis, tamanho de linha, indentação, formatação e comentários.
+* Ele está em conformidade com as convenções de código acordadas? Essas convenções geralmente envolvem localização das chaves, nomes das funções e variáveis, tamanho de linha, indentação, formatação e comentários.
 * Existe algum código redundante ou duplicado?
 * Algum código está desabilitado por um comentário?
 
@@ -68,11 +68,11 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 
 ### JavaScript
 
-* JavaScript Inline: Não existe nenhum Javascript escrito dentro dos elemtnos HTML.
+* JavaScript Inline: Não existe nenhum Javascript escrito dentro dos elementos HTML.
 * Concatenação: Os arquivos Javascript estão concatenados.
 * Minificação Os arquivos Javascript então minificados (você pode adicionar o sufixo `.min`).
 * Segurança Javascript: [Diretrizes para o desenvolvimento de aplicações seguras utilizando Javascript](https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet#Guidelines_for_Developing_Secure_Applications_Utilizing_JavaScript)
-* ESLint: Não existem erros apotandos pelo ESLint.
+* ESLint: Não existem erros apontados pelo ESLint.
 
 ### Segurança
 
@@ -94,7 +94,7 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 ### User experience (UX)
 
 * Registrar-se é um processo que rende valor para o usuário. Processos de registro desnecessário são evitados.
-* Conteúdo de amostra. Por exemplo, existe uma amostra de newsletter ao lado de um formulaŕio que registra o interesse de um usuário a essa newsletter.
+* Conteúdo de amostra. Por exemplo, existe uma amostra de newsletter ao lado de um formulário que registra o interesse de um usuário a essa newsletter.
 * Precificação transparente. Não existem custos ocultos ou surpresas nos termos oferecidos ao usuário.
 
 ### Accessibilidade
@@ -106,7 +106,7 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 ### Pesquisa
 
 * Existe uma funcionalidade de pesquisa, no caso de um website grande.
-* A pesquisa está disponivel em toda página, não só na homepage.
+* A pesquisa está disponível em toda página, não só na homepage.
 * O campo de pesquisa é grande o suficiente, para que os usuários consigam ver o que estão digitando.
 
 ### Formulários
@@ -141,16 +141,16 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 * O arquivo `robots.txt` foi gerado e adicionado à página raiz do website.
 * Respostas 301 redirecionam para websites que existem.
 * O website pode ser acessado por mecanismos de busca (remova `noindex`, `nofollow` das páginas).
-* Google Analytics e outras ferramentas de analytics/tracking foram instaladas.
+* Google Analytics e outras ferramentas de analytics/tracking foram instaladas (e seu uso foi descrito adequadamente na política de privacidade).
 
 ## Segurança
 
 * Áreas sensíveis estão bloqueadas e são inacessíveis a mecanismos de busca.
 * O certificado SSL é requisitado.
 
-## Pós lançamento
+## Pós-lançamento
 
-* Garanta que o site é visivel a mecanismos de busca.
+* Garanta que o site é visível a mecanismos de busca.
 * Certificados SSL foram instalados com sucesso.
 * Imagens, mídia e links fazem referência a URL's reais.
 * Webfonts foram setadas para produção (de acordo com os requerimentos).
