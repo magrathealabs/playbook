@@ -1,6 +1,6 @@
 # Introdução
 
-Neste documento é apresentado como nós administramos a nossa organização, como planejamos nosso trabalho e como desenvolvemos _software_ de qualidade. Este documento é baseado na nossa experiência, além da [experiência](https://thoughtbot.com/playbook) e [estudo](http://playbook.dxw.com/#/) de [outros](https://www.vinta.com.br/playbook/), e está sempre evoluindo quando nós encontramos uma maneira melhor de fazer as coisas.
+Neste documento é apresentado como nós administramos a nossa organização, como planejamos nosso trabalho e como desenvolvemos _software_ de qualidade. Este documento é baseado na nossa experiência, além da [experiência](https://thoughtbot.com/playbook) e [estudo](https://playbook.dxw.com/#/) de [outros](https://www.vinta.com.br/playbook/), e está sempre evoluindo quando nós encontramos uma maneira melhor de fazer as coisas.
 
 > No matter the circumstance you can always improve. You can always start improving with yourself. You can always start improving today.
 > <br>— *Kent Beck, Extreme Programming Explained*

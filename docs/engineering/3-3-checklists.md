@@ -160,7 +160,7 @@ Note que cada projeto tem suas peculiaridades e por causa disso talvez não siga
 
 ## Referências
 
-* [Stop More Bugs with our Code Review Checklist](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
+* [Stop More Bugs with our Code Review Checklist](https://web.archive.org/web/20180203052929/http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/)
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 * [Usability Checklist](https://stayintech.com/UX)
-* [Website pre & post launch checklist](http://humaan.com/checklist/)
+* [Website pre & post launch checklist](https://humaan.com/checklist/)
