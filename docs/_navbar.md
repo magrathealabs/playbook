@@ -1,2 +1,2 @@
-- [website](http://www.magrathealabs.com)
-- [careers](http://careers.magrathealabs.com)
+- [website](https://www.magrathealabs.com)
+- [careers](https://careers.magrathealabs.com)

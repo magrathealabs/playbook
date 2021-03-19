@@ -12,7 +12,7 @@ Esta seção descreve algumas das praticas que usamos para administrar nossa org
 
 Apesar de estarmos preparados para trabalhar com equipes remotas, gostamos de ter pessoas juntas no escritório porque isso nos ajuda a construir relacionamentos fortes.
 
-Construir e manter um bom escritório para trabalhar é difícil. Precisamos garantir conforto e também coisas como um bom café, chá e bons lanches. Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](http://fliperamaec.com.br/) e no [XYZ](https://xyzcoworking.com/), ambos são espaços de coworking que tem tudo de que precisamos. Dessa forma evitamos gastar tempo administrando o pagamento de contas, limpeza, manutenção, reposição alimentícios e focamos no que somos realmente bons: desenvolver software.
+Construir e manter um bom escritório para trabalhar é difícil. Precisamos garantir conforto e também coisas como um bom café, chá e bons lanches. Como uma empresa pequena e jovem, teríamos que gastar muito tempo e dinheiro criando um ambiente de trabalho agradável. É por isso que trabalhamos no [Fliperama Espaço Colaborativo](https://fliperamaec.com.br/) e no [XYZ](https://xyzcoworking.com/), ambos são espaços de coworking que tem tudo de que precisamos. Dessa forma evitamos gastar tempo administrando o pagamento de contas, limpeza, manutenção, reposição alimentícios e focamos no que somos realmente bons: desenvolver software.
 
 Temos duas agendas no calendário para lembretes de organização interna, onde temos tarefas relacionadas ao bem-estar da equipe e manutenção do escritório que qualquer pessoa pode pegar para colaborar. Algumas pessoas acabam virando guardiãs de alguma tarefa. Temos uma agenda para Eventos (amarela) e outra para Operações (cinza). Em eventos colocamos aniversários, data de entrada na empresa, eventos internos e externos que estamos participando. Operações são rotinas do escritório. Por exemplo: todo dia de manhã e a tarde, uma pessoa responsável vai colocar e tirar as pilhas para carregar. Toda semana alguém vai coordenar a compra das frutas. Todos têm acesso às duas agendas.
 
@@ -52,7 +52,7 @@ A [Felipe&Silva](mail:alissa@felipeesilva.com.br) nos fornece suporte para resol
 
 ## Jurídico
 
-[Silveira Schneider Advogados](http://www.silveiraschneider.com.br/) é o nosso escritório de advocacia. Eles nos ajudam com suporte legal, não apenas com contratos e acordos, mas também com planejamento estratégico e orientação sobre o ambiente regulatório, mercados e oportunidades.
+**Silveira Schneider Advogados** é o nosso escritório de advocacia. Eles nos ajudam com suporte legal, não apenas com contratos e acordos, mas também com planejamento estratégico e orientação sobre o ambiente regulatório, mercados e oportunidades.
 
 ## Dispositivos de trabalho
 

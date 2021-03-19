@@ -4,7 +4,7 @@ Nós trabalhamos com startups e grandes empresas para desenvolver produtos de so
 
 Nós adotamos os princípios do Lean Thinking, ou seja, eliminamos tarefas desnecessárias, incentivamos as decisões informadas a serem feitas o mais tarde possível e entregamos o mais rápido possível. Nós capacitamos as equipes para fazerem suas próprias decisões e terem propriedade do desenvolvimento.
 
-Nós também acreditamos no desenvolvimento [ágil](http://agilemanifesto.org) de software, Kanban e princípios de XP para todos os projetos, e algumas vezes com Scrum. A grande parte das nossas práticas de desenvolvimento estão detalhadas nos livros [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) (Kent Beck) e [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) (Uncle Bob). Nós experimentamos essas práticas e descobrimos que usar a maioria delas melhora a qualidade do nosso trabalho.
+Nós também acreditamos no desenvolvimento [ágil](https://agilemanifesto.org/) de software, Kanban e princípios de XP para todos os projetos, e algumas vezes com Scrum. A grande parte das nossas práticas de desenvolvimento estão detalhadas nos livros [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) (Kent Beck) e [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code) (Uncle Bob). Nós experimentamos essas práticas e descobrimos que usar a maioria delas melhora a qualidade do nosso trabalho.
 
 Um dos nossos principais objetivos de processo é fazer entregas pequenas frequentemente de software funcional. Fazemos isso através de comunicação frequente e com, pelo menos, interações semanais no produto.
 

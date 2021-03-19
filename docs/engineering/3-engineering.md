@@ -22,11 +22,11 @@ Notas de linguagem:
 
 Nós usamos o sistema de controle de versões [Git](https://git-scm.com/) para gerenciar nossos códigos e o GitHub para hospedar nossos repositórios.
 
-As mensagens de *commit* devem descrever as mudanças realizadas no sistema de maneira objetiva, preferivelmente utilizando uma lista de marcadores. As mensagens devem ser claras e concisas para que outros programadores entendam facilmente. Outras práticas sobre mensagens de *commit* podem ser encontradas no blog do [tpope](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+As mensagens de *commit* devem descrever as mudanças realizadas no sistema de maneira objetiva, preferivelmente utilizando uma lista de marcadores. As mensagens devem ser claras e concisas para que outros programadores entendam facilmente. Outras práticas sobre mensagens de *commit* podem ser encontradas no blog do [tpope](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
 
 ## Fluxo de Trabalho
 
-Nós usamos o protocolo de desenvolvimento [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/).
+Nós usamos o protocolo de desenvolvimento [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/).
 
 * Pegue uma tarefa da lista `Current` no Trello
 * Crie uma nova *branch* no Git
@@ -74,7 +74,7 @@ Quando for criar um *Pull Request*, inclua:
 
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
-Como desenvolvedores, nós não sabemos profundamente sobre UI e UX design, mas nós seguimos as regras básicas para construir interfaces agradáveis e utilizáveis. Siga as regras básicas. Em geral, nós seguimos as regras do [Good UI](http://goodui.org).
+Como desenvolvedores, nós não sabemos profundamente sobre UI e UX design, mas nós seguimos as regras básicas para construir interfaces agradáveis e utilizáveis. Siga as regras básicas. Em geral, nós seguimos as regras do [Good UI](https://goodui.org/).
 
 ## Código
 
@@ -111,7 +111,7 @@ Quando começar a trabalhar em uma nova funcionalidade, olhe em volta para melho
 
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
-* [The A11Y Project](http://a11yproject.com)
+* [The A11Y Project](https://www.a11yproject.com/)
 * [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet)
 
 ## Produção
@@ -136,7 +136,7 @@ Nós acompanhamos os erros em produção usando ferramentas de rastreamento em t
 
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
-* [Apdex.org](http://apdex.org/overview.html)
+* [Apdex.org](https://www.apdex.org/overview.html)
 
 ## Escalabilidade
 
@@ -152,7 +152,7 @@ Nós recomendamos que todo engenheiro de *software* leia o livro do Kent Beck so
 
 Testes unitários ajudam desenvolvedores a realmente considerar o que precisa ser feito. Requisitos são bem definidos pelo uso de testes. Não há má interpretação de uma especificação escrita na forma de código.
 
-Atualmente, nós utilizamos o [CircleCI](http://circleci.com/) para rodar a suite de testes do projeto.
+Atualmente, nós utilizamos o [CircleCI](https://circleci.com/) para rodar a suite de testes do projeto.
 
 ### Desenvolvimento Guiado por Testes (*TDD*)
 

@@ -19,7 +19,7 @@ Você pode encontrar nossas publicações em [blog.magrathealabs.com](https://bl
 
 ## _Brown Bag Lunches_
 
-_Brown Bag Lunches_, ou palestras internas, são uma ótima forma de compartilhar conhecimento com o time e também de praticar para palestras que apresentaremos em _meetups_ e conferências. Esses encontros internos acontecem toda semana, fique de olho no [calendário](http://calendar.magrathealabs.com).
+_Brown Bag Lunches_, ou palestras internas, são uma ótima forma de compartilhar conhecimento com o time e também de praticar para palestras que apresentaremos em _meetups_ e conferências. Esses encontros internos acontecem toda semana, fique de olho no calendário.
 
 ## Meetups
 
@@ -28,7 +28,7 @@ Nós ajudamos a organizar encontros locais relacionados com o que trabalhamos na
 Estes são alguns dos _meetups_ que ajudamos a organizar:
 
 * [Agile Joinville](https://www.meetup.com/pt-BR/Agile-Joinville)
-* [Data Science Joinville](http://dados.joinville.br)
+* [Data Science Joinville](https://web.archive.org/web/20201028085007/https://dados.joinville.br/)
 * [Exponential Health Joinville](https://www.meetup.com/pt-BR/Exponential-Health-Joinville)
 * [Python Joinville](http://python.joinville.br)
 * [Ruby Joinville](http://ruby.joinville.br)
@@ -49,4 +49,4 @@ Temos uma política de considerar 50% das horas investidas na organização e pa
 
 _Open Source_ é parte da nossa filosofia. Desde nossa concepção, temos sido uma empresa focada em _open source_, melhorando código compartilhado por outros, colocando esforço em escrita de código e de forma geral dando suporte ao movimento _open source_. Construímos nossos produtos usando quase exclusivamente ferramentas _open source_.
 
-Confira nossa conta do [GitHub](http://github.com/magrathealabs/) para ver todos os nossos projetos.
+Confira nossa conta do [GitHub](https://github.com/magrathealabs) para ver todos os nossos projetos.

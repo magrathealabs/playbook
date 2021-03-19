@@ -28,7 +28,7 @@ Quase tudo o que sabemos sobre como trazer os melhores talentos para o time apre
 
 ## Processo de contratação
 
-Se alguém da empresa conhece e gosta de você, nós lhe enviaremos um e-mail. Se você vier até nós, você deve se inscrever em nossa [página de novas carreiras](http://careers.magrathealabs.com).
+Se alguém da empresa conhece e gosta de você, nós lhe enviaremos um e-mail. Se você vier até nós, você deve se inscrever em nossa [página de novas carreiras](https://careers.magrathealabs.com).
 
 Cada pessoa passa por várias etapas antes de receber uma oferta de emprego ou recusar: uma entrevista por telefone, uma conversa para conhecer a empresa, uma conversa para conversar sobre código com o time e uma reunião de proposta.
 
@@ -46,7 +46,7 @@ Este é o processo que seguimos:
 
 ### Gestão de candidatos
 
-Gerenciamos a contratação de cada candidato através do [Recruitee](https://recruitee.com). Adicionamos os candidatos manualmente ou eles mesmos se candidatam através dos formulários disponibilizados em nossa [página de novas carreiras](http://careers.magrathealabs.com).
+Gerenciamos a contratação de cada candidato através do [Recruitee](https://recruitee.com). Adicionamos os candidatos manualmente ou eles mesmos se candidatam através dos formulários disponibilizados em nossa [página de novas carreiras](https://careers.magrathealabs.com).
 
 ### Ligação
 

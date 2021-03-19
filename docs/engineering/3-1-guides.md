@@ -25,8 +25,8 @@ Antes de começar a desenvolver, garanta que você tenha instalado os linters e 
 
 Em todos os projetos Ruby nós utilizamos uma série de ferramentas para nos ajudar:
 
-* [RubyGems](http://guides.rubygems.org)
-* [Bundler](http://bundler.io)
+* [RubyGems](https://guides.rubygems.org/)
+* [Bundler](https://bundler.io/)
 * [RVM](https://rvm.io)
 
 ### Ferramentas de Qualidade
@@ -34,13 +34,13 @@ Em todos os projetos Ruby nós utilizamos uma série de ferramentas para nos aju
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
 * Rubocop, Danger, Pronto
-* [Better Specs](http://www.betterspecs.org/)
+* [Better Specs](https://www.betterspecs.org/)
 
 ### Ruby on Rails
 
 !> **TODO** Adicione conteúdo nesta seção! [Veja como](https://github.com/magrathealabs/playbook).
 
-[Guias de Ruby on Rails](http://guides.rubyonrails.org)
+[Guias de Ruby on Rails](https://guides.rubyonrails.org/)
 
 ## Python
 

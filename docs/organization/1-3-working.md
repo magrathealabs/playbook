@@ -50,8 +50,8 @@ Temos dois tipos de apontamento na Magrathea. Um é o ponto padrão, requerido p
 
 Utilizamos para controle de batidas um sistema interno, que está em desenvolvimento. Ele é uma aplicação PWA o que possibilita a utilização como aplicativo no celular.
 
-Link para o app: http://ponto-app.magrathealabs.io/
-Link para o admin: http://ponto-admin.magrathealabs.io/
+Link para o app: https://ponto-app.magrathealabs.io/
+Link para o admin: https://ponto-admin.magrathealabs.io/
 
 Para ter acesso consulte o Carlos para que ele realiza seu cadastro na sistema.
 
